@@ -1,3 +1,10 @@
+# KURZ
+
+Werkzeug "Show Map Tips" auswählen
+Layer "Ausdolungspotenzial" auswählen
+
+-> Mit dem Cursor über den gewünschten Abschnitt fahren
+
 # Ausdolungspotenzial im Kanton Baselland
 
 Erstellt am 05.06.2025
@@ -32,7 +39,7 @@ Datei BL_Eindolungsinventar aufgeführt.
 
 ## Data
 
-### BL_Eindolungesinventar.csv
+### Datenquelle: BL_Eindolungesinventar.csv
 
 Daten des Eindolungsinventar der Fliessgewässer des Kantons
 Baselland. Informationen für jede Gemeinde einzeln von Arthur Rohrbach
@@ -67,7 +74,7 @@ Bemerkung	             Bemerkungen aus den Beobachtungen bei der
                          Erhebung 2012 von Pro Natura Baselland. Teils
 						 nachgeführt bei bekannten Ausdolungsprojekten.
 Foto im Bericht	         Wenn Bilder erstellt wurden, sind sie im 
-                         Dokument (Ordner Docs) unter "Informationsblatt"
+                         Dokument (Ordner Berichte) unter "Informationsblatt"
 						 zu finden. Mit Beschriftung der Gewässernummer
 						 oder der Seitenzahl
 Link zu GeoView BL
@@ -100,6 +107,7 @@ zuzüglich sind die Daten des Eindolungsinventars mit dem Prefix "BL_" versehen.
 Weitere Erklärungen zum Gewässernetz BL sind unter https://www.geo.bl.ch/datenbeschrieb_geodatenprodukt/50_Gewaessernetz_ESRI_Shapefile.pdf
 zugänglich.
 
+## Varia
 
 Author*innen:
 Thomas Fabbro, thomas.fabbro@pronatura.ch

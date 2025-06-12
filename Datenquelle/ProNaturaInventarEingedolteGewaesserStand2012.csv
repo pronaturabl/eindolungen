@@ -1,0 +1,1060 @@
+Gew_Nr,Gew_Name,l_total ,l_offen,l_offiziell_eingedolt,l_inoff_eingedolt,mögliche Ausdolung,Parzellen,Ausdolungspotenzial,Bemerkung,Foto im Bericht,Link zu GeoView BL,Informationsblatt,Eigentümer,Bewirtschafter,Gemeinde,Bezirk
+51.01,Rhein,900,900,0,,,,0,,-,,,,,Pratteln,Liestal
+51.04,Ergolz,1430,1430,0,,,,0,Renaturierung gemäss Richtplan vorgesehen,-,,,,,Pratteln,Liestal
+51.63,Hülftenbächli,1140,1090,50,,,,0,,-,,,,,Pratteln,Liestal
+51.101,Riedmattbächli,330,290,40,,,,0,mögliche Ausdolung siehe Riedmattbächli in Muttenz,-,,,,,Pratteln,Liestal
+51.201,Erlibächli,500,250,250,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept,-,,,,,Pratteln,Liestal
+51.202,Heulenlochbach,780,740,40,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept,-,,,,,Pratteln,Liestal
+51.203,Mädersrütibächli,380,210,170,,,,0,,-,,,,,Pratteln,Liestal
+51.204,Talbach,2170,1930,240,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept,-,,,,,Pratteln,Liestal
+51.205,Käppelimattbächli,400,300,100,,,,0,,-,,,,,Pratteln,Liestal
+23.04,Ergolz,2650,2650,0,,,,0,Revitalisierung gemäss Richtplan/Wasserbaukonzept vorgesehen (z.T. bereits erfolgt),-,,,,,Fuellinsdorf,Liestal
+23.38,Zettelbach,390,390,0,,,,0,,-,,,,,Fuellinsdorf,Liestal
+23.40,Ruschenbächli,1380,1030,350,,,,4,,23.40,Plan-link,Fuellinsdorf_Eindolungen_Bericht,,,Fuellinsdorf,Liestal
+23.63,Hülftenbächli,140,70,70,,,,0,eingedolter Abschnitt wird mit Bau der H2 (Anschluss Pratteln) freigelegt,-,,,,,Fuellinsdorf,Liestal
+23.15,Elbisbergbächli,40,40,0,,,,0,,-,,,,,Fuellinsdorf,Liestal
+23.201,Rüschgrabenbächli,1080,330,750,,,,0,"eingedolter Abschnitt vollumfänglich im bereits überbauten Gebiet, kein Platz, Erosionsgefahr aufgrund des sehr grossen Gefälles;   Baulicher Hochwasserschutz gemäss Waserbaukonzept",-,,,,,Fuellinsdorf,Liestal
+,Seitenast gegen SE im obersten Teil des Rüschgrabenbächlis,> 300,> 300,10,,,,0,"Ausdolung vermutlich  im Rahmen der Anlage des Naturschutzgebietes ""Brüschgraben"" mit zwei kleinen Weihern (Seitenast auf Planunterlagen Pro Natura und im GeoView nicht erfasst)",S. 2,Plan-link,Fuellinsdorf_Eindolungen_Bericht,,,Fuellinsdorf,Liestal
+22.63,Hülftenbächli,1480,1420,60,,,,0,eingedolter Abschnitt wurde mit Bau der H2 (Anschluss Pratteln) freigelegt,-,,,,,Frenkendorf,Liestal
+,Drainage-Seitenast Richtung Schönenberg,300,0,300,,,,0," regelmässige, intensive Ackerbaunutzung auf FFF; Speisung weitgehend durch Drainagen (Hauptstrang des alten Drainagenetzes I), ev. Erosionsgefahr durch starken Oberflächenzufluss bei offener Führung im oberen Abschnitt; Ausdolung im untersten Abschnitt entlang Familiengartenareal denkbar",22.63,Plan-link,Frenkendorf_Eindolungen_Bericht,,,Frenkendorf,Liestal
+22.64,Rösernbach,430,430,0,,,,0,,-,,,,,Frenkendorf,Liestal
+22.144,Dugmattbächli,70,70,0,,,,0,,-,,,,,Frenkendorf,Liestal
+22.201,Flüeacherbächli,270,220,50,,,,0,Ausdolung bereits erfolgt; Rest < 30 m Wegquerungen,-,,,,,Frenkendorf,Liestal
+22.202,Rischbächli,480,140,340,,240,2124,2,"im mittleren und unteren Abschnitt Ackerbau auf FFF, im untersten Teil wäre ev. offene Bachführung entlang Parzellengrenze denkbar; Wasserführung gut dank Reservoirüberlauf; Vernetzungswirkung wäre gut; Gefahr durch Hangwasser würde nicht erhöht",22.201,Plan-link,Frenkendorf_Eindolungen_Bericht,"Werner Stalder, Erbengem.",,Frenkendorf,Liestal
+,,,,,,,2104,0,,-,,,Gütergemeinschaft,,Frenkendorf,Liestal
+,,,,,,,2105,0,,-,,,Aktiengesellschaft Burgrain,,Frenkendorf,Liestal
+,,,,,,,2111,0,,-,,,Gemeinde Frenkendorf,,Frenkendorf,Liestal
+22.203,Lochmattbächli,230,90,140,,,2154,4,"Wasserführung nur nach Niederschlägen (Oberflächenwasser), Eindolung defekt (Wasseraufstoss und oberflächliche Vernässung); altes Betonbecken in Weide; Vernetzungswirkung zu isoliertem Wäldchen im oberen Teil wäre gross",22.203,Plan-link,Frenkendorf_Eindolungen_Bericht,"Zeller-Straumann J. Rüttigasse 1, ",,Frenkendorf,Liestal
+22.204,Weiherbächli,1910,930,980,,(300),,0,Ausdolung bereits erfolgt; restliche ca. 300 m der Eindolung verlaufen im Dorfkern ,-,,,,,Frenkendorf,Liestal
+,Verlängerung Weiherbächli im Tälchen unterhalb Adlerhof,,,,,> 300,div.,5,"Gute Wasserführung aus Quelle 34.9.E, Abfluss heute z.T. oberirdisch im vernässten Weideland; gute Vernetzungswirkung Richtung Wald",22.204,Plan-link,Frenkendorf_Eindolungen_Bericht,,,Frenkendorf,Liestal
+22.205,Rütenenbächli,290,130,160,,160,,3,"weitgehend FFF, Wasserführung gering, Eindolung teilweise durch alte Deponie überdeckt; Vernetzungswirkung zu isoliertem Wäldchen im oberen Teil wäre gross",22.205,Plan-link,Frenkendorf_Eindolungen_Bericht,,,Frenkendorf,Liestal
+40.05,Orisbach,860,840,20,,,,0,,-,,,,,Lupsingen,Liestal
+40.52,Riedbächli,100,100,0,,,,0,,-,,,,,Lupsingen,Liestal
+,2 Drainagesysteme nördlich Riedbächli 40.52,,,,,2 x 250,,3,,S. 2,Plan-link,Lupsingen_Eindolungen_Bericht,,,Lupsingen,Liestal
+40.98,Ruestelbächli,1050,970,80,,,,0,,-,,,,,Lupsingen,Liestal
+40.156,Hagenbächli,160,140,20,,,,0,,-,,,,,Lupsingen,Liestal
+,Drainagesystem in nord-östlicher  Verlängerung des Hagenbächlis,,,,,< 100,,2,kaum regelmässige Wasserführung zu erwarten,-,Plan-link,,,,Lupsingen,Liestal
+40.201,Langmattbächli,1370,540,830,,230,,5,"Ausdohlung entlang Strasse gemäss Wasserbaukonzept vorgesehen, zusammen mit der aus Süden einmündenden Drainage gute Vernetzungswirkung; im unteren Abschnitt Revitalisierung gemäss Wasserbaukonzept",40.201,Plan-link,Lupsingen_Eindolungen_Bericht,,,Lupsingen,Liestal
+,Drainage südöstlich Langmattbächli,,,,,> 300,,5,"Zumindest teilweise Offenlegung im unteren Abschnitt, gute Vernetzungswirkung zusammen mit Offenlegung von 40.201 (Langmattbächli)",40.201,Plan-link,Lupsingen_Eindolungen_Bericht,,,Lupsingen,Liestal
+40.202,Gartenbächli,230,100,130,,,,0,,-,,,,,Lupsingen,Liestal
+40.203,Stegmattenbächli,90,90,0,,,,0,,-,,,,,Lupsingen,Liestal
+39.04,Ergolz,3630,3630,0,,,,0,Renaturierung gemäss Richtplan vorgesehen; Baulicher Hochwasserschutz/Revitalisieriung  gemäss Wasserbaukonzept,-,,,,,Liestal,Liestal
+39.05,Orisbach,3260,3200,60,,,,0,Renaturierung für Abschnitt Knoll - Ergolz gemäss Richtplan vorgesehen; Baulicher Hochwasserschutz im Siedlungsgebiet gemäss Wasserbaukonzept; oberster Abschnitt als Überflutungs- und Retentionsgebiet,-,,,,,Liestal,Liestal
+39.08,Frenke,1950,1950,0,,,,0,Gemäss Wasserbaukonzept: Baulicher Hochwasserschutz im Bereich Hanro und Revitalisierung bei der Einmündung in die Ergolz,-,,,,,Liestal,Liestal
+39.64,Rösernbach,5400,4850,550,,,,0,,-,,,,,Liestal,Liestal
+,Drainagesystem im Gebiet Meienboden nödlich 39.64,,,,500,,,3,"im den oberen Teilen vermutlich geringe Wasserführung; intensive ackerbauliche Nutzung, unterer Abschnitt ev. prüfenswert",39.64,Plan-link,Liestal_Eindolungen_Bericht,,,Liestal,Liestal
+39.142,Chueftelbächli,260,260,0,,,,0,,-,,,,,Liestal,Liestal
+39.144,Dugmattbächli,210,210,0,,,,0,,-,,,,,Liestal,Liestal
+39.150,Elbisbergbächli,10,10,0,,,,0,,-,,,,,Liestal,Liestal
+39.201,Bintalbächli,1600,1020,580,, -,4168; 3282,0,Im Familiengartenareal ist aufgrund der intensiven Nutzung eine Öffnung kaum zu realisieren; in der Schiessanlage wurde das Gelände stark aufgeschüttet. Das Bintalbächli führt zudem nur nach Starkregen und über kurze Zeit Wasser.,39.201,Plan-link,Liestal_Eindolungen_Bericht,4168: Kanton BL;                  3282: EWG Liestal / VBS,,Liestal,Liestal
+39.202,Dietrichsbrunnenbächli,460,350,110,,,,0,,-,,,,,Liestal,Liestal
+39.203,Elbisbächli,1600,590,1010,,170,4558,4,unterer Abschnitt zwischen Heinis und Fraumattstrasse:  falls Öffnung entlang der heutigen Eindolung nicht möglich erscheint wäre offene Bachführung entlang der Siedlungsgrenze denkbar,39.203,Plan-link,Liestal_Eindolungen_Bericht,"SBB, 3000 Bern",,Liestal,Liestal
+,,,,,,,10,,,,,,Ida Salathe (Erbengem.),,Liestal,Liestal
+,,,,,,240,1993,4,oberster Abschnitt zwischen Deponie Elbisgraben und Elbis-Weiher (39.445):  offene Führung trotz streckenweiser Versickerung des permanent fliessenden Sauberwassers aus dem Gebiet Elbisgraben anzustreben; ev. Rückhaltesystem für Starkregen optimieren,39.203,Plan-link,Liestal_Eindolungen_Bericht,Gemeinde Liestal,,Liestal,Liestal
+39.204,Leberbrunnenbächli,300,240,60,,,,0,,-,,,,,Liestal,Liestal
+39.205,Schämpergbächli,1020,780,240,,> 300,300,5,Westast und Eindolung in der Verlängerung zum Weiher: Ausdolung würde gute Vernetzung bringen,39.205,Plan-link,Liestal_Eindolungen_Bericht,"Bad Schauenburg AG, Liestal",,Liestal,Liestal
+39.206,Vogelsangbächli,330,120,210,,,,0,,-,,,,,Liestal,Liestal
+39.207,Weidelibächli,520,160,360,,,,0,"ganzer Oberlauf bis zum Fuss der Deponie Höli in offener Bachführung, Wasserführung nur nach Regen; zusätzliche Flachweiher am Deponiefuss",39.207,Plan-link,Liestal_Eindolungen_Bericht,,,Liestal,Liestal
+5.12,Violenbach,4590,4410,180,,,,?,"ev. Verlängerung in Talachse oberhalb Hof ""Sennweid""?",-,,,,,Arisdorf,Liestal
+,Drainagesystem südlich des Violenbachs 5.12  ,,,,,300,,4,Ausdolung entlang Weg wäre mit bereits bestehender Hecke wertvolles Landschafts-/Vernetzungselement (Fusswegverbindung entlang Hecke geplant); vermutlich bescheidene Wasserführung  ,5.12,Plan-link,Arisdorf_Eindolungen_Bericht_Ost,"7500: Staatl. Pestalozzistiftung; 7003: Rufener-Richen R., Olsberg",,Arisdorf,Liestal
+5.13,Arisdörferbach,4480,3790,690,,,,0,im Siedlungsgebiet Hochwasserschutz gemäss Wasserbaukonzept,-,,,,,Arisdorf,Liestal
+,Drainagesystem unterhalb Hof Homberg  ,,,,,300,,4,Ausdolung im bereits naturnahen Graben wäre wertvolles Landschafts-/Vernetzungselement; vermutlich geringe Wasserführung ,5.13,Plan-link,Arisdorf_Eindolungen_Bericht_West,4056: Straumann-Kiefer W. (EG);      7012: Hofmann-Schmutz M. Arisd.,,Arisdorf,Liestal
+S 4,Ehemaliger Mühlekanal,,,,,< 200,,3,Ausdolung/Rekonstruktion im mittleren Abschnitt denkbar (eher kulturhistorische Aufwertungsmassnahme); Speisung aus Bradlizbach 5.201? ,5.13,Plan-link,Arisdorf_Eindolungen_Bericht_West,,,Arisdorf,Liestal
+S 5,Drainagesystem westlich des Arisdörferbachs 5.13  ,,,> 300,,300,7178:7180,4,im obersten und untersten untern Teil FFF;  dazwischen Weide; Vernetzungswirkung mässig (Autobahn); Wasserführung ?,5.13,Plan-link,Arisdorf_Eindolungen_Bericht_West,,,Arisdorf,Liestal
+5.38,Zettelbach,1120,1120,0,,320,,4,"In Verlängerung des südlichen Hauptastes besteht Drainagesystem mit gewissem Ausdolungspotential (v.a. unterer Abschnitt im Weideland), Wasserführung vermutlich bescheiden, aber als Landschafts-/Vernetzungselement wertvoll; im obersten Abschnitt: FFF, Wiese/Intensivkirschkulturen",5.38,Plan-link,Arisdorf_Eindolungen_Bericht_West,"7130: Gruber Andreas, Arisdorf; 7134: Zwimpfer Thomas, Arisdorf",,Arisdorf,Liestal
+5.201,Bradlizbach,1410,910,500,,220,7058,4,Ausdolung wäre als Landschafts-/Vernetzungselement wertvoll; gute Wasserführung;                                             im Siedlungsgebiet Hochwasserschutz gemäss Wasserbaukonzept,5.201,Plan-link,Arisdorf_Eindolungen_Bericht_Ost,"7061: Gerber Thomas, Bösingen; 7058: Stohler Fritz, Arisdorf",,Arisdorf,Liestal
+,Drainagesystem südlich des Bradlizbaches,,,,,300,,2,"Ausdolung würde intensiv genutztes Kulturland (FFF) zerschneiden, wäre aber als Landschafts-/Vernetzungselement wertvoll; gute Wasserführung ",5.201,Plan-link,Arisdorf_Eindolungen_Bericht_Ost,"7082: Weber-Dalcher, Arisdorf,  7083: Miescher Thomas, Arisdorf",,Arisdorf,Liestal
+5.202,Chänelbach,780,740,40,,,,0,,-,,,,,Arisdorf,Liestal
+5.203,Hinteres Chatzengrabenbächli,330,70,260,,200,7162,3,Ausdolung im oberen Abschnitt denkbar aber ohne grossen Stellenwert; im unteren Abschnitt würde intensiv genutztes Kulturland der Parzelle 7162 zerschnitten,5.203,Plan-link,Arisdorf_Eindolungen_Bericht_West,"7162: Beat Häring, Arisdorf",,Arisdorf,Liestal
+5.204,Erlenbächli,230,220,10,,,,0,,-,,,,,Arisdorf,Liestal
+5.205,Griesbächli,250,120,130,,,,0,zusammen mit 5.201 Bradlizbach prüfen,5.201,Plan-link,Arisdorf_Eindolungen_Bericht_Ost,,,Arisdorf,Liestal
+5.206,Nonnenbächli,170,160,10,,,,0,,-,,,,,Arisdorf,Liestal
+5.207,Saffholterenbach,400,400,0,,,,0,,-,,,,,Arisdorf,Liestal
+5.208,Schöffletenbächli,940,340,600,,530,7097,5,"Ausdolung im oberen Teil technisch gut machbar (bereits Ökofläche, Eigentum Gemeinde); im unteren Teil ev. Bachführung entlang dem südlichen Waldrand; gute Wasserführung,                                                                       Schutzzone für Quellen 31.2.A und 31.5.A steht Ausdolung entgegen",5.208,Plan-link,Arisdorf_Eindolungen_Bericht_Ost,,,Arisdorf,Liestal
+5.209,Widenbach,1300,700,600,,> 400,7160; 7161; 7162,5,"Ausdolung der langen Strecke  im Oberlauf wäre sehr wertvoll (Vernetzung, Landschaftselement), Wasserführung dank seitlicher Drainagesysteme gut, Bachlauf eher südlich entlang dem Weg, da Beschränkung Bewirtschaftung/Schattenwurf geringer (gilt aber auch als FFF)",5.209,Plan-link,Arisdorf_Eindolungen_Bericht_West,"7160: Steiner Max, Arisdorf;          7161: Schuler Walter, Arisdorf",,Arisdorf,Liestal
+,Drainagesystem südlich des eingedolten Abschnitts,,,> 400,,200,7159;7160,2,"Ausdolung würde intensiv genutztes Kulturland (FFF) der Parzellen 7159/7160 zerschneiden, wäre aber als Landschafts-/Vernetzungselement wertvoll; gute Wasserführung",5.209,Plan-link,Arisdorf_Eindolungen_Bericht_West,,,Arisdorf,Liestal
+,Drainagesystem westlich des Widenbachs 5.209,,,> 300,,400,7135; 7136; 7139,5,"Ausdolung entlang Weg (FFF) und in feuchter Geländemulde wäre wertvolles Landschafts-/Vernetzungselement; vermutlich gute Wasserführung  (Quelle am oberen Ende),",5.209,Plan-link,Arisdorf_Eindolungen_Bericht_West,"7135: Zwimpfer Thomas, Arisdorf; 7136: Schuler Walter, Arisdorf; 7139: Häring Beat, Arisdorf",,Arisdorf,Liestal
+S 3,Drainagesystem nördlich des Widenbachs 5.209,,,> 300,,400,7116; 7118,4,"im untern Teil intensiv bewirtschaftete FFF; vermutlich geringe Wasserführung  ,",5.209,Plan-link,Arisdorf_Eindolungen_Bericht_West,,,Arisdorf,Liestal
+5.210,Zimmermannsbächli,260,200,60,,,,0,Querung Autobahn,-,,,,,Arisdorf,Liestal
+5.211,Vorderes Chatzengrabenbächli,730,220,510,,> 400,,4,"Ausdolung allenfalls im mittleren/oberen Abschnitt (Parz. 7165; 7168), während unterer Teil (Parz. 7143; 7145; 7153) intensiv bewirtschaftete FFF betrifft, Wasserführung vermutlich bescheiden",5.211,Plan-link,Arisdorf_Eindolungen_Bericht_West,"7145 und 7153: Häring-Wyss/Häring-Reist, einf. Gesellschaft ",,Arisdorf,Liestal
+5.212,Gerimattbächli,150,0,150,,,,0,,-,,,,,Arisdorf,Liestal
+15.06,Hintere Frenke,3480,3480,0,,,,0,Revitalisierungund im Siedlungsgebiet baulicher Hochwasserschutz gemäss Wasserbaukonzept vorgesehen,-,,,,,Bubendorf,Liestal
+,Drainage im Gebiet Falkenrain (w. 15.06),,,> 300,,100,2406,4,"vermutlich nur geringe Wassermenge, ev. Quellüberlauf (33.26.E), ev. besseres Potenzial bei Drainage/Eindolung westlich des Hofs (Verlängerung 15.204 Öschbächli, Überlauf Quellen)",S. 1 + 2,Plan-link,Bubendorf_Eindolungen_Bericht,,,Bubendorf,Liestal
+15.07,Vordere Frenke,2960,2960,0,,,,0,Revitalisierungund gemäss Wasserbaukonzept vorgesehen,-,,,,,Bubendorf,Liestal
+15.08,Frenke,790,790,0,,,,0,,-,,,,,Bubendorf,Liestal
+15.34,Fluebach,1880,1860,20,,,,0,,-,,,,,Bubendorf,Liestal
+15.37,Schlossgrabenbächli,230,230,0,,,,0,,-,,,,,Bubendorf,Liestal
+15.52,Riedbächli,2120,1970,150,,0,,0,"Bach wurde in verschiedenen Abschnitten innerhalb des Waffenplatzes umgelegt (siehe Planlink), nur noch 3 kurze Eindolungen (max. 40 m), zusätzlicher offener Seitenast von Süden her (ca. 200 m, im Gewässerverzeichnis nicht erfasst)",S. 2,Plan-link,Bubendorf_Eindolungen_Bericht,,,Bubendorf,Liestal
+15.53,Sormattbächli,1320,1310,10,,,,0,,-,,,,,Bubendorf,Liestal
+15.54,Tannenbodenbächli,600,600,0,,,,0,,-,,,,,Bubendorf,Liestal
+15.155,Teufelenbächli,1180,930,250,,200,,1,"Öffnung der eingedolten Strecken wäre sehr aufwändig, da zuerst Platz geschaffen werden müsste (im Hofbereich und entlang Campingplatz); Baulicher Hochwasserschutz gemäss Wasserbaukonzept",-,Plan-link,,,,Bubendorf,Liestal
+15.201,Grosstannenbächli,720,680,40,,,,0,,-,,,,,Bubendorf,Liestal
+,Drainagesystem in Verlängerung des Grosstannenbächlis,,,,,250,,3,Ackerfläche (ev. offene Führung entlang Hangfuss möglich?),15.201,Plan-link,Bubendorf_Eindolungen_Bericht,,,Bubendorf,Liestal
+15.202,Imlisbergbächli,1020,820,200,,,,0,"Entgegen dem Gewässerkataster bereits offene Bachführung am Hof 'Oberes Talhaus' vorbei, Potential besteht eher bezüglich Bachraumgestaltung/Bepflanzung",15.202,Plan-link,Bubendorf_Eindolungen_Bericht,,,Bubendorf,Liestal
+,Drainagesystem in Verlän-gerung des Imlisbergbächlis,,,,,200,,3,"Vermutlich nur bescheidene Wasserführung, Ausdolung der Drainage vom Waldrand her aber prüfenswert",15.202,Plan-link,Bubendorf_Eindolungen_Bericht,,,Bubendorf,Liestal
+15.203,Kapfbächli,470,330,140,,,,5,Freilegung entlang der Strasse Bubendorf - Seltisberg wäre gut machbar (Ostrand des Waffenplatzes) und brächte bessere Vernetzung,15.203,Plan-link,Bubendorf_Eindolungen_Bericht,,,Bubendorf,Liestal
+15.204,Öschbächli,530,530,0,,,,0,siehe: Drainage westlich Hof Falkenrain,-,,,,,Bubendorf,Liestal
+15.205,Sunnweidbächli,500,260,240,,240,,4,"Ausdohlung entlang Weg / Parzellengrenzen sollte geprüft werden, da gute Vernetzungswirkung",15.205,Plan-link,Bubendorf_Eindolungen_Bericht,,,Bubendorf,Liestal
+15.206,Talholdenbächli,380,320,60,,?,,2,Offene Bachführung wäre grundsätzlich machbar,-,Plan-link,,,,Bubendorf,Liestal
+15.207,Wildensteinerbächli,2020,1560,460,,,,1,"Verlauf vollumfänglich im Siedlungsgebiet, auch alternative Bachführung durch Gewerbezone dürfte kaum mehr in Frage kommen; Baulicher Hochwasserschutz gemäss Wasserbaukonzept vorgesehen",15.207,Plan-link,Bubendorf_Eindolungen_Bericht,,,Bubendorf,Liestal
+,vermutete Drainage in Ver-längerung des Ost-Astes von 15.207,,,,,200,,4,vermutete Drainage (nicht im Meliorationskataster erfasst);  Ausdolung vom Waldrand her aber prüfenswert als Aufwertungselement im Schutzgebiet Wildenstein,15.207,Plan-link,Bubendorf_Eindolungen_Bericht,,,Bubendorf,Liestal
+25.12,Violenbach,1700,1560,140,,,,0,nur Querungen mit Strassen/Autobahn eingedolt,-,,,,,Giebenach,Liestal
+25.13,Arisdörferbach,10,10,0,,,,0,,-,,,,,Giebenach,Liestal
+25.38,Zettelbach,690,370,320,,,,0,,-,,,,,Giebenach,Liestal
+25.40,Ruschenbächli,1150,1010,140,,,,0,siehe auch 23.40 für Ast auf Gebiet der Gemeinde Füllinsdorf,25.40,Plan-link,Giebenach_Eindolungen_Bericht,,,Giebenach,Liestal
+,"Ruschenbächl, Seitenast Richtung Südosten",,,,bis zu 300 unter Einbezug der Drainage,,,1,"vollumfänglich FFF und intensiver Ackerbau/Kirschbaumgarten (-> Ausdolung höchstens entlang Weg), im untersten Abschnitt wird alte Deponie unterquert, Speisung ausschliesslich aus Drainagesystem mit begrenztem Einzugsgebiet",-,Plan-link,,,,Giebenach,Liestal
+25.201,Dingbächli,600,270,330,,,,0,"eingedolter Abschnitt vollumfänglich im bereits überbauten Gebiet, kein Platz, Erosionsgefahr aufgrund des grossen Gefälles;    Wasser stammt vermutlich v.a. aus Drainagesystem auf der Hochebene; Baulicher Hochwasserschutz gemäss Wasserbaukonzept",25.201,,Giebenach_Eindolungen_Bericht,,,Giebenach,Liestal
+72.06,Hintere Frenke,3900,3900,0,,,,0,"Aufwertung/Hochwasserschutz im Siedlungsgebiet gemäss Richtplan/Wasserbaukonzept vorgesehen, Revitalisierung im Abschnitt is Grenze Frenkendorf",-,,,,,Ziefen,Liestal
+,Drainagesystem im Gebiet Bickenberg,,,,400,200,,5,Öffnung bis zur Voreichstrasse hinunter würde Vernetzung des Biotops Bickenberg verbessern,S. 1,Plan-link,Ziefen_Eindolungen_Bericht,,,Ziefen,Liestal
+,Drainagesystem im Gebiet Chächbrunnen/Eggen-scheiden,,,,> 300,150,,4,,S. 1,Plan-link,Ziefen_Eindolungen_Bericht,,,Ziefen,Liestal
+72.32,Bütschenbächli,490,440,50,,,,0,,-,,,,,Ziefen,Liestal
+72.33,Cholmattbach,1130,1100,30,,,,0,,-,,,,,Ziefen,Liestal
+72.52,Riedbächli,1980,700,1280,,ca. 700,,5,"im unteren Abschnitt bis zur Verbindungsstrasse Ziefen-Lupsingen unbedingt anzustreben (gemäss Wasserbaukonzept zur Ausdolung vorgesehen), im oberen Abschnitt würde grosse Ackerflächen zerschnitten",72.52,Plan-link,Ziefen_Eindolungen_Bericht,,,Ziefen,Liestal
+72.113,Widenmattbächli,200,200,0,,,,0,,-,,,,,Ziefen,Liestal
+72.201,Ausmattbächli,660,610,50,,,,0,,-,,,,,Ziefen,Liestal
+72.202,Böschenmattbächli,720,280,440,,175,893,3,"grössere, ackerfähige Parzelle, ev. offene Führung entlang Parzellengrenze/Weg prüfen",72.202,Plan-link,Ziefen_Eindolungen_Bericht,Hans Recher (Erbengem.),,Ziefen,Liestal
+72.203,Dochelenbächli,560,300,260,,,,0,,-,,,,,Ziefen,Liestal
+72.204,Fraumattbach,650,510,140,,140,1098,5,offene Führung entlang Weg unbedingt anzustreben,72.204,Plan-link,Ziefen_Eindolungen_Bericht,"Kanton BL, Liestal",,Ziefen,Liestal
+72.205,Gorisenbächli,270,260,10,,,,0,,-,,,,,Ziefen,Liestal
+72.206,Höllbächli,600,230,370,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept,-,,,,,Ziefen,Liestal
+72.207,Mühlekanal (privat),520,450,70,,,,0,,-,,,,,Ziefen,Liestal
+72.208,Plattengassbächli,160,160,0,,,,0,,-,,,,,Ziefen,Liestal
+72.209,Rosacherbächli,270,160,110,,30,,4,"Eindolungsstrecke entlang Weg aufheben, siehe Foto zu 72.202",72.202/209,Plan-link,Ziefen_Eindolungen_Bericht,,,Ziefen,Liestal
+72.210,Rütelenbächli,1530,1430,100,,,,0,,-,,,,,Ziefen,Liestal
+72.211,Beuggenweidbächli,140,140,0,,,,0,,-,,,,,Ziefen,Liestal
+72.212,Chilchbodenbächli,110,60,50,,,,0,,-,,,,,Ziefen,Liestal
+72.213,Obertalrainbächli,190,190,0,,,,0,,-,,,,,Ziefen,Liestal
+36.04,Ergolz,1990,1990,0,,,,0,Renaturierung gemäss Richtplan vorgesehen,-,,,,,Lausen,Liestal
+,Drainage vom Hof Rüti zur Ergolz,,,,500,100,,3,"vermutlich nur geringe Wasserführung, aber ev. Quellüberlauf von 38.17.E, bereits sehr vielvältige Naturlandschaft mit angrenzenden Naturschutzgebieten",S. 1,Plan-link,Lausen_Eindolungen_Bericht,,,Lausen,Liestal
+,Drainagen im Gebiet der ehemaligen Rebflächen (obere Grammontstrasse),,,,> 500,> 100,,3,,S. 2,Plan-link,Lausen_Eindolungen_Bericht,,,Lausen,Liestal
+,Ableitung des Wassers aus den Drainagen im Gebiet Ringstrasse/Stutz,,,,300,> 100,,3,"ev. aufgrund der Tiefenlage ausgeschlossen, sonst als Gestaltungselement innerhalb des Quartierplans Stutz denkbar",S. 2,Plan-link,Lausen_Eindolungen_Bericht,,,Lausen,Liestal
+36.92,Buechholdenbächli,1800,1550,250,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept,-,,,,,Lausen,Liestal
+36.133,Gewerbekanal (privat),1380,1160,220,,,,0,,-,,,,,Lausen,Liestal
+36.142,Chueftelbächli,1040,540,500,,290,1007,0,"Bereich unter der Deponie ""Chueftel"" mit unterirdischem Zufluss des Bergwassers aus dem Arisdörfer-Tunnel; offene Bachführung für Teilstrom wurde im Rahmen des Deponieprojektes geprüft aber verworfen",-,Plan-link,,Gemeinde Lausen,,Lausen,Liestal
+36.201,Chirchbergbächli,240,40,200,,,,0,,-,,,,,Lausen,Liestal
+36.202,Furlenbächli,2200,1520,680,,,,0,"gemäss Wasserbaukonzept: Baulicher Hochwasserschutz  im Siedlungsgebiet, im oberen Abschnitt Revitalisierung vorgesehen",-,,,,,Lausen,Liestal
+,Drainagesystem Heinisboden (östlich 36.202 Furlenbächli),,,,300,> 100,,3,"Nordast vermutlich nur geringe Wasserführung, Südast mit Quelle 38.5.F, Wasser versickert laut Plan im alten Steinbruch, gute Vernetzungswirkung zum Wald",S. 3,Plan-link,Lausen_Eindolungen_Bericht,,,Lausen,Liestal
+,Drainagesystem im Gebiet Langacher (NW 36.202 Furlenbächli),,,,300,> 100,,4,"vermutlich nur geringe Wasserführung, entlang dem Bettlefeldweg als Vernetzungsachse / Landschaftselement prüfen",S. 4,Plan-link,Lausen_Eindolungen_Bericht,,,Lausen,Liestal
+,Quelle mit Überlauf im Gebiet Bättlete ,,,,,,,4,bereits bestehende Feuchtstelle aufwerten und entlang der Hangkante mit Hecke zu Landschaftselement ausbauen,S. 5,Plan-link,Lausen_Eindolungen_Bericht,,,Lausen,Liestal
+36.203,Edletenbächli,1170,1010,160,,,,0,,-,,,,,Lausen,Liestal
+60.05,Orisbach,1900,1900,0,,,,0,ganze Strecke als Überflutungs-/Retentionsgebiet gemäss Wasserbaukonzept,-,,,,,Seltisberg,Liestal
+60.08,Frenke,120,120,0,,,,0,,-,,,,,Seltisberg,Liestal
+60.201,Orismühlekanal (privat),480,300,180,,,,0,aufgehoben,-,,,,,Seltisberg,Liestal
+60.202,Hungerbrunnenbächli,140,130,10,,,,0,,-,,,,,Seltisberg,Liestal
+60.203,Bannholzbächli,620,590,30,,,,0,,-,,,,,Seltisberg,Liestal
+60.204,Ebermattbächli,250,230,20,,,,0,,-,,,,,Seltisberg,Liestal
+28.13,Arisdörferbach,430,190,240,,,,0,,-,,,,,Hersberg,Liestal
+,Drainage in Verlängerung des Arisdörferbachs Richtung Dorf,,,,,500,,4,Offene Bachführung entlang der Kantonsstrasse wäre zu prüfen,28.13,Plan-link,Hersberg_Eindolungen_Bericht,,,Hersberg,Liestal
+,südlicher Drainageast in Richtung Schward,,,,,170 u. 140 m.,,4,,28.13,Plan-link,Hersberg_Eindolungen_Bericht,,,Hersberg,Liestal
+28.142,Chueftelbächli,60,50,10,,,,0,,-,,,,,Hersberg,Liestal
+,Drainagesystem in Verlänge-rung des Chueftelbächlis Richtung Schward,,,,,200,,3,"offene Bachführung entlang Weg wäre machbar, Wasserführung im Normalfall wohl nur gering",28.13,Plan-link,Hersberg_Eindolungen_Bericht,,,Hersberg,Liestal
+52.07,Vordere Frenke,50,50,0,,,,0,,-,,,,,Ramlinsburg,Liestal
+52.79,Loochbächli,2000,1770,230,,,,0,,-,,,,,Ramlinsburg,Liestal
+52.86,Talbächli,90,90,0,,,,0,,-,,,,,Ramlinsburg,Liestal
+52.92,Buechholdenbächli,820,810,10,,,,0,,-,,,,,Ramlinsburg,Liestal
+1 (Siegfried-karte),E-Ast Buechholdebächli im Gebiet Althof,,,,,200,,3,"In der Talachse kaum Wasserführung, aber Wasserzutritt aus Richtung Norden bietet ev. Potenzial",S. 1,Plan-link,Ramlinsburg_Eindolungen_Bericht,,,Ramlinsburg,Liestal
+2 (Siegfried-karte),Verlängerung Buechholdebächli im Waldgebiet,,,,,0,,0,"Bächlein wir im wesentlichen durch Quellüberlauf gespeist, im Bereich darüber ist eine Wasserführung nur nach Starkregen zu erwarten",S. 2,Plan-link,Ramlinsburg_Eindolungen_Bericht,,,Ramlinsburg,Liestal
+52.155,Teufelenbächli,50,50,0,,,,0,,-,,,,,Ramlinsburg,Liestal
+7.01,Rhein,2230,2230,0,,,,0,,-,,,,,Augst,Liestal
+7.04,Ergolz,2480,2480,0,,,,0,"Renaturierung gemäss Richtplan vorgesehen; Revitalisierung ab Autobahnbrücke gemäss Wasserbaukonzept, anschliessend Überflutungs- und Retentionsgebiet",-,,,,,Augst,Liestal
+7.12,Violenbach,1950,1870,80,,,,0,,-,,,,,Augst,Liestal
+7.4,Ruschenbächli,900,0,900,,,,0,,-,,,,,Augst,Liestal
+S1,Bachlauf Siegfriedkarte,,,,,400,,2,Würde Unterquerung der Autobahn und Weiterführung bis zur Ergolz bedingen; denkbar wäre allenfalls offene Führung für Teilstrom mit anschliessender Versickerung im Ergolz-Schotter,-,Plan-link,,,,Augst,Liestal
+20.09,Diegterbach,1320,900,420,,,,0,,-,,,,,Eptingen,Waldenburg
+20.58,Witwaldbächli,700,670,30,,,,0,,-,,,,,Eptingen,Waldenburg
+20.60,Chürzibächli,1970,1870,100,,,,0,,-,,,,,Eptingen,Waldenburg
+20.201,Buchmattenbächli,300,240,60,,,,0,,-,,,,,Eptingen,Waldenburg
+20.202,Dürreggbächli (ab Gabelung),380,170,210,,210,,4,"gute  Wasserführung, zusammen mit Eindolung Schürmattbächli (insb. Parz. 1383) prüfen",20.202,Link,Eptingen_Eindolungen_Bericht,,,Eptingen,Waldenburg
+20.203,Feldbach,1680,1640,40,,,,0,,-,,,,,Eptingen,Waldenburg
+20.204,Gruebmattbach,760,460,300,,300,,5,gute  Wasserführung und gute Vernetzungswirkung,20.204,Link,Eptingen_Eindolungen_Bericht,,,Eptingen,Waldenburg
+20.205,Hölibächli,410,250,160,,,,0,,-,,,,,Eptingen,Waldenburg
+20.206,Leisibach,3820,3450,370,,,,0,,-,,,,,Eptingen,Waldenburg
+,Drainagen Richtung Hof Nieder Belchen,,,,500,300,,4,Wasserführung ? (in Sigfriedkarte als Bachlauf kartiert),20.206,Link,Eptingen_Eindolungen_Bericht,,,Eptingen,Waldenburg
+,Drainagen Richtung Chilchzimmersattel,,,,> 500,> 300,,4,einzelne Stränge in Sigfriedkarte als Bachlauf kartiert,20.206,Link,Eptingen_Eindolungen_Bericht,,,Eptingen,Waldenburg
+20.207,Lindbächli,400,190,210,,160,1467,4,"gute Vernetzungswirkung und Wasserführung, angrenzend Fruchtfolgeflächen",20.207,Link,Eptingen_Eindolungen_Bericht,,,Eptingen,Waldenburg
+,Drainagesystem SW (III) in Verlängerung  Lindbächli,,,,> 400,300,,5,"gute Vernetzungswirkung und vmtl. ausreichende Wasserführung, Weideland",-,Link,,,,Eptingen,Waldenburg
+,Drainagesystem SSW (II) ,,,,> 700,> 500,,3,"vmtl. ausreichende Wasserführung, betrifft landwirtschaftlich besser nutzbare Flächen",-,Link,,,,Eptingen,Waldenburg
+20.208,Neuhusbächli,880,300,580,,500,,5,"gute Wasserführung, Wiederherstellung eines früheren Landschaftselementes",20.208,Link,Eptingen_Eindolungen_Bericht,,,Eptingen,Waldenburg
+,Drainagen in Verlängerung Süsdostast,,,,500,> 300,,3,Wasserführung vermutlich bescheiden,-,Link,,,,Eptingen,Waldenburg
+20.209,Obertlochbach,2430,2270,160,,,,0,,-,,,,,Eptingen,Waldenburg
+20.210,Schürmattbächli,950,520,430,,130,1383,5,"Eindolung auf Parz. 1383 sollte aufgehoben werden, weiter unten ist Öffnung kaum realisierbar; entlang Waldrand/Waldweg  könnte Drainage gegen W geöffnet werden",20.210,Link,Eptingen_Eindolungen_Bericht,,,Eptingen,Waldenburg
+20.211,Stutzbächli,500,100,400,,> 300,,4,"im oberen Abschnitt Öffnung entlang Weg/Kantonsstrasse, im untersten Abschnitt ev. auch möglich",20.211,Link,Eptingen_Eindolungen_Bericht,,,Eptingen,Waldenburg
+20.212,Ussermattbach,2650,2310,340,,200,,4, Öffnung entlang Kantonsstrasse denkbar,20.212,Link,Eptingen_Eindolungen_Bericht,,,Eptingen,Waldenburg
+20.213,Welschrüttibächli,620,270,350,,250,,5, Öffnung im Weideland würde wertvolle Vernetzung bringen,20.213,Link,Eptingen_Eindolungen_Bericht,,,Eptingen,Waldenburg
+,Drainage West und Südwest,,,,je > 500 m,> 500,,4,"Drainage Südwest im oberen Abschnitt (Weideland) prüfen, Wasserführung ?",-,Link,,,,Eptingen,Waldenburg
+20.214,Wilbächli,1780,1470,310,,,,0, eingedolter Abschnitt beim Hof Griesse schwierig zu öffnen,-,Link,,,,Eptingen,Waldenburg
+,mehrere Drainagesysteme südl. und westlich Wilbächli,,,,> 500,500,,5,"bestes Potenzial bei Drainage Süd im Gebiet Will, da Speisung aus Wald",20.214,Link,Eptingen_Eindolungen_Bericht,,,Eptingen,Waldenburg
+20.215,Weierbächli,500,150,350,,,,0,,-,,,,,Eptingen,Waldenburg
+37.16,Lüssel,1620,1590,30,,,,0,,-,,,,,Lauwil,Waldenburg
+37.48,Eichmattbach,380,150,230,,200,,4,"entgegen den Angaben im Geoview ist Oberlauf eingedolt, Ausdolung auf Parz. 381 gut machbar",37.48,Link,Lauwil_Eindolungen_Bericht,,,Lauwil,Waldenburg
+37.93,Ämlisbach,930,930,0,,,,0,,-,,,,,Lauwil,Waldenburg
+37.94,Cheibgrabenbach,510,360,150,,,,0,,-,,,,,Lauwil,Waldenburg
+37.96,Vogelmattbach,240,220,20,,,,0,,-,,,,,Lauwil,Waldenburg
+37.162,Bürtenbach,1880,1870,10,,,,0,,-,,,,,Lauwil,Waldenburg
+37.201,Weidlibächli,350,340,10,,,,0,,-,,,,,Lauwil,Waldenburg
+37.202,Bogentalbach,2480,2460,20,,,,0,,-,,,,,Lauwil,Waldenburg
+37.203,Firstrainbach,560,480,80,,,,0,,-,,,,,Lauwil,Waldenburg
+,weitere Bachstrecken gemäss Sigfriedkarte im Oberlauf,,,,?,> 300,,5,es bestehen diverse Eindolung früherer Bachäste (S2) deren (partielle) Öffnung gut zu den Aufwertungsmassnahmen im Gebiet 'Goldseileren' passen würde ,37.203,Link,Lauwil_Eindolungen_Bericht,,,Lauwil,Waldenburg
+37.204,Geitenbach,1090,1080,10,,,,0,,-,,,,,Lauwil,Waldenburg
+37.205,Hollenbach,620,600,20,,,,0,,-,,,,,Lauwil,Waldenburg
+37.206,Lauwilbergbächli,590,530,60,,,,0,,-,,,,,Lauwil,Waldenburg
+37.207,Schlattbach,1600,1590,10,,,,0,,-,,,,,Lauwil,Waldenburg
+37.208,St. Romaibach,780,470,310,,150 + 100,,5,gutes Potenzial für eine Öffnung des obersten Abschnittes,37.208,Link,Lauwil_Eindolungen_Bericht,,,Lauwil,Waldenburg
+37.209,Vogelbergbach,1590,1470,120,,,,0,,-,,,,,Lauwil,Waldenburg
+37.210,Bündtacherbächli,220,180,40,,,,0,,-,,,,,Lauwil,Waldenburg
+67.07,Vordere Frenke,2500,2380,120,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.97,Weigistbach,270,270,0,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.110,Säuschwänkibach,700,700,0,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.111,Schelmenlochbächli,130,130,0,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.136,Schiltgrabenbächli,280,180,100,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.138,Bilsteinbach,80,80,0,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.157,Goldbrunnenbächli,40,40,0,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.158,Chellenbergbach,20,20,0,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.159,Wasserfallenweidbächli,40,40,0,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.165,Sennmattbächli,1280,980,300,,100,,4,"Drainage im Bereich Scheibenstand, ev. geringe Wasserführung, Ausdolung im Unterlauf gemäss Wasserbaukonzept geplant",-,Link,,,,Waldenburg,Waldenburg
+67.201,Blüemlisalpbächli,270,210,60,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.202,Brestenbergbächli,500,410,90,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.203,Chapfbächli,410,370,40,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.204,Gerstelbach,2050,1710,340,,100,,4,"Öffnung beim Hof Gerstel wäre anzustreben, Ausdolung im Unterlauf gemäss Wasserbaukonzept geplant",-,Link,,,,Waldenburg,Waldenburg
+67.205,Humbelbächli,420,400,20,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.206,Hornisrütibächli,1320,1300,20,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.207,Nünbrunnenbach,950,940,10,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.208,Rotherdbächli,480,470,10,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.209,Schellenbergbach,2440,2380,60,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.210,Wattelbach,1740,1650,90,,,,0,,-,,,,,Waldenburg,Waldenburg
+67.211,Wilbächli,230,200,30,,,,0,,-,,,,,Waldenburg,Waldenburg
+8.41,Bennwilerbach,1220,1030,190,,,,0,Eindolung im Dorfkern,-,,,,,Bennwil,Waldenburg
+8.42,Chänelbächli,620,570,50,,,,0,,-,,,,,Bennwil,Waldenburg
+,Drainagesystem Ost Richtung Ebnet,,,,>  300,200,,3,"im untern Abschnitt (Weideland) denkbar, oben Ackerbau, vermutlich geringe Wasserführung",S. 1,Link,Bennwil_Eindolungen_Bericht,,,Bennwil,Waldenburg
+8.43,Walibach,4880,4840,40,,,,0,,-,,,,,Bennwil,Waldenburg
+,Talung Richtung Schüsselrain (S2),,,,150?,150,,3,"Drainage im Weideland, im Wald vermutlich nur periodische Wasserführung",S. 2,Link,Bennwil_Eindolungen_Bericht,,,Bennwil,Waldenburg
+8.44,Zurütibächli,430,430,0,,,,0,,-,,,,,Bennwil,Waldenburg
+8.201,Bruggtalbächli,1020,570,450,,500,,6,Offene Bachführung im Rahmen der Rekultivierung der Inertstoffdeponie Bruggtal verbindlich festgelegt,-, -,,,,Bennwil,Waldenburg
+,Drainagesysteme Süd             und Ost (S1),,,,,0,,0,wird weitgehend von Deponie überdeckt,-, -,,,,Bennwil,Waldenburg
+8.202,Chilchtalbächli,950,880,70,,,,0,,-,,,,,Bennwil,Waldenburg
+8.203,Lammetbächli,880,220,660,,550,4 Parz,5,Offene Bachführung südwestlich des Weges  wäre zumindest im untern Abschnitt wertvolles Vernetzungselement,8.203,Link,Bennwil_Eindolungen_Bericht,,,Bennwil,Waldenburg
+8.204,Schremattbächli,1630,1590,40,,,,0,,-,,,,,Bennwil,Waldenburg
+8.205,Schwangenbächli,370,350,20,,,,0,,-,,,,,Bennwil,Waldenburg
+,Drainage in Verlängerung S,,,,,200,,3,vermutlich geringe Wasserführung,-,Link,,,,Bennwil,Waldenburg
+8.206,Zielebächli,490,300,190,,,,0,,-,,,,,Bennwil,Waldenburg
+,Drainage N Richtung Chnüttelacher,,,,,150,,3,vermutlich geringe Wasserführung,-,Link,,,,Bennwil,Waldenburg
+8.207,Züsbächli,580,200,380,,,,5,"im oberen Abschnitt vermutlich geringe Wasserführung, Intensiv-Obstkulturen, kurzes Stück untehalb Weg könnte gut offen gelegt werden",8.207,Link,Bennwil_Eindolungen_Bericht,,,Bennwil,Waldenburg
+8.208,Baumgartenbächli,80,70,10,,,,0,,-,,,,,Bennwil,Waldenburg
+8.209,Neumattbächli,120,110,10,,,,0,,-,,,,,Bennwil,Waldenburg
+8.210,Steimattbächli,330,80,250,,140,,3,im unteren Abschnitt im Konflikt mit Bewirtschaftung,-,Link,,,,Bennwil,Waldenburg
+,Verlängerung Ost (S3),,,,,200,,3,im oberen Teil vermutlich geringe Wasserführung,8.210,,Bennwil_Eindolungen_Bericht,,,Bennwil,Waldenburg
+8.211,Maiacherbächli,50,50,0,,,,0,,-,,,,,Bennwil,Waldenburg
+38.97,Weigistbach,2680,2540,140,,,,0,,-,,,,,Liedertswil,Waldenburg
+38.201,Weidligrabenbächli,380,260,120,,,,0,,-,,,,,Liedertswil,Waldenburg
+38.202,Wilhaulengrabenbächli,500,270,230,,230,,5,"gute Vernetzungswirkung, offene Führung ev. auch entlang Weg möglich",38.202,Link,Liedertswil_Eindolungen_Bericht,,,Liedertswil,Waldenburg
+4.32,Bütschenbächli,370,360,10,,,,0,,-, -,,,,Arboldswil,Waldenburg
+4.33,Cholmattbach,1300,1290,10,,,,0,,-, -,,,,Arboldswil,Waldenburg
+4.34,Fluebach,1700,1680,20,,,,0,,-, -,,,,Arboldswil,Waldenburg
+,Drainagesystem Süd beim Hof Schlif,,,,300,150,,3,"Drainage verläuft unterhalb Hofzufahrt in Baumgarten, oberhalb in Wiese; Transitgasleitung südlich der Verbindungsstrasse nach Niederdorf, Wasserführung?",S. 1,Link,Arboldswil_Eindolungen_Bericht,,,Arboldswil,Waldenburg
+,Drainagesystem Nord (Mülte - Mülteweid),,,,> 400,200,,4,"oberhalb Hof wäre offene Führung im Weideland denkbar, Wasserführung?",-,Link,,,,Arboldswil,Waldenburg
+4.35,Mapprechbächli  ,810,790,20,,,,0,Drainage in Verlängerung Südast siehe Gemeinde Titterten,-,Link,,,,Arboldswil,Waldenburg
+,Drainagesystem NW Richtung Teufi ,,,,> 400,300,,3,Drainage quert sehr viele Parzellen,S. 2,Link,Arboldswil_Eindolungen_Bericht,,,Arboldswil,Waldenburg
+4.36,Neuetenbächli,370,360,10,,,,0,,-, -,,,,Arboldswil,Waldenburg
+,Drainagesystem Richtung NE,,,,300,150,,3,"im unteren Abschnitt wäre Offenlegung entlang Weg denkbar, Wasserführung?",S. 3,Link,Arboldswil_Eindolungen_Bericht,,,Arboldswil,Waldenburg
+4.37,Schlossgrabenbächli,680,670,10,,,,0,,-, -,,,,Arboldswil,Waldenburg
+4.201,Baachbächli,330,20,310 ?,,230,,4,laut GeoView ist oberer Teil offen geführt; Öffnung im unteren Abschnitt (ev. entlang Hangfuss/Weg) brächte wertvolle Vernetzung;  Weiher Baach wurde 2012/13 saniert,4.201,Link,Arboldswil_Eindolungen_Bericht,,,Arboldswil,Waldenburg
+4.202,Ehrlibächli,120,120,0,,,,0,,-, -,,,,Arboldswil,Waldenburg
+4.203,Moosbächli,130,70,60,,,,0,,-,,,,,Arboldswil,Waldenburg
+44.07,Vordere Frenke,2000,2000,0,,,,0,,-,,,,,Niederdorf,Waldenburg
+44.36,Neuetenbächli,160,160,0,,,,0,,-,,,,,Niederdorf,Waldenburg
+44.37,Schlossgrabenbächli,1000,990,10,,,,0,,-,,,,,Niederdorf,Waldenburg
+44.42,Chänelbächli,1300,1040,260,,,,0,,-,,,,,Niederdorf,Waldenburg
+,ehemaliger Oberlauf/ Drainagen im Gebiet Dilleten,,,,> 500,,,2,"ehemalige Äste im Oberlauf (Siegfriedkarte 1950) sind Teil der umfassenden Drai-nagesysteme (auch Gebiete Gde. Oberdorf), intensiv genutzte Fruchtfolgeflächen",44.42,Link,Niederdorf_Eindolungen_Bericht,,,Niederdorf,Waldenburg
+44.54,Tannenbodenbächli,580,580,0,,,,0,,-,,,,,Niederdorf,Waldenburg
+44.102,Hofacherbächli,70,60,10,,,,0,,-,,,,,Niederdorf,Waldenburg
+44.103,Holdenbächli,180,110,70,,,,0,,-,,,,,Niederdorf,Waldenburg
+44.104,Grittbächli,210,10,200,,,,0,,-,,,,,Niederdorf,Waldenburg
+44.105,Leebächli,1510,1280,230,,130,,4,Öffnung des eingedolten Nordastes Richtung Unter Serzach entlang Weg,44.105,Link,Niederdorf_Eindolungen_Bericht,,,Niederdorf,Waldenburg
+44.145,Brunnenstigbächli,230,150,80,,,,0,,-,,,,,Niederdorf,Waldenburg
+44.201,Arxhofbächli,380,360,20,,,,0,,-,,,,,Niederdorf,Waldenburg
+44.202,Mettlenbächli,610,450,160,,,,0,,-,,,,,Niederdorf,Waldenburg
+,ehemaliger Oberlauf/ Drai-nagen im Gebiet Burghalde,,,,> 500,,,4,"ehemalige Äste im Oberlauf (Siegfriedkarte 1950) sind Teil der umfassenden Drai-nagesysteme, gutes Potenzial für südlichen Ast entlang Strasse",44.202,Link,Niederdorf_Eindolungen_Bericht,,,Niederdorf,Waldenburg
+44.203,Stutzbächli,560,50,510,,,,0,,-,,,,,Niederdorf,Waldenburg
+44.204,Zwüschenflüebächli,1470,1050,420,,360,,?,"Eindolung unter Deponie Werstel (belastetes Standort), offene Bachführung um Deponie herum möglich?",-,Link,,,,Niederdorf,Waldenburg
+33.53,Sormattbächli,400,400,0,,,,0,,-,,,,,Lampenberg,Waldenburg
+,3 Drainagesysteme in Verlängerung S - SE,,,,> 500,150,,2,"intensiv genutzte Fruchtfolgeflächen, ev. im unteren Abschnitt Öffnung entlang Parzellengrenze",33.53,Link,Lampenberg_Eindolungen_Bericht,,,Lampenberg,Waldenburg
+33.54,Tannenbodenbächli,510,500,10,100,,,0,,-,,,,,Lampenberg,Waldenburg
+,Drainage in Verlängerung SE-Ast (S1),,,,200,150,,4,eingedolter Bachlauf liegt grösstenteils in Naturschutzgebiet 'Weid hintere Obetsmatt',33.54,Link,Lampenberg_Eindolungen_Bericht,,,Lampenberg,Waldenburg
+33.81,Weidbächli,170,110,60,,,,0,,-,,,,,Lampenberg,Waldenburg
+33.86,Talbächli,1920,1590,330,,,,0,,-,,,,,Lampenberg,Waldenburg
+,Drainage in Richtung SW,,,,500,200,,5,Im unteren Abschnitt (Weideland) gutes Potenzial für offene Bachführung,33.86,Link,Lampenberg_Eindolungen_Bericht,,,Lampenberg,Waldenburg
+,Eindolung/Drainage in Verlängerung Richtung Dorf,,,,500,200,,4,gutes Potenzial für offenen Führung unterhalb und oberhalb Sportplatz,33.86,Link,Lampenberg_Eindolungen_Bericht,,,Lampenberg,Waldenburg
+33.145,Brunnenstigbächli,120,110,10,,,,0,,-,,,,,Lampenberg,Waldenburg
+33.201,Düriweidbächli,560,550,10,,,,0,,-,,,,,Lampenberg,Waldenburg
+,"Drainagen in Verlängerung SW-Ast, und Richtung S",,,,> 500,200,,3,Öffnung im untersten Abschnitt bis zum nächaten Flurweg denkbar,33.201,Link,Lampenberg_Eindolungen_Bericht,,,Lampenberg,Waldenburg
+66.32,Bütschenbächli,70,70,0,,,,0,,-,,,,,Titterten,Waldenburg
+66.33,Cholmattbächli,260,260,0,,,,0,2014 wurden ca. 70 m Eindolung zwischen dem oberen Ende des offenen Bachlaufes und dem Hof offen gelegt (Projektdossier Büro Goetz),-,Link,,,,Titterten,Waldenburg
+,"Drainagesystem in Verlän-gerung von 4.35 (Mapprech-bächli, Arboldswil)",,,,> 700,400,,5,"Die in der Siegfriedkarte von 1940 noch als Bachlauf verzeichnete Drainage quert relativ viele Parzellen, doch wäre offene Führung in Talsohle über eine grössere Strecke gut machbar, Speisung aus verschiedenen Seitenästen/Quellen",66.33,Link,Titterten_Eindolungen_Bericht,,,Titterten,Waldenburg
+66.35,Zülzmattbächli,400,280,120,,,,0,,-,,,,,Titterten,Waldenburg
+66.112,Fluegrabenbächli,610,600,10,,,,0,unterhalb der Klärteiche stark durch Abwasser belastet und daher biologisch massiv beeinträchtigt,-,,,,,Titterten,Waldenburg
+,Eindolung/Drainagen im Gebiet Brunneacher,,,,,130,,4,"Öffnung unterhalb Kantonsstrasse entlang bestehendem Fussweg, vermutlich geringe Wasserführung",Karte,Link,Titterten_Eindolungen_Bericht,,,Titterten,Waldenburg
+,Drainagen in Verlängerung  Richtung Dorf,,,,,200,,4,"Öffnung südlich entlang bestehendem Fahrweg bis zur Bauzone, vermutlich bescheidene Wasserführung",Karte,Link,Titterten_Eindolungen_Bericht,,,Titterten,Waldenburg
+66.201,Marchbächli,140,140,0,,,,0,,-,,,,,Titterten,Waldenburg
+66.202,Retschenbächli,220,220,0,,,,4,gemäss NVVT könnte der heute sichtbare Bachlauf im Bereich Retschenweidli verlängert und ev. durch einen Weiher ergänzt werden,-,Link,,,,Titterten,Waldenburg
+66.203,Rifensteinbächli,520,510,10,,,,0,,-,,,,,Titterten,Waldenburg
+18.09,Diegterbach,3950,3840,110,,,,0,Ausdolung gemäss Wasserbaukonzept ab Autobahn bis Gewerbegebiet geplant,-,,,,,Diegten,Waldenburg
+18.57,Rintelbächli,690,610,80,,,,0,,-,,,,,Diegten,Waldenburg
+18.58,Witwaldbächli,240,240,0,,,,0,,-,,,,,Diegten,Waldenburg
+18.132,Lammetbächli,70,70,0,210,200,,?,Aufgrund Nähe zur Grundwasserfassung Eimatt vermutlich nicht möglich,-,,,,,Diegten,Waldenburg
+18.201,Dangerenbächli,990,630,360,,130,,4,"Abschnitt im Mittellauf, vermutlich bescheidene Wasserführung",-,Link,,Ausdolung nicht erwünscht,,Diegten,Waldenburg
+18.202,Dietisbergbächli,1520,1070,450,,200,,4,Ausdohlung entlang Südrand von Parz. 2795 bereits erfolgt; Seitenast SE bietet noch Potential (allerdings vermtutlich bei geringer Wasserführung),18.202,Link,Diegten_Eindolungen_Bericht,,,Diegten,Waldenburg
+18.203,Eibächli,860,530,330,,160,,2,"Fruchtfolgefläche, kaum Vernetzungswirkung, da Riegel der Autobahn bestehen bleibt",-,Link,,,,Diegten,Waldenburg
+18.204,Erlibächli,820,370,450,,400,,3,"im mittleren Abschnitt grundsätzlich denkbar (ev. entlang Parzellengrenze), zerschneidet aber weiter unten Parzelle 2603",18.204,Link,Diegten_Eindolungen_Bericht,"Bereits kontaktiert, vorläufig aber kein Interesse",,Diegten,Waldenburg
+18.205,Flüeacherbächli,390,50,340,,,,0,Eindolung im Autobahnbereich,-,,,,,Diegten,Waldenburg
+18.206,Grundrainbächli,340,10,330,,150,,3,"im obern Abschnitt entlang Weg denkbar, Wasserführung?",18.205,Link,Diegten_Eindolungen_Bericht,,,Diegten,Waldenburg
+18.207,Helgenmattbächli,890,670,220,,,,3,"oberster Abschnitt ist entgegen Gewässerverzeichnis eingedolt, Wasserführung?",18.207,Link,Diegten_Eindolungen_Bericht,,,Diegten,Waldenburg
+18.208,Isentalbächli,1560,660,900,,150,,4,Eindolung im Mittelabschnitt,18.208,Link,Diegten_Eindolungen_Bericht,Ausdolung nicht erwünscht,,Diegten,Waldenburg
+,div. Drainagesysteme nördlich 18.208,,,,> 1000,?,,2,intensiv genutzte Ackerbauflächen,-,Link,,,,Diegten,Waldenburg
+,oberster Abschnitt und Drainagen in Verlängerung ,,,,400,200,,2,intensiv genutzte Ackerbauflächen,-,Link,,,,Diegten,Waldenburg
+18.209,Länzbächli,210,130,80,200,70 (u.) 200 (o),,4,"unten Ausdohlung prüfenswert, oben vmtl. geringe Wasserführung",18.209,Link,Diegten_Eindolungen_Bericht,,,Diegten,Waldenburg
+18.210,Rischmattbächli,1440,900,540,,200,,4,Abschnitt oberhalb Autobahn könnte entlag Weg geöffnet werden,-,Link,,,,Diegten,Waldenburg
+,Drainagen südl. 18.210,,,,,,,2,"intensiv genutzte Ackerbauflächen, vmtl. geringe Wasserführung", -,Link,,,,Diegten,Waldenburg
+18.211,Stampachbächli,1420,1220,200,,130,,3,Eindolung NE-Ast; vermutlich nur geringe Wasserführung,18.211,Link,Diegten_Eindolungen_Bericht,,,Diegten,Waldenburg
+,Verlängerung SE und Drainagesysteme ,,,,> 500,200,,3,"Ausdohlung entlang Weg im unteren Abschnitt denkbar, vmtl. bescheidene Wasserführung",S. 8,Link,Diegten_Eindolungen_Bericht,,,Diegten,Waldenburg
+18.212,Talbächli,840,620,220,,120,,4,im untersten Abschnitt könnte Bach ev. entlang Weg offen geführt werden; Grundwasserschutz?,18.212,Link,Diegten_Eindolungen_Bericht,,,Diegten,Waldenburg
+18.213,Rotacherbächli,,,,,,,2,"intensiv genutzte Ackerbauflächen, vmtl. geringe Wasserführung", -,Link,,,,Diegten,Waldenburg
+34.07,Vordere Frenke,3480,3410,70,,,,0,, -,,,,,Langenbruck,Waldenburg
+,Drianagesystem Bachtelen,,,,500,300,,3,, -,Link,,,,Langenbruck,Waldenburg
+34.88,Dellenbach,830,810,20,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.89,Musbächli,1330,1240,90,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.90,Schöntalbach,4840,4820,20,,,,0,, -,,,,,Langenbruck,Waldenburg
+,früherer Bachlauf südlich Schöntalweiher (S7),,,,200,200,,5,gemäss Sigfriedkarte bis ca. 1950 verzeichneter Seitenast; Drainage (nicht dokumentiert) speist mit Wasseraufstoss Schöntalweiher auf der Südseite ,34.90,Link,Langenbruck_Eindolungen_Bericht,,,Langenbruck,Waldenburg
+,früherer Bachlauf n. Schön-talbach bei U. Chilchzimmer,,,,650,200,,4,gemäss Sigfriedkarte bis ca. 1950 verzeichneter Seitenast; Drainage ist nicht dokumentiert aber durch Schächte markiert,34.90,Link,Langenbruck_Eindolungen_Bericht,,,Langenbruck,Waldenburg
+,weitere Bachstrecken gemäss Sigfriedkarte im Oberlauf,,,,?,,,0,"im Bereich Chilchzimmer ev. weitere Eindolung (S11) vorhanden, dagegen sind die Taläste gegen den Chilchzimmersattel hinauf ohne Eindolungen und nur selten wasserführend",34.90,Link,Langenbruck_Eindolungen_Bericht,,,Langenbruck,Waldenburg
+34.91,Spalenbach,2080,2030,50,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.130,Dänschbach,220,0,220,,200,,4,Öffnung in Absprache mit Kt. SO für den ganzen eingedolten Abschnitt prüfen,34.130,Link,Langenbruck_Eindolungen_Bericht,,,Langenbruck,Waldenburg
+34.138,Bilsteinbach,930,870,60,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.140,Dürstelbach,2480,2450,30,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.158,Chellenbergbach,1010,790,220,,220,,4,, -,Link,,,,Langenbruck,Waldenburg
+34.201,Sunnenweidbächli,90,30,60,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.202,Dürrenbergbach,1130,1110,20,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.203,Spittelmattbächli,340,340,0,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.204,Haubergbach,810,790,20,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.205,Husmattbächli,280,250,30,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.206,Humbelbach,2020,1990,30,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.207,Hüslimattbach,250,220,30,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.208,Holznachtbach,780,760,20,,250,,4,"ehemaliger Oberlauf (S 2), Wasserführung vmtl. gering",34.208,Link,Langenbruck_Eindolungen_Bericht,,,Langenbruck,Waldenburg
+34.209,Cherbächli,530,530,0,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.210,Chuenibächli,1840,1820,20,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.211,Chuenirainbach,620,570,50,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.212,Lochmattbächli,220,220,0,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.213,Neuhofbächli,630,410,220,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.214,Oberer Dürrenbergbach,380,360,20,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.215,Schattenweidbächli,510,500,10,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.216,Schwängibach,1600,1570,30,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.217,Schwängibergbächli,480,480,0,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.218,Wannenbach,730,690,40,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.219,Waldbach,2800,2640,160,,,,0,, -,,,,,Langenbruck,Waldenburg
+,weitere Bachstrecken gemäss Sigfriedkarte im Oberlauf,,,,?,,,0,im Bereich Rehagweid sind in den früher als Bachläufe verzeichneten Talästen kaum Eindolungen vorhanden  ,34.219,Link,Langenbruck_Eindolungen_Bericht,,,Langenbruck,Waldenburg
+34.220,Ziegelmattbächli,380,380,0,,,,0,, -,,,,,Langenbruck,Waldenburg
+34.221,Untere-Mattbächli,160,130,30,,,,0,, -,,,,,Langenbruck,Waldenburg
+46.07,Vordere Frenke,1460,1460,0,,,,0,, -,,,,,Oberdorf,Waldenburg
+46.43,Walibach,1220,1210,10,,,,0,, -,,,,,Oberdorf,Waldenburg
+,Drainage Schlossbrunnen,,,,,150,,4,Speisung durch Quellüberläufe,46.43,Link,Oberdorf_Eindolungen_Bericht,,,Oberdorf,Waldenburg
+46.97,Weigistbach,1490,1360,130,,,,0,, -,,,,,Oberdorf,Waldenburg
+46.102,Hofacherbächli,220,200,20,,,,0,, -,,,,,Oberdorf,Waldenburg
+46.103,Holdenbächli,210,120,90,,70,,5,Ausdohlung gemäss Projekt Büro Götz 2015 geplant (Wiesenbach mit begleitendem Hochstaudensaum),46.103,Link,Oberdorf_Eindolungen_Bericht,,,Oberdorf,Waldenburg
+46.104,Grittbächli,140,70,70,,,,0,, -,,,,,Oberdorf,Waldenburg
+46.105,Leebächli,400,390,10,,,,0,, -,,,,,Oberdorf,Waldenburg
+46.136,Schiltgrabenbächli,370,350,20,,,,0,, -,,,,,Oberdorf,Waldenburg
+46.165,Sennmattbächli,300,300,0,,,,0,, -,,,,,Oberdorf,Waldenburg
+46.201,Heimstenbächli,750,690,60,,,,0,, -,,,,,Oberdorf,Waldenburg
+46.202,Rüttmattbächli,400,0,400,,100,,4,unterhalb Bennwilerstrasse,Karte,Link,Oberdorf_Eindolungen_Bericht,,,Oberdorf,Waldenburg
+46.203,Widenbächli,1320,1020,300,,,,0,, -,,,,,Oberdorf,Waldenburg
+,"Ostast, unten eingedolt",,,,,150,,4,,46.203,Link,Oberdorf_Eindolungen_Bericht,,,Oberdorf,Waldenburg
+,"Ostast, Mitte eingedolt",,,,,150,,5,Bachöffnung als Aufwertung innerhalb der kommunalen Naturschutzzone ,46.203,Link,Oberdorf_Eindolungen_Bericht,,,Oberdorf,Waldenburg
+,Südast (Siegfridkarte),,,,,200,,5,Bachöffnung als Aufwertung innerhalb der kommunalen Naturschutzzone ,46.203,Link,Oberdorf_Eindolungen_Bericht,,,Oberdorf,Waldenburg
+29.07,Vordere Frenke,4200,4060,140,,,,0,, -,,,,,Hoelstein,Waldenburg
+29.41,Bennwilerbach,2210,2180,30,,,,0,, -,,,,,Hoelstein,Waldenburg
+29.44,Chapfbächli,790,530,260,,170,,4,"Öffnung des kurzen eingedolten Abschnitts würde gute Vernetzung bringen, Querung Transitgas?",29.44,Link,Hoelstein_Eindolungen_Bericht,,,Hoelstein,Waldenburg
+29.78,Holdenweidbächli,1490,1200,290,,,,0,, -,,,,,Hoelstein,Waldenburg
+29.79,Loochbächli,60,0,60,,,,0,, -,,,,,Hoelstein,Waldenburg
+29.80,Bannholdenbächli,1580,1250,330,,,,0,"entgegen Darstellung im GeoView sind rund 150 m des Bachlaufs unter Ablagerung  eingedolt, (belasteter Standort mit Untersuchungsbedarf)", -,Link,,,,Hoelstein,Waldenburg
+29.81,Weidbächli,430,390,40,,,,0,, -,,,,,Hoelstein,Waldenburg
+29.86,Talbächli,20,20,0,,,,0,, -,,,,,Hoelstein,Waldenburg
+29.201,Gugenbächli,80,80,0,,,,0,, -,,,,,Hoelstein,Waldenburg
+29.202,Biretenbächli,560,500,60,100,100,,3,"Verlängerung im Oberlauf (S 3), keine Drainage verzeichnet, vmtl. geringe Wasserführung",29.202,Link,Hoelstein_Eindolungen_Bericht,,,Hoelstein,Waldenburg
+29.203,Erlibächli,1230,790,440,,100,,4,"oberhalb Hof prüfen, unterhalb Hof: belasteter Standort mit Untersuchungsbedarf",29.203,Link,Hoelstein_Eindolungen_Bericht,,,Hoelstein,Waldenburg
+29.204,Gallmattbächli,620,520,100,,50,,4,"kurze eingedolte Abschnitt im Oberlauf, deren Öffnung zusammen mit Aufwertungs-massnahmen beim Bachsaum die Vernetzungswirkung wesentlich verbessern würden",29.204,Link,Hoelstein_Eindolungen_Bericht,,,Hoelstein,Waldenburg
+29.205,Gassenbach,1390,800,590,,100,,4,,29.205,Link,Hoelstein_Eindolungen_Bericht,,,Hoelstein,Waldenburg
+29.206,Gürblenbächli,520,420,100,,70,,4,"kurze eingedolte Abschnitt im Unterlauf, gutes Vernetzungspotenzial", -,Link,,,,Hoelstein,Waldenburg
+29.207,Hohlenbächli,560,360,200,,,,0,, -,,,,,Hoelstein,Waldenburg
+29.208,Leuenbergbächli,450,370,80,,,,0,, -,,,,,Hoelstein,Waldenburg
+,Verlängerung Richtung Ost,,,,,100,,3,"Drainage,  bescheidene Wasserführung",S. 6,Link,Hoelstein_Eindolungen_Bericht,,,Hoelstein,Waldenburg
+29.209,Ödlisbergbächli,450,380,70,,,,0,, -,,,,,Hoelstein,Waldenburg
+29.210,Fürholdenbächli,160,120,40,,,,0,, -,,,,,Hoelstein,Waldenburg
+29.211,Galgenbächli,360,20,340,,150,,3,"offene Führung südlich entlang Zufahrtsstrasse Campingplatz denkbar, geringe Wasserführung", -,Link,,,,Hoelstein,Waldenburg
+14.18,Seebach,1680,1580,100,,,,0,, -,,,,,Bretzwil,Waldenburg
+14.18,HWEK-Seebach,520,0,520,,,,0,, -,,,,,Bretzwil,Waldenburg
+14.48,Eichmattbach,70,0,70,,,,0,, -,,,,,Bretzwil,Waldenburg
+14.49,Chollochbach,1420,1390,30,,,,0,, -,,,,,Bretzwil,Waldenburg
+,Talung Riedbergboden (S2),,,,,,,0,"keinen Eindolung, Talung führt höchstens nach Starkregen Wasser",14.49,Link,Bretzwil_Eindolungen_Bericht,,,Bretzwil,Waldenburg
+14.50,Nunningerbächli,860,500,360,,,,0,eingedolte/offene Strecken prüfen, -,,,,,Bretzwil,Waldenburg
+14.129,Dietelbächli,230,230,0,,,,0,, -,,,,,Bretzwil,Waldenburg
+14.201,Aubach,1960,1910,50,,,,0,, -,,,,,Bretzwil,Waldenburg
+,Verlängerung SW-Ast (S3),,,,,,,0,"keinen Eindolung, Talung führt höchstens nach Starkregen Wasser",14.201,,Bretzwil_Eindolungen_Bericht,,,Bretzwil,Waldenburg
+,Verlängerung Ostast,,,,,,,3,Drainagesystem mit geringer Wasserführung,14.201,Link,Bretzwil_Eindolungen_Bericht,,,Bretzwil,Waldenburg
+14.202,Büelbächli,730,400,330,,200,,5,"Eindolung im Siedlungsgebiet lässt sich kaum korrigieren, im Oberlauf ist Ostast eingedolt und weist hohes Potenzial für Ausdolung auf",14.202,Link,Bretzwil_Eindolungen_Bericht,,,Bretzwil,Waldenburg
+14.203,Chrachenbächli,780,760,20,,,,0,, -,,,,,Bretzwil,Waldenburg
+14.204,Freisnechtbächli,540,330,210,,200,,5,Verbindung zwischen dem offen geführten Ober- und Unterlauf wäre wertvolle Vernetzungsachse,14.204,Link,Bretzwil_Eindolungen_Bericht,,,Bretzwil,Waldenburg
+14.205,Pfarrmattbächli,420,330,90,,,,0,, -,,,,,Bretzwil,Waldenburg
+14.206,Rennenbach,760,630,130,,,,0,, -,,,,,Bretzwil,Waldenburg
+,Drainage Richtung W (S1) und Strang Richtung Süd,,,,300 + 500 + 300,> 500,,4,"früherer Bachlauf entlang Strasse (S1) und Drainage Richtung West bieten gutes Potenzial, Wasserführung vermutlich bescheiden",S. 5,Link,Bretzwil_Eindolungen_Bericht,,,Bretzwil,Waldenburg
+,Drainage Richtung  NW,,,,400,300,,3,"im untern Teil landwirtschaftlich intensiv bewirtschaftet, Wasserführung ?", -,Link,,,,Bretzwil,Waldenburg
+14.206,HWEK-Rennenbach,90,0,90,,,,0,, -,,,,,Bretzwil,Waldenburg
+14.207,Sagibächli,280,160,120,150,100,,4,Ausdolung im Siedlungsgebiet schwierig aber Drainagesystem im Oberlauf bietet Potenzial (Verbunden mit Renaturierung im Mittelteil),14.207,Link,Bretzwil_Eindolungen_Bericht,,,Bretzwil,Waldenburg
+14.208,Wäschbächli,990,550,440,,250,,5,Ausdolung im unteren Abschnitt schwierig aber im Mittelabschnitt gutes Potenzial (kommunales Naturschutzgebiet),14.208,Link,Bretzwil_Eindolungen_Bericht,,,Bretzwil,Waldenburg
+14.209,Winkelbächli,1360,1180,180,,,,0,, -,,,,,Bretzwil,Waldenburg
+14.210,Laublochbächli,80,70,10,,,,0,, -,,,,,Bretzwil,Waldenburg
+14.211,Muserhölzlibächli,90,80,10,,,,0,, -,,,,,Bretzwil,Waldenburg
+53.06,Hintere Frenke,5170,4900,270,,,,0,"in der Siegfriedkarte von 1946 verzeichnete Seitenäste (S3, S4) unter der Bürtenfluh weisen keine regelmässige Wasserführung auf",53.06,Link,Reigoldswil_Eindolungen_Bericht,,,Reigoldswil,Waldenburg
+53.32,Bütschenbächli,230,230,0,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.93,Ämlisbach,790,750,40,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.94,Lauwilerbächli,240,230,10,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.96,Rüschelbach,1600,1560,40,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.110,Säuschwänkibach,410,380,30,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.111,Schelmenlochbächli,160,140,20,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.112,Wolbächli,1000,970,30,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.113,Widenmattbächli,1080,100,980,,> 700,1041,4,ganze eingedolte Bachstrecke auf Parzelle 104 1der Bürgergemeinde Reigoldswil,53.113,Link,Reigoldswil_Eindolungen_Bericht,,,Reigoldswil,Waldenburg
+53.157,Goldbrunnenbächli,250,230,20,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.159,Wasserfallenweidbächli,60,50,10,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.162,Bürtenbach,50,50,0,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.201,Bergmattenbächli,440,340,100,,200,,5,In der Siegfriedkarte von 1946 verzeichneter Oberlauf im Weideland,53.201,Link,Reigoldswil_Eindolungen_Bericht,,,Reigoldswil,Waldenburg
+53.202,Chollochbächli,330,320,10,,200,,5,In der Siegfriedkarte von 1946 verzeichneter Oberlauf im Weideland,53.202,Link,Reigoldswil_Eindolungen_Bericht,,,Reigoldswil,Waldenburg
+53.203,Eichenbächli,800,500,300,,120,,3,führt mitten durch Fruchtfolgefläche, -,Link,,,,Reigoldswil,Waldenburg
+53.204,Bütschenmattbächli,280,180,100,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.205,Marchbächli,700,340,360,,300,,5,Durchgehende Öffnung der noch eingedolten Abschnitte würde Vernetzungswirkung entlang dem Weg wesentlich verbessern,53.205,Link,Reigoldswil_Eindolungen_Bericht,,,Reigoldswil,Waldenburg
+53.206,Marchmattbächli,290,250,40,,150,,4,"leicht vernässte Mulde, Wasserführung und Vernetzungswirkung eher gering",53.205,Link,Reigoldswil_Eindolungen_Bericht,,,Reigoldswil,Waldenburg
+53.207,Mettlimattbächli,410,400,10,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.208,Neuhofbächli,500,420,80,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.209,Stöckmattbächli,660,470,190,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.210,Wannenbächli,240,140,100,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.211,Wasserfallenbächli,280,260,20,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.212,Widenbächli,290,0,290,,300,1041,4,ganze eingedolte Bachstrecke auf Parzelle 1041 der Bürgergemeinde Reigoldswil,53.212,Link,Reigoldswil_Eindolungen_Bericht,,,Reigoldswil,Waldenburg
+53.213,Dyg (privat),280,70,210,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.214,Gorisenbächli,280,150,130,,110,1127,4,"ev. offene Bachführung entlang Flurweg prüfen, gute Vernetzungswirkung",53.214,Link,Reigoldswil_Eindolungen_Bericht,,,Reigoldswil,Waldenburg
+53.215,Gorisenweidbächli,360,100,260,,,,0,im GeoView nur noch rund 100 m Gewässerlänge verzeichnet, -,,,,,Reigoldswil,Waldenburg
+53.216,Babertenbächli,80,60,20,,,,0,, -,,,,,Reigoldswil,Waldenburg
+53.217,Grundbächli,800,530,270,,100,,3,"geringe Wasserführung, kaum Vernetzungswirkung",53.217,Link,Reigoldswil_Eindolungen_Bericht,,,Reigoldswil,Waldenburg
+53.218,Staacherbächli,80,80,0,,,,0,, -,,,,,Reigoldswil,Waldenburg
+16.1,Homburgerbach,1800,1420,380,,,,0,Wasserbaukonzept sieht  Massnahmen zum baulichen Hochwasserschutz im Siedlungsbereich (Priorität mittel) sowie Revitalisierung unterhalb Dorf  bis Gemeindegrenze vor (Priorität niedrig), -,,,,,Buckten,Sissach
+16.55,Fellibächli,580,110,470,,> 300,,3,Drainagesystem im Gebiet Galgenacher (offene Führung Hauptstrang entlang Weg); Wasserbaukonzept sieht Ausdolung im Abschnitt oberhalb des Dorfes vor (Priorität mittel; siehe auch Ausdolung des Abschnittes Känerkinden),16.55,Link,Buckten_Eindolungen_Bericht,,,Buckten,Sissach
+16.201,Hornbergbächli,630,50,580,,>300,,5,,16.201,Link,Buckten_Eindolungen_Bericht,,,Buckten,Sissach
+30.04,Ergolz,1450,1450,0,,,,0,, -,,,,,Itingen,Sissach
+30.82,Atlistenbächli,700,610,90,,,,0,, -,,,,,Itingen,Sissach
+30.83,Talbächli,2410,1530,880,,200,,?,ev. Öffung des Abschnittes im Perimeter des Quartierplanes Gstadmatt-Ost, -,Link,,,,Itingen,Sissach
+30.133,Gewerbekanal (privat),80,80,0,,,,0,, -,,,,,Itingen,Sissach
+30.141,Weiermattbächli,100,0,100,,,,0,, -,,,,,Itingen,Sissach
+30.201,Flüelibächli,680,540,140,,,,0,, -,,,,,Itingen,Sissach
+30.202,Weidbächli,270,270,0,,,,0,, -,,,,,Itingen,Sissach
+30.203,Lichsbächli   (kein öffentliches Gewässer),450,70,380,,265 ??,,?,Kirschbaum-Intensivkultur, -,Link,,,,Itingen,Sissach
+17.15,Buuserbach,1800,1480,320,,,,0,, -,,,,,Buus,Sissach
+17.56,Cholmattbächli,220,220,0,,,,3,"Eindolung/Drainagesystem in der Verlängerung ist in den Drainageplänen nicht verzeichnet, aber auf Siegfriedkarte als offener Bachlauf ausgewiesen", -,Link,,,,Buus,Sissach
+17.154,Cholholzbächli,400,150,250,,250,,4,"Grenzbach Buus/Rickenbach, Ausdolung müsste aus praktischen Gründen auf Gebiet der Gemeinde Rickenbach erfolgen (siehe Bericht Rickenbach)", -,Link,,,,Buus,Sissach
+17.201,Binzholdenbächli,1100,870,230,,50 + 70,,4,Ausdolung im untersten Abschnitt und beim Hof Heimeren prüfen (weitere Drainagesysteme im Oberlauf vorhanden),17.201,Link,Buus_Eindolungen_Bericht,,,Buus,Sissach
+17.202,Cherbächli,910,690,220,,,,0,Eindolung im Siedlungsgebiet, -,,,,,Buus,Sissach
+17.202,HWEK - Cherbächli,510,0,510,,,,0,Eindolung im Siedlungsgebiet, -,,,,,Buus,Sissach
+17.203,Chräbsbächli,460,0,460,,230,,4,Ausdolung nödlich des Siedlungsgebietes und entlang Schwimmbad prüfen,17.203,Link,Buus_Eindolungen_Bericht,,,Buus,Sissach
+17.204,Chummengrabenbach,2130,1840,290,,,,0,, -,,,,,Buus,Sissach
+17.205,Summerstallbächli,780,600,180,,,,0,, -,,,,,Buus,Sissach
+17.206,Stockacherbächli,230,110,120,,,,0,, -,,,,,Buus,Sissach
+17.207,Wabigenbächli,980,490,490,,300,,5,, -,Link,,,,Buus,Sissach
+17.208,Wasserrisletenbächli,300,150,150,,,,0,, -,,,,,Buus,Sissach
+17.209,Wibitalbächli,1280,950,330,,> 300,,5,Ausdolung bei verschiedenen eingedolte Zwischenstücken/Drainagesystemen prüfen,17.209,Link,Buus_Eindolungen_Bericht,,,Buus,Sissach
+17.209,HWEK - Wibitalbächli,130,0,130,,,,,,,,,,,Buus,Sissach
+17.210,Talbächli,980,830,150,,,,0,"Eingriffe aufgrund der Lage in der Grundwasserschutzzone heikel, Wasserbaukonzept sieht aber Notwendigkeit für bauliche Hochwasserschutzmassnahmen", -,,,,,Buus,Sissach
+12.04,Ergolz,1480,1460,20,,,,0,Wasserbaukonzept sieht im Abschnitt Hofmatt - Ergolz Massnahmen zur Revitalisierung vor (Priorität niedrig), -,,,,,Böckten,Sissach
+12.10,Homburgerbach,110,110,0,,,,0,, -,,,,,Böckten,Sissach
+12.47,Ischlagbächli,30,30,0,,,,0,, -,,,,,Böckten,Sissach
+12.201,Eibächli,650,460,190,,,,5,"Eindolung entlang Parz. 223/224 defekt -> Bachöffnung dringend, oberer Abschnitt der Eindolung ebenfalls hohes Potential; Wasserbaukonzept sieht für ganzen Bachlauf Massnahmen zum baulichen Hochwasserschutz vor (Priorität hoch)",12.201,Link,Böckten_Eindolungen_Bericht,,,Böckten,Sissach
+12.201,HWEK-Eibächli,130,0,130,,,,0,, -,,,,,Böckten,Sissach
+12.202,Hinterdorfbächli,1050,610,440,,,,0,Wasserbaukonzept sieht Ausdolung im Siedlungsgebiet vor (Priorität mittel), -,,,,,Böckten,Sissach
+12.203,Rebacherbächli,200,130,70,,,,4,kurzes Zwischenstück offenen und  Ufergehölz/Krautsaum ergänzen,12.203,Link,Böckten_Eindolungen_Bericht,,,Böckten,Sissach
+12.204,Golchenbächli,70,60,10,,,,0,, -,,,,,Böckten,Sissach
+12.205,Lambergbächli,130,110,20,,,,0,, -,,,,,Böckten,Sissach
+19.1,Homburgerbach,1400,1400,0,,,,0,, -,,,,,Diepflingen,Sissach
+19.59,Hölstenbächli,500,300,200,,120,,4,,19.59,Link,Diepflingen_Eindolungen_Bericht,,,Diepflingen,Sissach
+19.201,Beckenmattbächli,100,100,0,,,,0,, -,,,,,Diepflingen,Sissach
+19.202,Gritbächli,460,260,200,,200,,3,Bächlein quert Grundwasserschutzareal,19.202,Link,Diepflingen_Eindolungen_Bericht,,,Diepflingen,Sissach
+19.203,Schübletenbächli,520,250,270,,,,1,Nähe Grundwasserfassung Beckenmatt, -,Link,,,,Diepflingen,Sissach
+19.204,Steinholdenbächli,710,500,210,,,,0,Wasserbaukonzept sieht Massnahmen zum baulichen Hochwasserschutz vor (Priorität niedrig)  -> auch Möglichkeit für offene Bachführung prüfen, -,,,,,Diepflingen,Sissach
+19.205,Zünbächli,490,300,190,,100,,5,,19.205,Link,Diepflingen_Eindolungen_Bericht,,,Diepflingen,Sissach
+32.11,Eibach,700,700,0,,,,0,, -,,,,,Kilchberg,Sissach
+32.75,Chrintelbach,400,400,0,,,,0,, -,,,,,Kilchberg,Sissach
+32.84,Laufenmattbächli,200,180,20,,,,0,, -,,,,,Kilchberg,Sissach
+32.85,Sagenmattbächli,210,210,0,,,,0,, -,,,,,Kilchberg,Sissach
+32.201,Chilchtelbächli,270,240,30,,,,0,, -,,,,,Kilchberg,Sissach
+32.202,Tschomattbächli,320,310,10,490,500,,4,Drainagen Richtung Tschomatt und Ried (oberer Teil: Gemeinde Zeglingen), -,Link,,,,Kilchberg,Sissach
+32.203,Weidbächli,120,120,0,,,,0,, -,,,,,Kilchberg,Sissach
+32.199,Regenwasserableitung Weiermatt (zugehöriges Drainagesystem),,,,> 300,> 300,,3,"vorwiegend Ackerland, Drainage wurde kürzlich saniert", -,Link,,,,Kilchberg,Sissach
+24.04,Ergolz,1900,1730,170,,,,0,Wasserbaukonzept sieht Massnahmen zum baulichen Hochwasserschutz vor (Priorität hoch), -,,,,,Gelterkinden,Sissach
+24.11,Eibach,2480,2480,0,,,,0,Wasserbaukonzept sieht oberhalb des Siedlungsgebietes Massnahmen zur Schaffung eines Überflutungs- und Retentionsgebietes vor (Priorität hoch), -,,,,,Gelterkinden,Sissach
+24.47,Ischlagbächli,170,170,0,,,,0,, -,,,,,Gelterkinden,Sissach
+24.65,Chuenibächli,110,0,110,,,,0,, -,,,,,Gelterkinden,Sissach
+24.66,Marenbächli,270,100,170,,,,0,"Eindolung innerhalb Siedlungsgebiet, Abschnitt von 110 m auf Parz. 818 seit 2010 offen", -,,,,,Gelterkinden,Sissach
+24.67,Muttibächli,430,330,100,,75,,4,wäre zusammen mit trockener Böschung wertvolles Naturobjekt (Tiefenlage?),24.67,Link,Gelterkinden_Eindolungen_Bericht,,,Gelterkinden,Sissach
+24.68,Mületenbächli,2220,2190,30,,,,0,, -,,,,,Gelterkinden,Sissach
+24.69,Schöftletenbächli,700,690,10,,,,0,, -,,,,,Gelterkinden,Sissach
+24.70,Rickenbächli,1520,1300,220,,,,0,Eindolung weitgehend innerhalb Siedlungsgebiet; Wasserbaukonzept sieht Massnahmen zum baulichen Hochwasserschutz vor (Priorität hoch), -,,,,,Gelterkinden,Sissach
+24.71,Zweigrabenbächli,600,600,0,,,,0,, -,,,,,Gelterkinden,Sissach
+24.148,Rainenbächli,200,30,170,,150,,4,zusammen mit Usseri-Rötenbächli (24.206),24.148,Link,Gelterkinden_Eindolungen_Bericht,,,Gelterkinden,Sissach
+24.149,Sommeraubächli,10,10,0,,,,0,, -,,,,,Gelterkinden,Sissach
+24.201,Ärntholdenbächli,570,380,190,,150,,3,Querung Bahntrassee erschwert Ausdolung des ganzen Bachlaufes,24.201,Link,Gelterkinden_Eindolungen_Bericht,,,Gelterkinden,Sissach
+24.202,Chöpflibächli,1060,590,470,,,,0,Eindolung innerhalb Siedlungsgebiet, -,,,,,Gelterkinden,Sissach
+24.203,Frändletenbächli,2020,1820,200,,,,0,Eindolung innerhalb Siedlungsgebiet; Wasserbaukonzept sieht Massnahmen zum baulichen Hochwasserschutz vor (Priorität mittel)), -,,,,,Gelterkinden,Sissach
+24.204,Lättenbächli,370,140,230,,150,,4,offene Bachführung entlang Weg prüfen,24.204,Link,Gelterkinden_Eindolungen_Bericht,,,Gelterkinden,Sissach
+24.205,Munibächli,640,600,40,,,,0,, -,,,,,Gelterkinden,Sissach
+24.206,Usseri-Rötenbächli,150,70,80,,80,,4,zusammen mit Rainenbächli (24.148),24.206,Link,Gelterkinden_Eindolungen_Bericht,,,Gelterkinden,Sissach
+24.207,Rorbächli,800,430,370,,,,0,Eindolung weitgehend innerhalb Siedlungsgebiet; Wasserbaukonzept sieht Massnahmen zum baulichen Hochwasserschutz vor (Priorität hoch), -,,,,,Gelterkinden,Sissach
+24.208,Inneri-Rötenbächli,100,100,0,,,,0,, -,,,,,Gelterkinden,Sissach
+24.209,Weielenbächli,920,700,220,,,,0,, -,,,,,Gelterkinden,Sissach
+24.210,Zangenbächli,1210,1150,60,,,,0,, -,,,,,Gelterkinden,Sissach
+24.211,Buholdenbächli,570,320,250,,300,,4,"eingedolter Abschnitt bereits als Uferschutzzone ausgeschieden, alternativ wäre offen Führung zum Rorbächli zwischen Parz. 211/212 denkbar",24.211,Link ,Gelterkinden_Eindolungen_Bericht,,,Gelterkinden,Sissach
+31.55,Fellibächli,820,0,550,,500,,5,"ca. 300 m wurden 2012/13 von TBA in Zusammenarbeit mit Gemeinde ausgedolt, Wasserbaukonzept sieht Ausdolung des ganzen Bachlaufes vor (Priorität mittel, siehe auch analoge Einstufung für Abschnitt Buckten)",31.55,Link ,Kaenerkinden_Eindolungen_Bericht,,,Kaenerkinden,Sissach
+3.04,Ergolz,1590,1590,0,,,,0,, -,,,,,Anwil,Sissach
+3.26,Ächtelbächli,1120,1050,70,,> 200,,4,"Drainagesysteme in Verlängerung des Süd- und des Westastes, untere Abschnitte mit gutem Potenzial für Offenlegung",3.26,Link,Anwil_Eindolungen_Bericht,,,Anwil,Sissach
+3.27,Vorderes  Almetbächli,20,20,0,,,,0,, -,,,,,Anwil,Sissach
+3.28,Heimetlosenbächli,90,60,30,,,,3,"Drainagesysteme in Verlängerung, Wasserführung vermutlich gering",3.28,Link,Anwil_Eindolungen_Bericht,,,Anwil,Sissach
+3.29,Lochmattbächli,140,140,0,,,,0,, -,,,,,Anwil,Sissach
+3.30,Neuligenbächli,120,110,10,,,,2,"Drainagesysteme in Verlängerung, Wasserführung vermutlich sehr gering",3.30,Link,Anwil_Eindolungen_Bericht,,,Anwil,Sissach
+3.31,Wolflochbächli,180,180,0,,,,0,, -,,,,,Anwil,Sissach
+3.143,Riedmattbächli,990,940,50,,,,0,, -,,,,,Anwil,Sissach
+3.151,Hinteres  Almetbächli,20,20,0,,,,0,, -,,,,,Anwil,Sissach
+3.152,Dalcherbächli,60,60,0,,,,0,, -,,,,,Anwil,Sissach
+3.153,Chörberbächli,240,240,0,,,,0,, -,,,,,Anwil,Sissach
+3.201,Hintermattbächli,880,380,500,,> 200,,5,"Im mittleren Abschnitt ehem. Deponie, im Abschnitt oberhalb des Siedlungsgebietes wurden 2011 rund 120 m im Rahmen eines ""Gummistiefelland""-Projektes offengelegt (im GeoView als ""Regenwasserableitung Hintermet"" bezeichnet) ",3.201,Link,Anwil_Eindolungen_Bericht,,,Anwil,Sissach
+3.202,Oltwegbächli,680,460,220,,200,,5,, -,Link,,,,Anwil,Sissach
+3.203,Löracherbächli,120,120,0,,,,0,, -,,,,,Anwil,Sissach
+26.72,Bergbächli,300,300,0,,,,0,, -,,,,,Haefelfingen,Sissach
+26.73,Wolstelbächli,190,190,0,,,,0,, -,,,,,Haefelfingen,Sissach
+26.74,Eimattbach,3070,2440,630,,> 300,,?,"offene Bachführung wäre wertvolle Vernetzungsachse, verläuft aber im Fassungsbereich der Quelle 57.8.E (Teufletenquell, Bad Ramsach)",26.7,Link,Haefelfingen_Eindolungen_Bericht,,,Haefelfingen,Sissach
+26.75,Chrintelbach,50,50,0,,,,0,, -,,,,,Haefelfingen,Sissach
+26.134,Buebenlochbächli,1090,950,140,,100,,4,,26.134,Link,Haefelfingen_Eindolungen_Bericht,,,Haefelfingen,Sissach
+26.201,Eichbächli,580,0,580,,450,,4,im unteren Teil ev. Ausdolung entlang Weg,26.201,Link,Haefelfingen_Eindolungen_Bericht,,,Haefelfingen,Sissach
+26.202,Hendschenmattbächli,770,590,180,,,,3,Wasserführung?,26.202,Link,Haefelfingen_Eindolungen_Bericht,,,Haefelfingen,Sissach
+26.203,Schneidermattbächli,270,260,10,,,,3,grosses Drainagesystem in Verlängerung Schneidermattbächli (Wildgehege), -,Link,,,,Haefelfingen,Sissach
+26.204,Häberlingenbächli,400,260,140,,125,,4,"Schon abgeklärt im Juni 2008, vorläufig keine Ausdolung", -,Link,,,,Haefelfingen,Sissach
+26.205,Isentalbächli,240,90,150,,150,,4,,26.205,Link,Haefelfingen_Eindolungen_Bericht,,,Haefelfingen,Sissach
+35.74,Eimattbach,80,80,0,,,,0,, -,,,,,Laeufelfingen,Sissach
+35.135,Adlikenbach,1900,1780,120,,100,,4,"offene Bachführung entlang Parzellengrenze, siehe auch Hauensteinbach 35.208",35.208,Link,Laeufelfingen_Eindolungen_Bericht,,,Laeufelfingen,Sissach
+35.201,Bulstenbach,1320,710,610,,400,,?,quert engere Schutzzone der Weidenmattquellen; Wasserbaukonzept sieht allerdings Ausdolung vor (Priorität mittel),35.201,Link,Laeufelfingen_Eindolungen_Bericht,,,Laeufelfingen,Sissach
+35.202,Bütschenmattbächli,620,240,380,,350,,5,"Weideland, Eindolung verläuft unterhalb von 2 privaten Quellen; in GW-Schutzzone S 3",35.202,Link,Laeufelfingen_Eindolungen_Bericht,,,Laeufelfingen,Sissach
+35.203,Chillebach,980,0,980,,> 300 ,,4,"Oberlauf, ev. auch Abschnitt oberhalb Strasse nach Bad Ramsach",35.203,Link,Laeufelfingen_Eindolungen_Bericht,,,Laeufelfingen,Sissach
+35.204,Chrätzigerbächli,1020,540,480,,,,1,Eindolung v.a. im Hofbereich und im Bereich von Strasse/Bahnlinie, -,Link,,,,Laeufelfingen,Sissach
+35.205,Dieg,270,0,270,,,,0,Gewerbeareal, -,,,,,Laeufelfingen,Sissach
+35.206,Gipsgrubenbächli,310,0,310,,,,1,nur kurzer Abschnitt unterhalb Hauensteinstrasse ev. denkbar Wasserführung?, -,Link,,,,Laeufelfingen,Sissach
+35.207,Grienacherbächli,500,90,410,,250,,4,Oberlauf,35.207,Link,Laeufelfingen_Eindolungen_Bericht,,,Laeufelfingen,Sissach
+35.208,Hauensteinbach,1980,970,1010,,350+100,,4,"im Bereich ""Martismatt"" entlang der alten Hauensteinstrasse und ca. 100 m im Oberlauf; Wasserbaukonzept sieht im Siedlungsgebiet Massnahmen zum baulichen Hochwasserschutz vor (Priorität mittel); Bach z.T. in GW-Schutzzone S 3",35.208,Link,Laeufelfingen_Eindolungen_Bericht,,,Laeufelfingen,Sissach
+35.209,Hirzenbächli,430,0,430,,150,,3,Ausdolung des Drainagesystems in Verlängerung des Hirzenbächlis (Wasserführung?),35.209,Link,Laeufelfingen_Eindolungen_Bericht,,,Laeufelfingen,Sissach
+35.210,Hofmattbächli,330,40,290,,,,0,Siedlungsgebiet, -,,,,,Laeufelfingen,Sissach
+35.211,Holdenbächli,260,220,40,,,,0,, -,,,,,Laeufelfingen,Sissach
+35.212,Höllbach,1900,1560,340,,250,,5,"Ausdolung durch Basell. Natur- und Vogelschutzverband vorgesehen, Ausführung 2015/16?",35.212,Link,Laeufelfingen_Eindolungen_Bericht,,,Laeufelfingen,Sissach
+35.213,Murenbach,1920,1740,180,,170,,4,"Oberlauf, siehe auch 35.202 Bütschenmattbächli; in GW-Schutzzone S 3",35.202,Link,Laeufelfingen_Eindolungen_Bericht,,,Laeufelfingen,Sissach
+35.214,Reisenbächli,700,520,180,,,,0,ev. 100 m entlang alter Hauensteinstrasse (zusammen mit Oberlauf 35.208 Hauensteinbach); beide in GW-Schutzzone S 3, -,Link,,,,Laeufelfingen,Sissach
+35.215,Tunnelbach (privat),710,0,710,,,,0,, -,,,,,Laeufelfingen,Sissach
+27.76,Hemmikerbach,1210,700,510,,,,0,Eindolung im Siedlungsgebiet, -,,,,,Hemmiken,Sissach
+,Drainagesystem 3 im Gebiet Delleren,,,,,> 250,,4,,S. 1,Link,Hemmiken_Eindolungen_Bericht,,,Hemmiken,Sissach
+27.77,Höllbächli,50,0,50,,,,0,nur unterster Abschnitt auf Gemeindegebiet Hemmiken --> Ormalingen, -,,,,,Hemmiken,Sissach
+27.139,Moosrainbächli,200,190,10,,160,,4,Drainagesystem im Oberlauf,27.139,Link,Hemmiken_Eindolungen_Bericht,,,Hemmiken,Sissach
+27.146,Galgenmattbächli,30,30,0,250,250,,0,Drainagesystem in der Verlängerung, -,Link,,,,Hemmiken,Sissach
+27.201,Dambechbächli,970,890,80,,,,0,, -,,,,,Hemmiken,Sissach
+27.202,Hegbächli,240,60,180,375,,,0,Eindolung v.a. im Siedlungsgebiet, -,,,,,Hemmiken,Sissach
+27.203,Hofmattbächli,270,190,80,375,,,4,Ausdolung im Unterlauf würde Vernetzung verbessern,27.203,Link,Hemmiken_Eindolungen_Bericht,,,Hemmiken,Sissach
+27.204,Hünigbächli,310,70,240,375,150,,4,,27.204,Link,Hemmiken_Eindolungen_Bericht,,,Hemmiken,Sissach
+27.205,Müslenbächli,170,120,50,125,,,0,, -,,,,,Hemmiken,Sissach
+27.206,Seebächli,690,670,20,500,,,4,mehrere grosse Drainagesysteme in der Verlängerung (in Siegfriedkarte als Bachläufe verzeichnet): gutes Potenzial im unteren Abschnitt des Systems Ost und für das System Nord,27.206,Link,Hemmiken_Eindolungen_Bericht,,,Hemmiken,Sissach
+27.207,Steingrabenbächli,1360,1250,110,125,200,,4,Wasserführung?,27.207,Link,Hemmiken_Eindolungen_Bericht,,,Hemmiken,Sissach
+27.208,Talmattbächli,610,340,270,1000,,,3,mehrere grosse Drainagesysteme in der Verlängerung (in Siegfriedkarte als Bachläufe verzeichnet),27.208,Link,Hemmiken_Eindolungen_Bericht,,,Hemmiken,Sissach
+41.15,Buuserbach,2160,2120,40,,,,0,, -,,,,,Maisprach,Sissach
+41.201,Badbächli,180,40,140,20,160,,0,Wasserbaukonzept sieht Massnahmen zum baulichen Hochwasserschutz vor (Priorität mittel) --> Ausdolung prüfen, -,,,,,Maisprach,Sissach
+41.202,Griesbächli,1300,410,890,,2 x 150,,4,im unteren Abschnitt offene Bachführung südöstlich der Strasse prüfen,41.202,Link,Maisprach_Eindolungen_Bericht,,,Maisprach,Sissach
+41.203,Hölibächli,1320,690,630,,280,,3,im Abschnitt unterhalb der Eindolung sieht das Wasserbaukonzept Massnahmen zum baulichen Hochwasserschutz vor (Priorität mittel),41.203,Link,Maisprach_Eindolungen_Bericht,,,Maisprach,Sissach
+41.204,Weidbächli,120,90,30,70,100,,0,, -,,,,,Maisprach,Sissach
+,Drainagesystem im Bereich Vordere Chrüzbrunne,,,,500,400,,2,Wasserführung?  Auf Siegfriedkarte als Bachlauf verzeichnet,S. 3,Link,Maisprach_Eindolungen_Bericht,,,Maisprach,Sissach
+,Drainagesystem im Bereich Humberstal,,,,> 1000,400,,4,"im unteren Abschnitt gutes Potential, auf Siegfriedkarte als Bachlauf verzeichnet",S. 4,Link,Maisprach_Eindolungen_Bericht,,,Maisprach,Sissach
+57.10,Homburgerbach,1390,1370,20,,,,0,, -,,,,,Ruemlingen,Sissach
+57.69,Schöftletenbächli,130,80,50,,,,0,, -,,,,,Ruemlingen,Sissach
+57.71,Verenenbächli,160,150,10,,,,0,, -,,,,,Ruemlingen,Sissach
+57.74,Eimattbach,710,690,20,,,,0,, -,,,,,Ruemlingen,Sissach
+57.75,Chrintelbach,1910,1780,130,,,,0,, -,,,,,Ruemlingen,Sissach
+57.117,Hinter-Chamberbach,170,100,70,,,,0,, -,,,,,Ruemlingen,Sissach
+57.118,Vorder-Chamberbach,250,180,70,,,,0,, -,,,,,Ruemlingen,Sissach
+57.134,Buebenlochbächli,420,420,0,,,,0,, -,,,,,Ruemlingen,Sissach
+57.201,Grundweidbächli,370,220,150,,> 100,,4,"unterster Abschnitt bis Einleitung Drainagesystem mit gutem Potential, oberhalb ev. geringe Wasserführung", -,Link,,,,Ruemlingen,Sissach
+57.202,Hasenbächli,660,400,260,,200,,4,"ev. im unteren Abschitt offene Bachführung entlang Weg, Wasserführung vermutlich gering",57.202,Link,Ruemlingen_Eindolungen_Bericht,,,Ruemlingen,Sissach
+57.203,Rappenbächli,250,240,10,,,,0,, -,,,,,Ruemlingen,Sissach
+62.11,Eibach,4020,4020,0,,,,0,Wasserbaukonzept sieht im Siedlungsgebiet Massnahmen zum baulichen Hochwasserschutz (Priorität hoch) und oberhalb des Siedlungsgebietes zur Schaffung von Überlutungs- und Retentionsräumen vor (Priorität hoch), -,,,,,Tecknau,Sissach
+62.65,Chuenibächli,270,0,270,,230,,?,"im unteren Abschnitt unter Auffüllung (belasteter Standort), oben nur geringe Wasserführung?",62.65,Link,Tecknau_Eindolungen_Bericht,,,Tecknau,Sissach
+62.119,Aletenbach,1320,1300,20,,,,0,, -,,,,,Tecknau,Sissach
+62.120,Hintereggbächli,260,230,30,,,,0,, -,,,,,Tecknau,Sissach
+62.121,Holbächli,240,190,50,,,,0,, -,,,,,Tecknau,Sissach
+62.122,Moosbach,430,420,10,,,,0,, -,,,,,Tecknau,Sissach
+62.201,Geissgrabenbächli,510,360,150,,,,?,Ausdolung direkt Richtung Eibach aufgrund Höhenlage (tiefer als Eibach) nicht möglich,62.201,Link,Tecknau_Eindolungen_Bericht,,,Tecknau,Sissach
+62.202,Ihegibächli,50,50,0,,,,0,, -,,,,,Tecknau,Sissach
+62.203,Neuwegmattenbächli,120,120,0,,,,0,, -,,,,,Tecknau,Sissach
+62.204,Tunnelbach,820,0,820,,100,,3,ev. letzte 100 m auf Parz. 242 möglich (Siedlungsgebiet), -,Link,,,,Tecknau,Sissach
+65.1,Homburgerbach,1600,1570,30,,,,0,, -,,,,,Thuernen,Sissach
+,Drainagesystem östlich Homburgerbach,,,,> 1000,> 300,,3,Potenzial für Öffnung bei wichtigen Sammelsträngen prüfen,S. 1,Link,Thuernen_Eindolungen_Bericht,,,Thuernen,Sissach
+65.201,Dubenrainbächli,290,210,80,200,200,,3,Wasserführung? Auf Siegfriedkarte als Bachlauf verzeichnet,65.201,Link,Thuernen_Eindolungen_Bericht,,,Thuernen,Sissach
+65.202,Grabacherbächli,670,410,260,,,,0,, -,,,,,Thuernen,Sissach
+,Drainagesystem in Verlänge-rung des Grabenacherbächlis,,,,200,100,,3,Wasserführung? Auf Siegfriedkarte als Bachlauf verzeichnet,S. 3,Link,Thuernen_Eindolungen_Bericht,,,Thuernen,Sissach
+65.203,Haldenbächli,250,30,220,,,,0,, -,,,,,Thuernen,Sissach
+65.204,Schürrainbächli,280,260,20,,,,0,, -,,,,,Thuernen,Sissach
+65.205,Weieracherbächli,240,80,60,,,,0,, -,,,,,Thuernen,Sissach
+65.206,Grienbächli,180,60,120,,100,,3,Wasserführung?, -,Link,,,,Thuernen,Sissach
+71.11,Eibach,800,800,0,,,,0,, -,,,,,Zeglingen,Sissach
+71.73,Wolstelbächli,350,350,0,,,,0,, -,,,,,Zeglingen,Sissach
+71.75,Chrintelbach,400,400,0,,,,0,, -,,,,,Zeglingen,Sissach
+71.84,Laufenmattbächli,230,180,50,,,,0,, -,,,,,Zeglingen,Sissach
+71.85,Sagenmattbächli,280,210,70,,,,0,, -,,,,,Zeglingen,Sissach
+71.87,Wisenbach,1890,1830,60,,,,0,, -,,,,,Zeglingen,Sissach
+71.108,Nünbrunnbach,3020,2940,80,,,,0,Wasserbaukonzept sieht im Siedlungsgebiet Massnahmen zum baulichen Hochwasserschutz vor (Priorität hoch), -,,,,,Zeglingen,Sissach
+71.166,Rüttibächli,200,90,110,,100,,4,,71.166,Link,Zeglingen_Eindolungen_Bericht,,,Zeglingen,Sissach
+71.201,Eggbächli,260,250,10,,,,0,, -,,,,,Zeglingen,Sissach
+71.202,Finstergrubenbächli,1050,1020,30,,,,0,, -,,,,,Zeglingen,Sissach
+71.203,Langacherbächli,70,60,10,> 200 ?,> 200,,3,"Siegfriedkarte weisst offenen Bachlauf oberhalb Strasse Zeglingen-Wisen auf, durch Drainagesystem abgelöst?",71.203,Link,Zeglingen_Eindolungen_Bericht,,,Zeglingen,Sissach
+71.204,Risbergbächli,780,760,20,,,,0,, -,,,,,Zeglingen,Sissach
+71.205,Seilenbächli,680,670,10,170,170,,4,,21.205,Link,Zeglingen_Eindolungen_Bericht,,,Zeglingen,Sissach
+71.206,Stockenbächli,920,860,60,,,,0,, -,,,,,Zeglingen,Sissach
+71.207,Strüholdenbächli,1300,1250,50,,,,0,, -,,,,,Zeglingen,Sissach
+71.208,Wissbrunnbächli,1300,880,420,,,,0,Eindolung verläuft tief unter Abraumhalde des Steinbruchs, -,Link,,,,Zeglingen,Sissach
+71.209,Dellenbrunnbächli,60,30,30,,,,0,, -,,,,,Zeglingen,Sissach
+70.10,Homburgerbach,1540,1540,0,,,,0,, -,,,,,Wittinsburg,Sissach
+70.59,Hölstenbächli,430,430,0,,> 300,,2,"grosse Drainagesysteme im Ackerland, Wasserführung?",70.59,Link,Wittinsburg_Eindolungen_Bericht,,,Wittinsburg,Sissach
+70.67,Muttibächli,50,50,0,,,,0,, -,,,,,Wittinsburg,Sissach
+70.75,Chrintelbach,90,90,0,,,,0,, -,,,,,Wittinsburg,Sissach
+70.117,Hinter-Chamberbach,230,220,10,,,,0,, -,,,,,Wittinsburg,Sissach
+70.118,Vorder-Chamberbach,180,180,0,,150,,3,"auf Siegfridkarte als Bachlauf eingetragen, Wasserführung?",70.118,Link,Wittinsburg_Eindolungen_Bericht,,,Wittinsburg,Sissach
+70.149,Sommeraubächli,60,60,0,,,,0,, -,,,,,Wittinsburg,Sissach
+70.201,Leltenbächli,220,140,80,,200,,4,"Drainagesystem in der Verlängerung, Wasserführung?",70.201,Link,Wittinsburg_Eindolungen_Bericht,,,Wittinsburg,Sissach
+70.202,Schorenbächli,1190,680,510,,100,,2,, -,Link,,,,Wittinsburg,Sissach
+69.14,Wintersingerbach,680,660,20,,,,0,, -,,,,,Wintersingen,Sissach
+69.201,Brunnbächli,1590,1500,90,,200,,5,Auf Siegfriedkarte als Bachlauf verzeichnet,69.201,Link,Wintersingen_Eindolungen_Bericht,,,Wintersingen,Sissach
+69.202,Eglismattbächli,410,110,300,,100,,4,zumindest Abschnitt entlang Weg öffnen,69.202,Link,Wintersingen_Eindolungen_Bericht,,,Wintersingen,Sissach
+69.203,Fer,2240,1850,390,,,,0,Wasserbaukonzept sieht im Siedlungsgebiet Massnahmen zum baulichen Hochwasserschutz vor (Priorität hoch), -,,,,,Wintersingen,Sissach
+69.204,Grabenbächli,920,870,50,,,,0,, -,,,,,Wintersingen,Sissach
+69.205,Griesbächli,1020,930,90,,,,0,, -,,,,,Wintersingen,Sissach
+69.206,Güetlistenbächli,620,390,230,,180,,5,,69.206,Link,Wintersingen_Eindolungen_Bericht,,,Wintersingen,Sissach
+69.207,Mösletenbächli,800,660,140,,,,0,, -,,,,,Wintersingen,Sissach
+69.208,Steinlerbächli,500,450,50,,,,0,, -,,,,,Wintersingen,Sissach
+69.209,Talbächli,1480,1200,280,,100,,4,ev. am Waldrand offene Bachführung zum Süast des Talbächlis ,69.209,Link,Wintersingen_Eindolungen_Bericht,,,Wintersingen,Sissach
+69.21,Süttlerbächli,520,460,60,,,,0,, -,,,,,Wintersingen,Sissach
+69.211,Weidbächli,430,380,50,,,,0,, -,,,,,Wintersingen,Sissach
+55.56,Cholmattbächli,250,200,50,,,,0,, -,,,,,Rickenbach,Sissach
+55.70,Rickenbächli,1420,1130,290,,,,0,Wasserbaukonzept sieht im Siedlungsgebiet Massnahmen zum baulichen Hochwasserschutz vor (Priorität hoch), -,,,,,Rickenbach,Sissach
+55.148,Rainenbächli,30,30,0,,,,0,, -,,,,,Rickenbach,Sissach
+55.154,Cholholzbächli,280,120,160,,250,,4,"Grenzbach Buus/Rickenbach, Ausdolung müsste aus praktischen Gründen auf Gebiet der Gemeinde Rickenbach erfolgen ",55.154,Link,Rickenbach_Eindolungen_Bericht,,,Rickenbach,Sissach
+55.201,Zietmattbächli,100,40,60,,> 200,,4,"Eindolung/Drainagesystem in der Verlängerung ist in den Drainageplänen nicht verzeichnet, aber auf Siegfriedkarte als offener Bachlauf ausgewiesen",55.1201,Link,Rickenbach_Eindolungen_Bericht,,,Rickenbach,Sissach
+55.202,Hutmattbächli,180,40,140,,,,0,, -,,,,,Rickenbach,Sissach
+55.203,Luterbrunnenbächli,730,260,470,,> 200,,5,im unteren Abschnitt gutes Potenzial für offene Bachführung,55.203,Link,Rickenbach_Eindolungen_Bericht,,,Rickenbach,Sissach
+55.204,Neumattbächli,420,0,420,,> 300,,5,offene Bachführung könnte weitgehend entlang Weg erfolgen,55.204,Link,Rickenbach_Eindolungen_Bericht,,,Rickenbach,Sissach
+55.205,Seienbächli,200,110,90,,,,0,, -,,,,,Rickenbach,Sissach
+55.206,Wigartenbächli,460,160,300,,250,,5,,55.206,Link,Rickenbach_Eindolungen_Bericht,,,Rickenbach,Sissach
+55.207,Wintersingerbächli,550,370,180,,,,0,, -,,,,,Rickenbach,Sissach
+68.119,Dellenbach,830,480,350,,,,0,"Ausdolung von ca. 270 m auf Parzelle 355 ist 2009 im Rahmen eines ""Gummistiefelland""-Projektes erfolgt", -,Link,,,,Wenslingen,Sissach
+68.120,Hintereggbächli,540,330,210,,> 300,,4,"grosses Drainagesystem oberhalb von 68.120 Hintereggbächli (dessen mittlerer Abschnitt von ca. 180 m wurde 2007 im Rahmen eines ""Gummistiefelland""-Projektes ausgedolt), SE-Ast in Siegfriedkarte als Bach verzeichnet", -,Link,,,,Wenslingen,Sissach
+68.121,Holbächli,130,130,0,> 150,150,,5,Drainagesystem unterhalb Strasse Zeglingen-Wenslingen, -,Link,,,,Wenslingen,Sissach
+68.122,Moosbach,1590,1050,540,> 300,> 200,,3,Südast des Drainagesystems entlang Weg mit gutem Potenzial für offene Führung; Wasserbaukonzept sieht im Siedlungsgebiet Massnahmen zum baulichen Hochwasserschutz vor (Priorität niedrig) -> offene Bachführung prüfen, -,Link,,,,Wenslingen,Sissach
+,Verlängerung 32.203 Weidbächli (Kilchberg),,,,> 230,230,,5,Abschnitt unterhalb Strasse Zeglingen-Wenslingen mit gutem Potenzial, -,Link,,,,Wenslingen,Sissach
+45.106,Talbächli,520,270,250,,275,,5,,45.106,Link,Nusshof_Eindolungen_Bericht,,,Nusshof,Sissach
+,"Drainagesystem südlich Talbächli, Südast",,,,,> 500,,4,,S. 1 + 2,Link,Nusshof_Eindolungen_Bericht,,,Nusshof,Sissach
+45.131,"Chüllerbächli, Südast",1000,470,530,,> 200,,4,"2014 Begehung Pro Natura mit Gemeinderat betreffend Ausdolung Chüllerbächli, GEP-Veranstaltung mit Werner Götz im Februar 2015",45.131,Link,Nusshof_Eindolungen_Bericht,,,Nusshof,Sissach
+,"Chüllerbächli, Ostast",,,,,> 300,,4,,45.131,Link,Nusshof_Eindolungen_Bericht,,,Nusshof,Sissach
+45.201,Brunntrögenbächli,510,60,450,,450,,4,zur Speisung  der Buechmatt-Weiher verwendet?,45.201,Link,Nusshof_Eindolungen_Bericht,,,Nusshof,Sissach
+58.68,Müntelbach,940,850,90,,> 100,,4,oberster Abschnitt Müntelbach und Hauptrainagestrang Richtung WSW,58.68,Link,Ruenenberg_Eindolungen_Bericht,,,Ruenenberg,Sissach
+58.69,Schöftletenbächli,650,640,10,,,,0,, -,,,,,Ruenenberg,Sissach
+58.72,Bergbächli,1100,830,270,,> 300,,5,"gutes Potential für eingedolten Abschnitt des Bergbächlis als auch für den unteren Teil des Drainagesystems Länz (in Siegfriedkarte als Bachlauf verzeichnet); 2014 wurden 80 m Drainage unterhalb Hof Berg im Rahmen eines ""Gummistiefelland""-Projektes offengelegt",58.72,Link,Ruenenberg_Eindolungen_Bericht,,,Ruenenberg,Sissach
+58.73,Wolstelbächli,820,810,10,,,,0,"Auf Parz. 613 wurden 2007 rund 110 m ehemaliger Drainagen im Rahmen eines ""Gummistiefelland""-Projektes offengelegt", -,,,,,Ruenenberg,Sissach
+58.75,Chrintelbach,1880,1780,100,,,,0,, -,,,,,Ruenenberg,Sissach
+58.201,Chätzlisbächli,660,550,110,,50,,5,"Verbindungsstück in Weide mit gutem Potenzial, Wasserführung?", -,Link,,,,Ruenenberg,Sissach
+58.202,Chrintelholdenbächli,190,180,10,,,,0,, -,,,,,Ruenenberg,Sissach
+58.203,Hollenbächli,520,520,0,510,500,,4,Verbindung zu 58.199 Regenwasserableitung Weiermatt wäre wichtiges Vernetzungselement in einer stark ausgeräumten Landschaft,58.203,Link,Ruenenberg_Eindolungen_Bericht,,,Ruenenberg,Sissach
+58.204,Oltechsbrunnenbächli,230,220,10,,,,0,, -,,,,,Ruenenberg,Sissach
+58.205,Stellibächli,350,190,160,,130,,5,,58.205,Link,Ruenenberg_Eindolungen_Bericht,,,Ruenenberg,Sissach
+73.09,Diegterbach,2160,2160,0,,,,0,Wasserbaukonzept sieht praktisch auf der ganzen Länge Massnahmen zum baulichen Hochwasserschutz vor (Priorität hoch), -,,,,,Zunzgen,Sissach
+73.78,Holdenweidbächli,640,600,40,,,,0,, -,,,,,Zunzgen,Sissach
+73.8,Bannholdenbächli,120,100,20,,,,0,, -,,,,,Zunzgen,Sissach
+73.83,Wolfgrabenbächli,380,360,20,,,,0,, -,,,,,Zunzgen,Sissach
+73.201,Hardbächli,820,290,530,,100,,0,Ausdolung im Abschnitt direkt oberhalb Siedlungsgebiet 2015 erfolgt,73.201,Link,Zunzgen_Eindolungen_Bericht,,,Zunzgen,Sissach
+73.202,Hefletenbächli,1900,1620,280,,150,,3," eher schwieriges Gelände für Bachöffnung, massives Einlaufbauwerk bestehend",73.202,Link,Zunzgen_Eindolungen_Bericht,,,Zunzgen,Sissach
+73.203,Nästelbächli,2280,1760,520,,180,,4,offene Bachführung entlang Wegrand / Bauzonengrenze,73.203,Link,Zunzgen_Eindolungen_Bericht,,,Zunzgen,Sissach
+73.204,Obergbächli,1200,730,470,,150,,2,nur sehr sporadische Wasserführung im eingedolten Abschnitt,73.204,Link,Zunzgen_Eindolungen_Bericht,,,Zunzgen,Sissach
+73.205,Weidbächli,170,150,20,,,,0,, -,,,,,Zunzgen,Sissach
+49.04,Ergolz,2380,2360,20,,,,0,Wasserbaukonzept sieht im Siedlungsgebiet Massnahmen zum baulichen Hochwasserschutz vor (Priorität hoch), -,,,,,Ormalingen,Sissach
+49.66,Marenbächli,200,0,200,,200,,4,,49.66,Link,Ormalingen_Eindolungen_Bericht,,,Ormalingen,Sissach
+49.76,Hemmikerbach,1770,1730,40,,,,0,, -,,,,,Ormalingen,Sissach
+49.77,Höllbächli,340,70,270,,150 + 140,,4,Öffnung entlang Weg im Oberlauf und Verbindung zum Weiher Stelli mit gutem Potenzial,49.77,Link,Ormalingen_Eindolungen_Bericht,,,Ormalingen,Sissach
+49.139,Moosrainbächli,60,60,0,,,,0,, -,,,,,Ormalingen,Sissach
+49.201,Händschenmattbächli,2230,1720,510,,> 300,,4,Drainagesysteme in Verlängerung des Nordastes (im gedruckten Gewässerverzeichnis ist der Nordast noch als offenes Gewässer erfasst); Wasserbaukonzept sieht im Dorfkern Massnahmen zum baulichen Hochwasserschutz vor (Priorität hoch),49.201,Link,Ormalingen_Eindolungen_Bericht,,,Ormalingen,Sissach
+49.202,Hintergrabenbächli,1030,790,240,,> 200,,4,Drainagesysteme in Verlängerung des Nordastes (im gedruckten Gewässerverzeichnis ist der unterste Abschnitt des Nordastes noch als offenes Gewässer erfasst); Wasserbaukonzept sieht im unteren Abschnitt  Massnahmen zum baulichen Hochwasserschutz vor (Priorität hoch),49.202,Link,Ormalingen_Eindolungen_Bericht,,,Ormalingen,Sissach
+49.203,Chilchmattbächli,300,170,130,,,,0,, -,,,,,Ormalingen,Sissach
+49.204,Silberbächli,820,720,100,,,,0,, -,,,,,Ormalingen,Sissach
+49.205,Tschuppisbächli,340,270,70,,> 200,,3,Drainagesysteme in Verlängerung Richtung Norden/Nordwesten,S. 5,Link,Ormalingen_Eindolungen_Bericht,,,Ormalingen,Sissach
+49.206,Weiherbächli,2040,1420,620,,600,,5,ev.  offene Bachführung teilweise entlang Weg als Alternative,49.206,Link,Ormalingen_Eindolungen_Bericht,,,Ormalingen,Sissach
+49.207,Fabrikkanal (privat),340,170,170,,,,0,, -,,,,,Ormalingen,Sissach
+49.208,Mühlekanal (privat),500,300,200,,200,,5,"entlang Parz. 1653 bereits offen (entgegen GeoView), verbleibende Abschnitte entlang Parz. 1409 und auf Parz. 630 mit gutem Potenzial (Teil des kant. Inventars Wischberg)",49.208,Link,Ormalingen_Eindolungen_Bericht,,,Ormalingen,Sissach
+63.09,Diegterbach,1520,1410,110,,,,0,, -,,,,,Tenniken,Sissach
+63.57,Rintelbächli,1430,960,470,,300,,4,offene Bachführung entlang Nordostrand der Parzelle 1581 direkt zum Brunnenhofbächli,63.57,Link,Tenniken_Eindolungen_Bericht,,,Tenniken,Sissach
+63.132,Lammetbächli,370,200,170,,,,3,vermutlich meist nur geringe Wasserführung (zusammen mit 63.203 und 63.210 prüfen),S. 2,Link,Tenniken_Eindolungen_Bericht,,,Tenniken,Sissach
+63.201,Buelzbächli,950,440,510,,110,,5,offene Bachführung innerhalb OeWA-Zone auf Parzelle 1199 vorgesehen; Wasserbaukonzept sieht Massnahmen zum baulichen Hochwasserschutz vor (Priorität niedrig),63.201,Link,Tenniken_Eindolungen_Bericht,,,Tenniken,Sissach
+63.202,Brunnenhofbächli,1100,730,370,,,,4,,63.202,Link,Tenniken_Eindolungen_Bericht,,,Tenniken,Sissach
+63.203,Grundbächli,210,110,100,,,,3,vermutlich meist nur geringe Wasserführung (zusammen mit 63.132 und 63.210 prüfen),S. 2,Link,Tenniken_Eindolungen_Bericht,,,Tenniken,Sissach
+63.204,Gisibergbächli,140,100,40,,,,0,, -,,,,,Tenniken,Sissach
+63.205,Hobacherbächli,340,160,180,,150,,4,"gutes Potential für Öffnung der Drainagen im Weideland (in Verlängerung des Hobacherbächlis), im unteren Abschnitt eher schwierig",63.205,Link,Tenniken_Eindolungen_Bericht,,,Tenniken,Sissach
+63.206,Leisimattbächli,2080,1300,780,,> 300,,5,zumindest in Teilabschnitten mit genügender Wasserführung Ausdolung prüfen (mit 63.209 Talacherbächli); im unteren Abschnitt sieht Wasserbaukonzept Massnahmen zum baulichen Hochwasserschutz vor (Priorität hoch),63.206,Link,Tenniken_Eindolungen_Bericht,,,Tenniken,Sissach
+63.207,Sangetenbächli,380,160,220,,200,,5,,63.207,Link,Tenniken_Eindolungen_Bericht,,,Tenniken,Sissach
+63.208,Schöneggbächli,390,250,140,,,,0,, -,,,,,Tenniken,Sissach
+63.209,Talacherbächli,410,220,190,,,,0,siehe 63.206 , -,,,,,Tenniken,Sissach
+63.210,Weidlibächli,220,120,100,,,,3,vermutlich meist nur geringe Wasserführung (zusammen mit 63.132 und 63.203 prüfen),S. 2,Link,Tenniken_Eindolungen_Bericht,,,Tenniken,Sissach
+48.04,Ergolz,3480,2770,710,,,,0,Eindolung im Dorfkern; Wasserbaukonzept sieht Massnahmen zum baulichen Hochwasserschutz vor (Priorität niedrig), -,,,,,Oltingen,Sissach
+48.27,Vorderes Almetbächli,70,70,0,,,,0,, -,,,,,Oltingen,Sissach
+48.29,Lochmattbächli,170,30,140,,180,,5,"Ausdolung auf Parzelle 1246 ist mit Unterstützung von Pro Natura BL vorgesehen, sobald Finanzierung gesichert",48.29,Link,Oltingen_Eindolungen_Bericht,,,Oltingen,Sissach
+48.31,Wolflochbächli,370,250,120,> 100,260,,5,"Ausdolung entlang Weg zwischen Parz. 1203 und 1204/206 mit grossem Potential (zahlreiche seitliche Drainagen, oft Überschwemmungen)",48.31,Link,Oltingen_Eindolungen_Bericht,,,Oltingen,Sissach
+48.108,Wasseracherbächli,350,340,10,,,,0,, -,,,,,Oltingen,Sissach
+48.143,Riedmattbächli,230,220,10,,,,0,, -,,,,,Oltingen,Sissach
+48.151,Hinteres Almetbächli,50,50,0,,,,0,, -,,,,,Oltingen,Sissach
+48.152,Dalcherbächli,10,10,0,,150,,4,Hauptdrainagen auf Parzelle 1247,48.152,Link,Oltingen_Eindolungen_Bericht,,,Oltingen,Sissach
+48.201,Bilisingenbächli,390,390,,> 150,90 + 90,,4,"eingedoltes Zwischenstück im mittleren Abschnitt bis zur Strasse mit gutem Potenzial; Ausdolung des Unterlaufs auf ca. 270 m Länge erfolgte 2007 im Rahmen eines ""Gummistiefelland""-Projektes",48.201,Link,Oltingen_Eindolungen_Bericht,,,Oltingen,Sissach
+48.202,Bruggacherbächli,1060,200,860,,150 + 250,,5,"unterer Abschnitt in Weide und Südostast entlang Strasse mit gutem Potzenzial, mittlerer Abschnitt in Ackerland; Mündung in Ergolz wurde vor kurzem ausgedolt",48.202,Link,Oltingen_Eindolungen_Bericht,,,Oltingen,Sissach
+48.203,Emdmattbächli,600,470,130,,90 + 200,,?,Ausdolung kurzer Mittelabschnitt (GW-Schutzzone S 2??) und Oberlauf prüfen,48.203,Link,Oltingen_Eindolungen_Bericht,,,Oltingen,Sissach
+48.204,Chilchrainbächli,170,100,70,,,,0,, -,,,,,Oltingen,Sissach
+48.205,Mülibächli (privat),210,20,190,,,,0,, -,,,,,Oltingen,Sissach
+48.206,Oltschürbächli,760,680,80,,,,0,"Weiher und rund 225 m offene Bachläufe beim Südast wurden 2010 im Rahmen eines ""Gummistiefelland""-Projektes erstellt", -,Link,,,,Oltingen,Sissach
+56.04,Ergolz,3710,3710,0,,,,0,Wasserbaukonzept sieht im Siedlungsgebiet Massnahmen zum baulichen Hochwasserschutz vor (Priorität hoch), -,,,,,Rothenfluh,Sissach
+,"Grosse Drainagesysteme (Nr. 1-5) südlich der Ergolz (Hofacher, Dälletsacher, Im Sor)",,,,> 1000,> 500,,4,offene Gerinne entlang der Wegparzellen 2161 und 1282 oder von Parzellengrenzen könnten zumindest einen Teilstrom aus den verschiedenen Drainagesystemen aufnehmen und eine wesentliche Aufwertung der stark ausgeräumten Landschaftskammer bringen (im Rahmen der geplanten Melioration prüfen),S. 6,Link,Rothenfluh_Eindolungen_Bericht,,,Rothenfluh,Sissach
+56.153,Chörberbächli,560,550,10,,,,0,, -,,,,,Rothenfluh,Sissach
+56.201,Dübach,3600,3220,380,,,,0,Wasserbaukonzept sieht im Siedlungsgebiet Massnahmen zum baulichen Hochwasserschutz vor (Priorität mittel), -,,,,,Rothenfluh,Sissach
+,Grosse Drainagesysteme (Nr. 11 - 14) nördlich des Dübach,,,,> 1000,> 500,,5,offene Gerinne entlang der Wegparzellen 1189 und 590 (auf Siegfriedkarte als Bäche verzeichnet) könnten zumindest einen Teilstrom aus den verschiedenen Drainagesystemen aufnehmen und eine wesentliche Aufwertung der Landschaftskammer bringen (im Rahmen der geplanten Melioration prüfen),S. 7,Link,Rothenfluh_Eindolungen_Bericht,,,Rothenfluh,Sissach
+56.202,Üblisgrundbächli,270,260,10,,,,0,, -,,,,,Rothenfluh,Sissach
+56.203,Handlauberbächli,290,280,10,,,,0,, -,,,,,Rothenfluh,Sissach
+56.204,Isletenbächli,850,250,600,,380,,5,offene Bachführung im unteren Abschnitt entlang der Wegparzellen 1303 würde eine wesentliche Aufwertung der Landschaftskammer bringen (im Rahmen der geplanten Melioration prüfen),56.204,Link,Rothenfluh_Eindolungen_Bericht,,,Rothenfluh,Sissach
+56.205,Lenenbächli (Lähnenbächli),2730,2140,590,,,,4,"der im Gewässerverzeichnis 1998 verzeichnete E-NE-Ast (eingedolt) ist im GeoView nur als Drainagesystem erfasst, dagegen ist der bereits offen fliessende Abschnitt im Drainagesystem Zil nicht als Gewässer dargestellt -> gutes Potenzial für weitere Bachöffnung ",56.205,Link,Rothenfluh_Eindolungen_Bericht,,,Rothenfluh,Sissach
+,Langmattbächli,140,140,,,,,0,"2014 wurden im Rahmen eines ""Gummistiefelland""-Projektes rund 140 m Drainagen geöffnet, die nun als Langmattbächli das Gewässernetz am Lähnenbächli erweitern", -,Link,,,,Rothenfluh,Sissach
+,Lörbächli,120,120,,,,,0,"2013 wurden im Rahmen eines ""Gummistiefelland""-Projektes rund 120 m Drainagen geöffnet, die nun als Lörbächli das Gewässernetz am Lähnenbächli erweitern", -,Link,,,,Rothenfluh,Sissach
+56.206,Mülistettbächli,460,450,10,,,,0,, -,,,,,Rothenfluh,Sissach
+56.207,Odentalbächli,670,260,410,,300,,4,"offene Bachführung am Fuss der Magerweide oberhalb des Hofes wäre wertvoll, Tal wurde seinerzeit mit Aushubdeponie für landwirtschaftliche Nutzung aufgewertet",56.207,Link,Rothenfluh_Eindolungen_Bericht,,,Rothenfluh,Sissach
+61.04,Ergolz,2680,2680,0,,,,0,, -,,,,,Sissach,Sissach
+61.09,Diegterbach,1280,1280,0,,,,0,Wasserbaukonzept sieht im Siedlungsgebiet Massnahmen zum baulichen Hochwasserschutz vor (Priorität mittel), -,,,,,Sissach,Sissach
+61.10,Homburgerbach,100,100,0,,,,0,, -,,,,,Sissach,Sissach
+61.82,Atlistenbächli,1110,950,160,,,,0,, -,,,,,Sissach,Sissach
+61.141,Weiermattbächli,130,80?,50?,,,,0,80 m zwischen Weiermattweg und Ergolz wurden 2013 vom Wasserbau ausgedolt, -,Link,,,,Sissach,Sissach
+61.201,Böschmattbächli,300,190,110,,> 200,,4,"Eindolung im Siedlungsgebiet, anschliessendes Drainagesystem entlang Bauzonengrenze bis zu den Intensivobstkulturen für Ausdolung geeignet. ", -,Link,,,,Sissach,Sissach
+61.202,Brunnmattbächli,1200,1160,40,,,,0,, -,,,,,Sissach,Sissach
+61.203,Grimstenbächli,950,920,30,,,,0,, -,,,,,Sissach,Sissach
+61.204,Iktenbächli,1800,1600,200,,> 200,,4,im Oberlauf Ausdolung prüfen und Drainagesystem im Weideland einbeziehen,61.204,Link,Sissach_Eindolungen_Bericht,,,Sissach,Sissach
+61.205,Isletenbächli,1700,1090,610,,50,,0,"Hauptabschnitte der Eindolung im Siedlungsgebiet und im Bereich von Intensivobstanlagen, kurzer Abschnitt unterhalb Hof Isleten entlang Weg wurde ausgedolt", -,Link,,,,Sissach,Sissach
+61.206,Reuslibächli,1010,440,570,,,,0,Eindolung im Siedlungsgebiet; Wasserbaukonzept sieht im Siedlungsgebiet Massnahmen zum baulichen Hochwasserschutz vor (Priorität mittel), -,,,,,Sissach,Sissach
+61.207,Riedlisbächli,590,130,460,,0,,0,"Eindolung unter Deponie Strickrain, Speisung primär durch unterirdische Hangwasserzuflüsse", -,,,,,Sissach,Sissach
+61.208,Tannenbrunnenbächli,320,30,290,,,,0,Eindolung im Ebenrainpark, -,,,,,Sissach,Sissach
+61.209,Tannenriedbächli,930,220,710,,520,,0,Im Offenland meist kein Wasser; Verlauf der Eindolung gemäss GeoView unklar (im Drainagesystem?),61.209,Link,Sissach_Eindolungen_Bericht,,,Sissach,Sissach
+61.210,Zeglibächli,400,70,330,,> 250,,4,,61.210,Link,Sissach_Eindolungen_Bericht,,,Sissach,Sissach
+1.02,Birs,3010,3010,0,,,,0,Revitalisierung von Abschnitt 11-12 REP Birs gemäss Wasserbaukonzept, -,,,,,Aesch,Arlesheim
+1.21,Chlusbach,2510,1820,690,,,,0,, -,,,,,Aesch,Arlesheim
+,Drainagesysteme südlich Chlusbach im Gebiet Brunnmatt,,,,,je > 200 m,,2,"Fruchtfolgeflächen mit intensiver Ackerbaunutzung; im Normalfall vermutlich nur geringe Wasserführung, da Drainagen nur beschränktes Einzugsgebiet entwässern, allenfalls offene Führung entlang den benachbarten Feldwegen denkbar",1.21,Plan-link,Aesch_Eindolungen_Bericht,,,Aesch,Arlesheim
+1.22,Leimattbach,180,160,20,,,,0,, -,,,,,Aesch,Arlesheim
+1.51,Lolibach,300,0,300,,,,4,Ausdohlung entlang Fussweg von Bahndamm bis zur Birs denkbar, -,Plan-link,,,,Aesch,Arlesheim
+1.201,Erlengrabenbach,2210,400,1810,,820,269,4,Obererer und mittlerer Abschnitt der Eindolung; in der Talachse z.T. zu geringe Überdeckung für einwandfreie landwirtschaftliche Nutzung,1.201,Plan-link,Aesch_Eindolungen_Bericht,Christoph Merian Stiftung,,Aesch,Arlesheim
+,,,,,,,244,,, -,,,Christoph Merian Stiftung,,Aesch,Arlesheim
+,,,,,,,250,2,"unterer Abschnitt der Eindolung; weitgehend entlang Kantonsstrasse Aesch - Ettingen, tangiert zahlreiche Parzellen mit intensiver Nutzung", -,,,Bad Schauenburg AG,,Aesch,Arlesheim
+,,,,,,,241,,, -,,,Hansruedi Gschwind,,Aesch,Arlesheim
+,,,,,,,3457,,, -,,,Leonhard Henner,,Aesch,Arlesheim
+,,,,,,,236,,, -,,,Einf. Gesellschaft OR 530,,Aesch,Arlesheim
+,Drainagesysteme südwestlich und südlich des Erlengabenbachs im Gebiet Chornschwerzi und Lochmatt,,,,,> 300,,2,"Fruchtfolgeflächen mit intensiver Ackerbaunutzung; im Normalfall vermutlich nur geringe Wasserführung, da Drainagen nur beschränktes Einzugsgebiet entwässern,",1.201,Plan-link,Aesch_Eindolungen_Bericht,,,Aesch,Arlesheim
+,Drainagesystem südlich des Erlengabenbachs im Gebiet Lochmatt West,,,,,> 300,,2,"Fruchtfolgeflächen mit intensiver Ackerbaunutzung; im Normalfall vermutlich nur geringe Wasserführung, da Drainagen nur beschränktes Einzugsgebiet entwässern,",1.201,Plan-link,Aesch_Eindolungen_Bericht,,,Aesch,Arlesheim
+,Eindolung zwischen den Versickerungsweihern 1.434 und 1.438 (Butthollen),,,,,> 300,,1,"keine Wasserführung, trotz gutem Zufluss in Weiher 1.434; intensiv genutztes Kulturland", -,Plan-link,,,,Aesch,Arlesheim
+,Drainagesystem zwischen Versickerungsweiher 1.438 (Butthollen) und Schlatthof,,,,,> 500,,4,"Fruchtfolgeflächen mit intensiver Ackerbaunutzung; im Normalfall vermutlich nur geringe Wasserführung, da Drainagen nur beschränktes Einzugsgebiet entwässern,",1.201,Plan-link,Aesch_Eindolungen_Bericht,,,Aesch,Arlesheim
+,Drainagesysteme in südwestlicher Verlängerung des Erlenbachs (54.201 Reinach) im Gebiet Hinter Schlatt,,,,,> 500,,3,Fruchtfolgeflächen mit intensiver Ackerbaunutzung; im unteren Abschnitt wurde bereits Hecke entlang Parzellengrenze angelegt,54.201,Plan-link,Aesch_Eindolungen_Bericht,,,Aesch,Arlesheim
+2.23,Dorenbach,2880,2830,50,,,,0,, -,,,,,Allschwil,Arlesheim
+,Drainagesystem Tiefbrunn nordwestlich Oberlauf,,,,,> 700,,2,"Fruchtfolgefläche mit intensiver Nutzung, Wasserführung vermutlich nur nach nassen Perioden, da kleines Einzugsgebiet",2.23,Plan-link,Allschwil_Eindolungen_Bericht,,,Allschwil,Arlesheim
+2.24,Lörzbach,560,560,0,,,,0,, -,,,,,Allschwil,Arlesheim
+2.25,Dorfbach,2130,1550,580,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept, -,,,,,Allschwil,Arlesheim
+2.95,Mülibach,2980,2700,280,,,,0,Aufwertung gemäss Richtplan vorgesehen, -,,,,,Allschwil,Arlesheim
+,Drainagesystem Ziegelhof in Verlängerung des SE-Astes,,,,,> 300,,2,"Fruchtfolgefläche mit intensiver Nutzung, Wasserführung vermutlich gering (kleines Einzugsgebiet); Vernetzungswirkung bescheiden",2.95,Plan-link,Allschwil_Eindolungen_Bericht,,,Allschwil,Arlesheim
+2.161,Chuegrabenbach,290,290,0,,,,0,, -,,,,,Allschwil,Arlesheim
+2.201,Lützelbach,3120,2700,420,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept im Siedlungsgebiet; im Oberlauf (Gebiet Unter Frischmannshag) Projekt für neue Weiher zur Verminderung der Amphibienwanderung über Schönenbuch- und Neuwillerstrasse (15.11.2013), -,Plan-link,,,,Allschwil,Arlesheim
+,Drainagesystem nordwestlich Oberlauf,,,,,> 700,,4,"Fruchtfolgefläche mit intensiver Nutzung, Ausdolung entlang Weg denkbar, Wasserführung vermutlich ausreichend",2.201,Plan-link,Allschwil_Eindolungen_Bericht,,,Allschwil,Arlesheim
+,Drainagesystem Neumatten in Verlängerung des Südasts,,,,,> 300,,2,"Fruchtfolgefläche mit intensiver Nutzung, Wasserführung vermutlich gering (kleines Einzugsgebiet); Vernetzungswirkung bescheiden; im Wald bereits als offene Bachrinne mit wenig Abfluss angelegt ",2.201,Plan-link,Allschwil_Eindolungen_Bericht,,,Allschwil,Arlesheim
+6.02,Birs,1040,1040,0,,,,0,, -,,,,,Arlesheim,Arlesheim
+6.39,Schwinbächli,1150,990,160,,,,0,, -,,,,,Arlesheim,Arlesheim
+6.127,Schappekanal (privat),420,420,0,,,,0,, -,,,,,Arlesheim,Arlesheim
+6.147,Dorfbach,3470,2110,1360,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept, -,,,,,Arlesheim,Arlesheim
+6.201,Zieglerbächli,330,330,0,,,,0,, -,,,,,Arlesheim,Arlesheim
+6.202,Chilchholzbächli,500,500,0,,,,0,, -,,,,,Arlesheim,Arlesheim
+,Drainage in Verlängerung des Chilchholzbächli,,,,,300,,3,"Weideland, vermutlich nur geringe Wasserführung, da kleines Einzugsgebiet",6.202,Plan-link,Arlesheim_Eindolungen_Bericht,,,Arlesheim,Arlesheim
+6.203,Mönchsbächli,400,400,0,,,,0,, -,,,,,Arlesheim,Arlesheim
+,,,,,,,,0,, -,,,,,Arlesheim,Arlesheim
+6.204,Welschelselisbächli,820,700,120,,,,0,, -,,,,,Arlesheim,Arlesheim
+S1,Waldtal in Verlängerung des Welschelselisbächli,,> 400,,,,,0,"typische Trockenrinne über kalkigem Untergrund --> Wasser versickert grösstenteils, sodass kein eigentlicher Bachlauf besteht",6.203,,Arlesheim_Eindolungen_Bericht,,,Arlesheim,Arlesheim
+9.03,Birsig,2280,2280,0,,,,0,Aufwertung/Hochwasserschutz gemäss Richtplan/Wasserbaukonzept, -,,,,,Biel-Benken,Arlesheim
+,Drainagesystem 8 (und 9) nördlich 9.03 (nahe Grenze),,,,,< 300,,2,"Drainagesystem teilweise in stark geneigtem Rebhang, teilweise in schwach geneigtem Ackerland ( intensiv genutzte FFF); vermutlich nur temporär Wasserführung;",9.03,Plan-link,Biel-Benken_Eindolungen_Bericht,,,Biel-Benken,Arlesheim
+9.45,Neuwilbächli,940,940,0,,,,0,, -,,,,,Biel-Benken,Arlesheim
+9.124,Müliteich (privat),500,460,40,,,,0,, -,,,,,Biel-Benken,Arlesheim
+,Drainagesystem 4  südlich 9.124,,,,,< 300,,2,"Drainagesystem in schwach geneigtem Ackerland ohne grösseres Einzugsgebiet, daher vermutlich nur temporär Wasserführung; intensiv genutzte FFF",9.124,Plan-link,Biel-Benken_Eindolungen_Bericht,,,Biel-Benken,Arlesheim
+,Drainagesystem 5 südlich 9.124 (nahe Grenze),,,,,< 300,,2,"Drainagesystem in schwach geneigtem Ackerland ohne grösseres Einzugsgebiet, daher vermutlich nur temporär Wasserführung; intensiv genutzte FFF",9.124,Plan-link,Biel-Benken_Eindolungen_Bericht,,,Biel-Benken,Arlesheim
+9.160,Sonnenfichtenbächli,240,230,10,,,,0,, -,,,,,Biel-Benken,Arlesheim
+,Drainage südlich 9.160,,,,,< 300,,2,Drainage im Parzis nicht verzeichnet; intensiv genutzte FFF,9.160,Plan-link,Biel-Benken_Eindolungen_Bericht,,,Biel-Benken,Arlesheim
+9.201,Chillgrabenbächli,1150,870,280,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept, -,,,,,Biel-Benken,Arlesheim
+9.202,Hasenbaumbächli,100,100,0,,,,0,, -,,,,,Biel-Benken,Arlesheim
+10.03,Birsig,1970,1700,270,,,,0,Renaturierung gemäss Richtplan vorgesehen; baulicher Hochwasserschutz gemäss Wasserbaukonzept, -,,,,,Binningen,Arlesheim
+10.23,Dorenbach,3000,2700,300,,,,0,, -,,,,,Binningen,Arlesheim
+,südlicher Seitenast Tiefengraben,,,,?,500,,?,"Der grösste Teil des Tiefengrabens ist als Fussweg/Waldstreifen ausgebildet und liesse eine offene Wasserführung ohne weiteres zu, vermutlich ist aber aufgrund des geringen Einzugsgebietes und der Liegenschaftsentwässerung die Speisung gering, sodass keine wesentliche Aufwertung gegenüber dem heutigen Zustand resultieren würde. Im obersten Abschnitt besteht noch Grabenstruktur, allerdings ohne Wasserführung (trotz niederschlagsreicher Periode)",10.23,Plan-link,Binningen_Eindolungen_Bericht,,,Binningen,Arlesheim
+10.46,Weierbächli,1280,1270,10,,,,0,Revitalisierung Sohle gemäss Wasserbaukonzept, -,,,,,Binningen,Arlesheim
+10.123,Rümelinbach (privat),640,390,250,,,,0,, -,,,,,Binningen,Arlesheim
+10.201,Kirschtalbächli,370,310,60,,,,0,, -,,,,,Binningen,Arlesheim
+11.01,Rhein,2750,2750,0,,,,0,, -,,,,,Birsfelden,Arlesheim
+11.02,Birs,1880,1880,0,,,,0,, -,,,,,Birsfelden,Arlesheim
+13.03,Birsig,1180,1180,0,,,,0,Renaturierung gemäss Richtplan vorgesehen; gemäss Wasserbaukonzept: Revitalisierung Gemeindegrenze Oberwil - Schloss Bottmingen und Revitalisierung der Sohle von Schlossgasse bis Gemeindegrenze Binningen, -,,,,,Bottmingen,Arlesheim
+13.201,Chänelbächli,1780,1260,520,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept, -,,,,,Bottmingen,Arlesheim
+,"Verlängerung, eingedolter Abschnitt",,,,,> 200,,2,"Fruchtfolgefläche mit intensiver Nutzung, Wasserführung vermutlich nur nach nassen Perioden",13.201,Plan-link,Bottmingen_Eindolungen_Bericht,,,Bottmingen,Arlesheim
+13.202,Chäppelibächli,750,330,420,,,,0,, -,,,,,Bottmingen,Arlesheim
+13.203,Fuchshagbächli,180,130,50,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept, -,,,,,Bottmingen,Arlesheim
+13.204,Eugstlerbächli,320,120,200,,,,0,, -,,,,,Bottmingen,Arlesheim
+,,,,,,,,0,, -,,,,,Bottmingen,Arlesheim
+47.204,Neusatzbächli (Oberwil),,,,,,,0,, -,,,,,Bottmingen,Arlesheim
+S,"Verlängerung, eingedolter Abschnitt",,,,,> 200,,2,"Fruchtfolgefläche mit intensiver Nutzung, Wasserführung vermutlich nur nach nassen Perioden",47.204,Plan-link,Bottmingen_Eindolungen_Bericht,,,Bottmingen,Arlesheim
+21.61,Marchbach,740,610,130,,,,0,Eingedolter Teil wird von der Gemeinde revitalisiert; Renaturierung gemäss Richtplan vorgesehen, -,,,,,Ettingen,Arlesheim
+21.62,Eschenbach,1730,160,1570,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept; (gemäss Zonenplan Landschaft soll ein Teil oberhalb des bereits offenen Bachlaufs einmal ausgedolt werden), -,,,,,Ettingen,Arlesheim
+,Abschnitt des Eschenbachs südlich der Kantonsstrasse Ettingen - Aesch,,,,,>300,,4,Ausdolung könnte teilweise entlang Weg geführt werden ,21.62,Plan-link,Ettingen_Eindolungen_Bericht,,,Ettingen,Arlesheim
+,Abschnitt des Eschenbachs nürdlich der Kantonsstrasse Ettingen - Therwil,,,,,,,0,siehe Therwil, -,,,,,Ettingen,Arlesheim
+21.201,Büttenenlochbach,1220,1050,170,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept, -,,,,,Ettingen,Arlesheim
+21.202,Dorfbach,1290,690,600,,,,0,, -,,,,,Ettingen,Arlesheim
+21.203,Heidenfelsbach,800,520,280,,,,0,, -,,,,,Ettingen,Arlesheim
+21.204,Matztalbächli,490,240,250,,,,0,, -,,,,,Ettingen,Arlesheim
+21.205,Steinwegbächli,840,540,300,,,,0,, -,,,,,Ettingen,Arlesheim
+,"Drainagesystem im Gebiet Mattengoben (Entwässerung Richtung Erlenbach, Reinach)",,,,,,,2,"Drainagesystem mit beschränktem Einzugsgebiet, daher vermutlich nur temporäre Wasserführung, FFF",DS,Plan-link,Ettingen_Eindolungen_Bericht,,,Ettingen,Arlesheim
+42.02,Birs,4280,4280,0,,,,0,Revitalisierung Aue im Bereich Mühlematt (km 4.0 - 4.6) gemäss Wasserbaukonzept, -,,,,,Muenchenstein,Arlesheim
+42.99,Teufelsgrabenbach,2030,1750,280,,280,1286,0,"Bisheriger Kommentar: Im Wasserbaukonzept vorgesehen, Gespräch mit Boris Banga am 11.8.11. Ausdolung geht quer durch Acker und Drainage führt selten Wasser. Ausdolung unwahrscheinlich. Letztes Wort bei seinem Sohn Christian. ", -,,,Christoph-Merian-Stiftung,"Christian und Silvia Banga-Stein, Untergruth, 4142 Münchenstein",Muenchenstein,Arlesheim
+,Drainage in Verlängerung von 42.99 Teufelgrabenbach ,,,,,> 50   < 300,,2,intensiv bewirtschaftete FFF; im untersten Abschnitt bis zum Querweg sollte aber Ausdolung möglich sein (Verlängerung des offenen Teufelsgrabenbachs),42.99,Plan-link,Muenchenstein_Eindolungen_Bericht,,,Muenchenstein,Arlesheim
+42.100,Predigerhofbächli,300,300,0,,,,0,, -,,,,,Muenchenstein,Arlesheim
+42.128,St. Albanteich (privat),1870,1810,60,,,,0,, -,,,,,Muenchenstein,Arlesheim
+42.164,Walenbach,380,300,80,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept (kurzes Stück im Einlaufbereich), -,,,,,Muenchenstein,Arlesheim
+42.201,Grutbach,1660,0,1660,,360,2176,4,Baulicher Hochwasserschutz gemäss Wasserbaukonzept (Teil-Ausdolung);                                                                  (bisheriger Kommentar: 11.8.11 Gespräch mit Herrn Strassmann. Ausdolung zur Zeit nicht aktuell. Geht quer durch Bewirtschaftungsparzellen. Evt. zu einem späteren Zeitpunkt.,42.201,Plan-link,Muenchenstein_Eindolungen_Bericht,"Walter Brunner, Peter Brunner","Hans Strassmann-Brüderlin,                Gruthweg 106,       4142 Münchenstein",Muenchenstein,Arlesheim
+,,,,,,,2178,0,, -,,,Roman Huggel (Erbengem.),,Muenchenstein,Arlesheim
+,,,,,,,2179,0,, -,,,Beatrice Flaig,,Muenchenstein,Arlesheim
+,,,,,,,2180,0,, -,,,Beatrice Flaig,,Muenchenstein,Arlesheim
+,,,,,,,1300,0,, -,,,Beatrice Flaig,,Muenchenstein,Arlesheim
+S,Drainage westlich von 42.201 Gruthbach ,,,,,> 300,,3,"ev. offene Führung entlang Weg (bei genügender Wasserführung aus dem oberen Abschnitt - Quelle auf Parz. 2220); damit könnte Zerschneidung der Landwirtschaftsparzellen vermieden, aber gute Vernetzung hergestellt werden.",42.201,Plan-link,Muenchenstein_Eindolungen_Bericht,,,Muenchenstein,Arlesheim
+42.202,Schlucht,320,300,20,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept (Dole unter Schluchtstrasse), -,,,,,Muenchenstein,Arlesheim
+S,früherer Bachlauf im heutigen Siedlungsgebiet,,,,,,,0,"Offenlegung wäre nur mit Strassenrückbau möglich, Wasserführung extrem schwankend, meist aber sehr gering.", -,,,,,Muenchenstein,Arlesheim
+42.203,Mühleteich (privat),680,680,0,,,,0,, -,,,,,Muenchenstein,Arlesheim
+42.204,Teichbächli (privat),470,470,0,,,,0,, -,,,,,Muenchenstein,Arlesheim
+43.01,Rhein,3170,3170,0,,,,0,, -,,,,,Muttenz,Arlesheim
+43.02,Birs,2180,2180,0,,,,0,, -,,,,,Muttenz,Arlesheim
+43.99,Teufelsgrabenbach,1320,1270,50,,,,0,, -,,,,,Muttenz,Arlesheim
+43.101,Riedmattbächli,1610,1330,280,,400,1025,0,Ausdolung Oberlauf erstrebenswert, -,V,,Gemeinde Muttenz,,Muttenz,Arlesheim
+43.163,Flöschbächli,1410,1370,40,,,,0,, -,,,,,Muttenz,Arlesheim
+43.201,Dorfbach,3320,740,2580,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept (hohe Priorität), -,,,,,Muttenz,Arlesheim
+43.202,Engentalbächli,910,0,910,,,,0,, -,,,,,Muttenz,Arlesheim
+43.203,Eselhallenbächli,1300,200,1100,,210,2815,0,Ausdolung gemäss Wasserbaukonzept, -,V,,Martha Bärtschi,,Muttenz,Arlesheim
+,,,,,,,2806,0,, -,Plan-link,,Gemeinde Muttenz,,Muttenz,Arlesheim
+,,,,,,,2805,0,, -,,,Gemeinde Muttenz,,Muttenz,Arlesheim
+,,,,,,190,2808,0,, -,V,,Hans Brüderlin,,Muttenz,Arlesheim
+,,,,,,,2807,0,, -,,,Elisabeth Mathys,,Muttenz,Arlesheim
+43.204,Lachenbächli,1320,1220,100,,,,0,, -,,,,,Muttenz,Arlesheim
+43.205,Lahallenbächli,620,540,80,,,,0,, -,,,,,Muttenz,Arlesheim
+43.206,Rothallenbächli,1220,1180,40,,,,0,, -,,,,,Muttenz,Arlesheim
+43.207,Geispelbächli,580,370,210,,,,0,, -,,,,,Muttenz,Arlesheim
+43.208,Dürrainbächli,420,290,130,,,,0,, -,,,,,Muttenz,Arlesheim
+43.209,Wassergräben der Hardwasser AG,3620,3470,150,,,,0,, -,,,,,Muttenz,Arlesheim
+47.03,Birsig,3600,3600,0,,,,0,Renaturierung gemäss Richtplan vorgesehen; Revitalisierung gemäss Wasserbaukonzept, -,,,,,Oberwil,Arlesheim
+  S1,westlicher Seitenast zum Birsig,,,,,,,0,bereits weitgehend ausgedolt und als Naturschutzgebiet ausgestaltet,47.03,Plan-link,Oberwil_Eindolungen_Bericht,,,Oberwil,Arlesheim
+47.23,Dorenbach,450,440,10,,,,0,, -,,,,,Oberwil,Arlesheim
+47.46,Weierbächli,370,270,100,,,,0,gemäss Wasserbaukonzept: Ausdolung entlang Weiherhof; Revitalisierung Sohle unterhalb Weiherhof , -,,,,,Oberwil,Arlesheim
+,Verlängerung Weierbächli bis Gymnasium,,,,,350,1581; 3357,4,"Fruchtfolgefläche mit intensiver Nutzung, auf Parzelle 3357 wurde bereits Trittsteinbiotop (Flachweier) angelegt; Vernetzungswirkung zum Weiher Gymnasium und zum Amphibienlaichgebiet in der ehemaligen Tongrube wäre sehr gut",47.5,Plan-link,Oberwil_Eindolungen_Bericht,,,Oberwil,Arlesheim
+,Ausdolung Drainage zwischen Gymnasium und ehem. Tongrube,,,,,> 300,,4,Hauptstrang der Drainage entlang der ehemaligen Tongrube könnte bei genügendem Gefälle entlang Weg/Strasse offengelegt werden und würde gute Vernetzung zwischen Tongrube und Gymnasium/Weierbächli herstellen; Wasserführung vermutlich bescheiden,47.5,Plan-link,Oberwil_Eindolungen_Bericht,,,Oberwil,Arlesheim
+,Ausdolung Drainage vom Gymnasium Richtung Südwesten,,,,,> 600,,4,Fruchtfolgefläche mit intensiver Nutzung; bei genügendem Gefälle könnte aber offene Führung der Entwässerung entlang dem Weg (mit Speisung durch Seitenäste der Drainage auf der Westseite) ohne übermässige Beeinträchtigung der Nutzung erfolgern; gute Vernetzung in weitgehend ausgeräumter Landschaft; ,47.5,Plan-link,Oberwil_Eindolungen_Bericht,,,Oberwil,Arlesheim
+47.61,Marchbach,900,900,0,,,,0,, -,,,,,Oberwil,Arlesheim
+47.107,Unterer Mühlebach,50,50,0,,,,0,, -,,,,,Oberwil,Arlesheim
+47.114,Fleischbach,20,20,0,,,,0,, -,,,,,Oberwil,Arlesheim
+47.161,Chuegrabenbach,3580,2830,750,,450,1638,4,Ausdolung gemäss Wasserbaukonzept;  Fruchtfolgefläche mit intensiver Nutzung; der Südwestast des Zuflusses könnte aber ohne übermässige Beeinträchtigung der Nutzung entlang dem Weg offen geführt werden und brächte gute Vernetzung zwischen Familiengartenareal und Biotop oberhalb der eingedolten Strecke ,47.161,Plan-link,Oberwil_Eindolungen_Bericht,Peter Kallen,,Oberwil,Arlesheim
+,,,,,,,1639,0,, -,,,"Pestalozzi-Gesell., Oberwil",,Oberwil,Arlesheim
+,"Südast, eingedolter Abschnitt",,,,,190,1647,2,"Fruchtfolgefläche mit intensiver Nutzung; Wasserführung vermutlich gering, Vernetzungswirkung bescheiden (angrenzend Waldareal)", -,Plan-link,,Gemeinde Oberwil,,Oberwil,Arlesheim
+,,,,,,,1732,0,, -,,,Gemeinde Oberwil,,Oberwil,Arlesheim
+47.201,Goldbrunnenbach,680,250,430,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept, -,,,,,Oberwil,Arlesheim
+47.202,Schneggenbergbächli,880,640,240,,,,2,"unterhalb des Scheibenstandes auch nach nasser Periode kein Wasser im offenen Bachabschnitt, oberhalb Scheibenstand geringe Wasserführung; Baulicher Hochwasserschutz gemäss Wasserbaukonzept",47.202,Plan-link,Oberwil_Eindolungen_Bericht,,,Oberwil,Arlesheim
+47.203,Lettengrabenbach,1630,1110,520,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept, -,,,,,Oberwil,Arlesheim
+47.204,Neusatzbächli,280,260,20,,,,0,, -,,,,,Oberwil,Arlesheim
+S2,Verlängerung eingedolter Abschnitt,,,,,120,,0,siehe Gemeinde Bottmingen, -,,,,,Oberwil,Arlesheim
+,,,,,,,,0,, -,,,,,Oberwil,Arlesheim
+,"Alter Gewerbekanal im ""Entenwuhr"" (Gemeindegebiet Therwil und Oberwil)",,,,,,,0,20.9.01: Überprüfung einer Wieder-Inbetriebsnahme des alten Gewerbekanals durch das  Amt für Raumplanung BL, -,,,,,Oberwil,Arlesheim
+50.02,Birs,150,150,0,,,,0,, -,,,,,Pfeffingen,Arlesheim
+50.21,Chlusbach,620,520,100,,,,0,, -,,,,,Pfeffingen,Arlesheim
+,Drainagesystem südlich Chlusbach beim Hof Vordere Chlus,,,,,>300,,4,"im obersten Abschnitt Ausdolung aufgrund der geringen Wasserführung kaum sinnvoll, im Mittelteil aber grundsätzlich machbar und im untern Teil ev. mit Alternative entlang Weg;        gute Vernetzungswirkung,",50.21,Plan-link,Pfeffingen_Eindolungen_Bericht,,,Pfeffingen,Arlesheim
+50.22,Leimattbach,940,500,440,,> 200,,5,"im obersten Abschnitt Ausdolung aufgrund der geringen Wasserführung kaum sinnvoll, im mittleren Teil aber gut machbar",50.22,Plan-link,Pfeffingen_Eindolungen_Bericht,,,Pfeffingen,Arlesheim
+50.109,Schlossgrabenbach,940,870,70,,,,0,, -,,,,,Pfeffingen,Arlesheim
+50.196,Barbarabach (Karstwasserableitung),280,20,260,,215,,0,, -,V,,Kanton BL,,Pfeffingen,Arlesheim
+54.02,Birs,1800,1800,0,,,,0,Renaturierung im Abschnitt Au gemäss Richtplan/Wasserbaukonzept, -,,,,,Reinach,Arlesheim
+54.100,Predigerhofbächli,360,320,40,,,,0,, -,,,,,Reinach,Arlesheim
+54.114,Fleischbach,2100,960,1140,,,,0,, -,,,,,Reinach,Arlesheim
+54.115,Schönenbach,1440,220,1220,,,,0,Drainagesystem in der Fortsetzung von 54.115: siehe Therwil, -,,,,,Reinach,Arlesheim
+54.116,Wüestenbach,80,0,80,,,,0,Drainagesystem in der Fortsetzung von 54.116: siehe Therwil, -,,,,,Reinach,Arlesheim
+54.137,Chäppelibächli,340,0,340,,,,0,bisheriger Kommentar: Ausdolung nicht erstrebenswert (zu viele versch. Parzellen) , -,Plan-link,,,,Reinach,Arlesheim
+54.147,Arlesheimerbach,20,20,0,,,,0,, -,,,,,Reinach,Arlesheim
+54.201,Erlenbach (Dorfbach),3600,1150,2450,,,,0,Drainagesystem in der Fortsetzung von 54.201 hinter dem Erlenhof: siehe Therwil;                    Ausdolung gemäss Wasserbaukonzept im Bereich Birsigtalstrasse, -,Plan-link,,,,Reinach,Arlesheim
+54.202,Leibach,860,450,410,,,,0,Ausdolung gemäss Wasserbaukonzept oberhalb Birsigtalstrasse;                                                     bisheriger Kommentar: Ausdolung nicht erstrebenswert (zu viele versch. Parzellen); , -,,,,,Reinach,Arlesheim
+,Drainagesystem in Verlängerung von 54.202 Leibach,,,,,> 400,,4,"falls Wasserführung und Gefälle erlauben, könnte offener Bachlauf grösstenteils entlang Waldsaum geführt werden -> weniger Eingriff in intensiv genutzte FFF; Vernetzungswirkung bescheiden",54.202,Plan-link,Reinach_Eindolungen_Bericht,,,Reinach,Arlesheim
+59.24,Lörzbach,580,580,0,,,,0,, -,,,,,Schoenenbuch,Arlesheim
+59.201,Chappelengrabenbach,650,240,410,,,,0,, -,,,,,Schoenenbuch,Arlesheim
+,,,,,,,,0,, -,,,,,Schoenenbuch,Arlesheim
+2.201,Lützelbach (Allschwil),,,,,,,0,, -,,,,,Schoenenbuch,Arlesheim
+,"Verlängerung, eingedolter Abschnitt Gemeinde Schönenbuch",,,,,> 400,,3,"Fruchtfolgefläche mit intensiver Nutzung; der untere Abschnitt der Drainage könnte aber ohne übermässige Beeinträchtigung der Nutzung entlang dem Weg offen geführt werden und brächte Aufwertung für die weitgehend ausgeräumten Landschaft; Wasserführung im Normalfallvermutlich  bescheiden, bei Starkregen Abschwemmungen zu erwarten",2.201,Plan-link,Schoenenbuch_Eindolungen_Bericht,,,Schoenenbuch,Arlesheim
+64.03,Birsig,1480,1480,0,,,,0,, -,,,,,Therwil,Arlesheim
+,Drainagesystem südlich Birsmatthof,,,,,300,1768,4,Bisheriger Kommentar: Projekt zur Drainagefreilegung südöstlich vom Birsmattehof;       Eigene Beurteilung: vermutlich nur geringe Wasserführung,64.03,Plan-link,Therwil_Eindolungen_Bericht,,,Therwil,Arlesheim
+64.61,Marchbach,3200,2940,260,,,,0,"Renaturierung gemäss Richtplan vorgesehen; Planauflage Ausdolungsprojekt Nov. 2013 - Januar 2014, Ausführung voraussichtlich 2014", -,Plan-link,,,,Therwil,Arlesheim
+,Drainagesystem Marchbachrain,,,,,300,,3,vermutlich nur geringe Wasserführung; intensiv genutzte FFF; ev. offene Führung entlang Weg,64.61,Plan-link,Therwil_Eindolungen_Bericht,,,Therwil,Arlesheim
+64.62,Eschenbach,310,0,310,,230,1540,4,"Baulicher Hochwasserschutz gemäss Wasserbaukonzept;                                                           (bisheriger Kommentar: Ausdolen nur ca. letzte 230 m, da nachher zuviele versch. Parzellen;)  Eigene Beurteilung: Ev. könnte offene Führung generell entlang Strasse erfolgen, um die intensiv genutzte FFF nicht schräg zu zerschneiden -> Fortsetzung auf Gebiet der Gemeinde Ettingen nicht ausgeschlossen",64.62,V,Therwil_Eindolungen_Bericht,Helena Pflugi,,Therwil,Arlesheim
+,,,,,,,1646,0,,,Plan-link,,Karl u. Lina Gschwind (Erbengem.),,Therwil,Arlesheim
+,,,,,,,1647,0,,,,,Gemeinde Therwil,,Therwil,Arlesheim
+64.107,Unterer Mühlebach,900,710,190,,,,0,"Planauflage Ausdolungsprojekt Nov. 2013 - Januar 2014, Ausführung voraussichtlich 2014", -,Plan-link,,,,Therwil,Arlesheim
+64.114,Fleischbach,1170,1160,10,,,,0,, -,,,,,Therwil,Arlesheim
+64.115,Schönenbach,180,170,10,,,,0,, -,,,,,Therwil,Arlesheim
+,Drainagesysteme in Verlängerung von 64.115,,,,,je 250,,2,"sowohl im West-, als auch im Nordwestast kaum genügende Wasserführung, da kleines Einzugsgebiet, weitgehend intensiv genutzte FFF", -,Plan-link,,,,Therwil,Arlesheim
+64.116,Wüestenbach,620,600,20,,,,0,, -,,,,,Therwil,Arlesheim
+64.125,Grossmattbach,1020,1010,10,,,,0,, -,,,,,Therwil,Arlesheim
+64.126,Schliefbach,1790,1770,20,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept, -,,,,,Therwil,Arlesheim
+64.137,Chäppelibach,130,130,0,,,,0,, -,,,,,Therwil,Arlesheim
+64.201,Dorfbach,700,190,510,,,,0,, -,,,,,Therwil,Arlesheim
+64.202,Griengrubenbächli,440,180,260,,,,0,Revitalisierung gemäss Wasserbaukonzept, -,,,,,Therwil,Arlesheim
+64.203,Mooswasenbächli,1840,1170,670,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept, -,,,,,Therwil,Arlesheim
+64.204,Oberer Mühlebach (privat),680,530,150,,,,0,, -,,,,,Therwil,Arlesheim
+64.205,Rüchibächli,1380,670,710,,,220,4,Baulicher Hochwasserschutz gemäss Wasserbaukonzept;  Eindolung bis zum oberen Rand des Siedlungsgebietes könnte grundsätzlich geöffnet werden,64.205,Plan-link,Therwil_Eindolungen_Bericht,,,Therwil,Arlesheim
+64.206,Schärbächli,450,170,280,,,,2,Bisheriger Kommentar: Ausdolung nicht erstrebenswert (zu viele versch. Parzellen);         Eigene Beurteilung: fehlende Wasserführung (oberer Abschnitt auch nach längerer Periode mit Niederschlägen trocken),64.206,Plan-link,Therwil_Eindolungen_Bericht,,,Therwil,Arlesheim
+,"Drainagesystem Löchere-Sandacker (Zufluss zu 54.201 Erlenbach, Reinach)",,,,,> 300 (unten) > 400,,3,durchwegs in in intensiv genutzter FFF; im untern Abschnitt aber vermutlich genügende Wasserführung; würde wertvolles Landschafts-/Vernetzungselement in stark ausgeräumter Landschaft bilden,DS,Plan-link,Therwil_Eindolungen_Bericht,,,Therwil,Arlesheim
+80.02,Birs,6030,6030,0,,,,0,oberhalb Mühle: Überflutungs- und Retentionsgebiet gemäss Wasserbaukonzept;  im Siedlungsgebiet baulicher Hochwasserschutz, -, -,,,,Laufen,Laufen
+80.17,Lützel,1880,1880,0,,,,0,oberhalb Mühle: Überflutungs- und Retentionsgebiet gemäss Wasserbaukonzept; , -, -,,,,Laufen,Laufen
+80.19,Wahlenbach,1500,1120,380,,,,0,für Abschnitte im Siedlungsgebiet: Renaturierung/Hochwasserschutz gemäss Richtplan/Wasserbaukonzept vorgesehen, -,Plan-link,,,,Laufen,Laufen
+,Drainagesystem südlich Wahlenbach (S1),,,,,300,,6,Im Zuge der Gesamtmelioration Wahlen wird das Riedmetbächli (85.201) ausgedolt und  entlang der Drainagesysteme über Gemeindegebiet Laufen zum Wahlenbach geführt. Kantonsbeitrag wurde durch den Landrat am 14.6.2012 bewilligt., -,Plan-link,,,,Laufen,Laufen
+,Drainagesystem nordöstlich Wahlenbach/Entwässerung Grube Müsch,,,,,300,,4,Der bereits offene Abschnitt der Entwässerung aus der Tongrube Müsch liesse sich im Gebiet Strangimatt  entlang dem neuen Lager der Ricola AG zum Wahlenbach verlängern, -,Plan-link,,,,Laufen,Laufen
+80.20,Stürmenbach,500,450,50,,,,0,, -, -,,,,Laufen,Laufen
+80.175,Diebach,1280,70,1210,,>900,,4,Abschnitt entlang Gemeindegrenze zu Brislach: Ausdolung gemäss Richtplan/Wasserbaukonzept vorgesehen, -,Plan-link,,,,Laufen,Laufen
+80.178,Schachletebach,1330,1110,220,,,,0,baulicher Hochwasserschutz gemäss Wasserbaukonzept, -, -,,,,Laufen,Laufen
+80.182,Eschenbrunnenbach,1700,1580,120,,,,0,, -, -,,,,Laufen,Laufen
+80.183,Stritterenbach,520,520,0,,,,0,, -, -,,,,Laufen,Laufen
+80.184,Nettenbergbach,1050,1030,20,,,,0,, -, -,,,,Laufen,Laufen
+80.185,Greifelbach,1240,1100,140,,,,0,, -, -,,,,Laufen,Laufen
+80.201,Stadtbach (privat),440,0,440,,,,0,vollumfänglich im Siedlungsgebiet, -, -,,,,Laufen,Laufen
+80.202,Güschbach,510,0,510,,,,0,vollumfänglich im Siedlungsgebiet, -, -,,,,Laufen,Laufen
+80.203,Tschabrunnenbächli,200,160,40,,,,0,, -, -,,,,Laufen,Laufen
+80.204,Birshollenbach,400,340,60,,,,0,, -, -,,,,Laufen,Laufen
+80.205,Mittler-Stürmenbach,1120,1040,80,,,,0,, -, -,,,,Laufen,Laufen
+80.206,Stürmenhofbächli,110,60,50,,,,0,, -, -,,,,Laufen,Laufen
+80.207,Hüttenbodenbächli,550,430,120,,,,0,, -, -,,,,Laufen,Laufen
+85.19,Wahlenbach,2650,2150,500,,,,0,Renaturierung/Hochwasserschutz  im Baugebiet gemäss Richtplan/Wasserbaukonzept vorgesehen, -,Plan-link,,,,Wahlen,Laufen
+,"Drainagesystem im Gebiet ""Tüfelbach""",> 500,,> 500,,> 300,,4,"Ausdohlung der zwei Äste ausserhalb des Siedlungsgebietes wäre zu prüfen (Vernetzungsachse zu Weiher ""Tüfelbach Süd"")",S. 1,Plan-link,Wahlen_Eindolungen_Bericht,,,Wahlen,Laufen
+85.175,Diebach,1250,160,1090,,> 1000,,6,Die Ausdohlung im Abschnitt Espel - Kantonstrasse Laufen-Breitenbach ist als Teil der Gesamtmelioration Wahlen geplant und der Kantonsbeitrag durch den Landrat am 14.6.2012 bewilligt worden., -,Plan-link,,,,Wahlen,Laufen
+85.184,Nettenbergbach,410,400,10,,,,0,, -, -,,,,Wahlen,Laufen
+85.194,Stürmenweidbächli,640,640,0,,,,0,, -, -,,,,Wahlen,Laufen
+85.195,Birgelbach,40,40,0,,,,0,, -, -,,,,Wahlen,Laufen
+85.201,Riedmetbächli,3000,1350,1650,,> 1100,,6,Die Ausdohlung im Landwirtschaftsgebiet zwischen dem Waldrand und der neuen Mündung in den Wahlenbach auf Gemeindegebiet Laufen ist als Teil der Gesamtmelioration Wahlen geplant und der Kantonsbeitrag durch den Landrat am 14.6.2012 bewilligt worden.  Südast bleibt eingedolt. Ebenso weitere Drainagen im Gebiet Chilchstette - Neumatt.,85.201,Plan-link,Wahlen_Eindolungen_Bericht,,,Wahlen,Laufen
+85.202,Neuensteinbächli,920,900,20,,,,0,, -, -,,,,Wahlen,Laufen
+85.203,Grottenbächli,190,150,40,,,,0,, -, -,,,,Wahlen,Laufen
+85.204,Bännlibächli,180,170,10,,,,0,, -, -,,,,Wahlen,Laufen
+76.03,Birsig,2450,2170,280,,,,0,, -,,,,,Burg i.L.,Laufen
+76.176,Chaselbodenbach,230,230,0,,,,0,, -,,,,,Burg i.L.,Laufen
+76.201,Cholaggerbächli,60,40,20,,,,0,, -,,,,,Burg i.L.,Laufen
+74.167,Chälengrabenbach,1280,1250,30,,,,0,"Keine Drainagen oder grössere Eindolungen verzeichnet, da Wasser weitgehend im kalkigen Untergrund versickert. Bestehende Bachläufe weisen z.T. auch Versickerungsstrecken auf, in denen nur bei Starkniederschlägen ein oberflächlicher Wasserabfluss zu beobachten ist.", -, -,,,,Blauen,Laufen
+74.168,Schäftletebach,1900,1740,160,,,,0,"Keine Drainagen oder grössere Eindolungen verzeichnet, da Wasser weitgehend im kalkigen Untergrund versickert. Bestehende Bachläufe weisen z.T. auch Versickerungsstrecken auf, in denen nur bei Starkniederschlägen ein oberflächlicher Wasserabfluss zu beobachten ist.", -, -,,,,Blauen,Laufen
+74.169,Langimattbach,860,810,50,,,,0,"Keine Drainagen oder grössere Eindolungen verzeichnet, da Wasser weitgehend im kalkigen Untergrund versickert. Bestehende Bachläufe weisen z.T. auch Versickerungsstrecken auf, in denen nur bei Starkniederschlägen ein oberflächlicher Wasserabfluss zu beobachten ist.", -, -,,,,Blauen,Laufen
+74.170,Leisibodenbächli,430,430,0,,,,0,"Keine Drainagen oder grössere Eindolungen verzeichnet, da Wasser weitgehend im kalkigen Untergrund versickert. Bestehende Bachläufe weisen z.T. auch Versickerungsstrecken auf, in denen nur bei Starkniederschlägen ein oberflächlicher Wasserabfluss zu beobachten ist.", -, -,,,,Blauen,Laufen
+74.201,Stutzbächli,2180,2110,70,,,,0,"Keine Drainagen oder grössere Eindolungen verzeichnet, da Wasser weitgehend im kalkigen Untergrund versickert. Bestehende Bachläufe weisen z.T. auch Versickerungsstrecken auf, in denen nur bei Starkniederschlägen ein oberflächlicher Wasserabfluss zu beobachten ist.", -, -,,,,Blauen,Laufen
+74.202,Stutzhaldenbächli,520,450,70,,,,0,"Keine Drainagen oder grössere Eindolungen verzeichnet, da Wasser weitgehend im kalkigen Untergrund versickert. Bestehende Bachläufe weisen z.T. auch Versickerungsstrecken auf, in denen nur bei Starkniederschlägen ein oberflächlicher Wasserabfluss zu beobachten ist.", -, -,,,,Blauen,Laufen
+74.203,Läigruebenbächli,110,110,0,,,,0,"Keine Drainagen oder grössere Eindolungen verzeichnet, da Wasser weitgehend im kalkigen Untergrund versickert. Bestehende Bachläufe weisen z.T. auch Versickerungsstrecken auf, in denen nur bei Starkniederschlägen ein oberflächlicher Wasserabfluss zu beobachten ist.", -, -,,,,Blauen,Laufen
+74.204,Usserfeldbächli,100,100,0,,,,0,"Keine Drainagen oder grössere Eindolungen verzeichnet, da Wasser weitgehend im kalkigen Untergrund versickert. Bestehende Bachläufe weisen z.T. auch Versickerungsstrecken auf, in denen nur bei Starkniederschlägen ein oberflächlicher Wasserabfluss zu beobachten ist.", -, -,,,,Blauen,Laufen
+74.205,Hämmerlibächli,90,80,10,,,,0,"Keine Drainagen oder grössere Eindolungen verzeichnet, da Wasser weitgehend im kalkigen Untergrund versickert. Bestehende Bachläufe weisen z.T. auch Versickerungsstrecken auf, in denen nur bei Starkniederschlägen ein oberflächlicher Wasserabfluss zu beobachten ist.", -, -,,,,Blauen,Laufen
+78.02,Birs,3240,3240,0,,,,0,Revitalisierung gemäss Wasserbaukonzept, -,,,,,Duggingen,Laufen
+78.18,Seebach,1700,1700,0,,,,0,, -,,,,,Duggingen,Laufen
+78.51,Lolibach,1050,1000,50,,,,0,Bach verläuft bis zum Bahndamm offen,78.51,Plan-link,Duggingen_Eindolungen_Bericht,,,Duggingen,Laufen
+78.109,Schlossgrabenbach,40,40,0,,,,0,, -,,,,,Duggingen,Laufen
+78.179,Tugbach,1700,1050,650,,200,,2,"im Bereich unterhalb des Dorfes wäre Offenlegung grundsätzlich denkbar, technisch aber anspruchsvoll (steiles Gelände, Einzugsbereich Pumpwerk Gillmatten)", -,Plan-link,,,,Duggingen,Laufen
+78.180,Eigengrabenbach,340,330,10,,,,0,, -,,,,,Duggingen,Laufen
+78.201,Löchlismattbächli,360,320,40,,100,,4,"Offenlegung der Dainage  mit guter Wasserführung in Verlängerung des Südostastes prüfen,  Potential Verlängerung Nordostast unklar",78.201,Plan-link,Duggingen_Eindolungen_Bericht,,,Duggingen,Laufen
+78.202,Hollenbächli,230,200,30,,100,,3,"Offenlegung der Dainage denkbar (Wasserführung eher gering, zahlreiche Parzellen)",78.202,Plan-link,Duggingen_Eindolungen_Bericht,,,Duggingen,Laufen
+78.203,Lohenholzbach,200,120,80,,,,0,, -,,,,,Duggingen,Laufen
+79.02,Birs,2680,2680,0,,,,0,, -, -,,,,Grellingen,Laufen
+,auf früheren Karten verzeichneter Bachlauf aus dem Gebiet Stollenacker,600?,,> 400,,?,,?,"Verlauf und Wasserführung für den Abschnitt oberhalb des Siedlungsgebietes unklar, Freilegung grundsätzlich denkbar aber Gelände recht steil",S. 1,Plan-link,Grellingen_Eindolungen_Bericht,,,Grellingen,Laufen
+79.18,Seebach,100,70,30,,,,0,, -, -,,,,Grellingen,Laufen
+79.171,Ibach,50,50,0,,,,0,, -, -,,,,Grellingen,Laufen
+79.181,Chastelbach,1150,1130,20,,,,0,, -, -,,,,Grellingen,Laufen
+79.196,Barbarabach (Tunnel-Karstwasserableitung),790,0,790,,0,,0,Ableitung einer Karstquelle im Umfahrungstunnel Grellingen im Entwässerungssystem unter der Fahrbahn, -, -,,,,Grellingen,Laufen
+79.201,Dorfbach,130,0,130,,,,0,, -, -,,,,Grellingen,Laufen
+79.202,Junkernholzbächli,850,130,720,,,,2,"Wasserbaukonzept: Ausdolung im oberen Abschnitt und baulicher Hochwasserschutz im Siedlungsgebiet;   entgegen GeoView ist Bach im obern Abschnitt bis zum Wald hinauf eingedolt und verläuft durch Damwildgehege; im mittleren Abschnitt (Siedlungsgebiet) ist eine Offenlegung nicht machbar, allenfalls aber unterhalb der Kantonsstrasse (neue Führung entlang Weg)",79.202,Plan-link,Grellingen_Eindolungen_Bericht,,,Grellingen,Laufen
+86.02,Birs,4540,4540,0,,,,0,"gemäss Wasserbaukonzept: Abschnitte ausserhalb Siedlungsgebiet als Überflutungs-/Retentionsgebiet vorgesehen, im Siedlungsgebiet baulicher Hochwasserschutz", -, -,,,,Zwingen,Laufen
+86.16,Lüssel,1000,920,80,,,,0,, -, -,,,,Zwingen,Laufen
+86.168,Schäftletebach,580,320,260,,260,,4,Offene Bachführung entlang Weg ,86.168,Plan-link,Zwingen_Eindolungen_Bericht,,,Zwingen,Laufen
+86.169,Langimattbach,160,0,160,,150,,4,Offene Bachführung entlang Strasse,86.169,Plan-link,Zwingen_Eindolungen_Bericht,,,Zwingen,Laufen
+86.170,Leisibodenbächli,560,380,180,,,,?,Siedlungsgebiet, -, -,,,,Zwingen,Laufen
+86.174,Schällochbach,300,290,10,,,,0,, -, -,,,,Zwingen,Laufen
+86.190,Steighollenbach,50,0,50,,,,0,, -, -,,,,Zwingen,Laufen
+86.201,Kanal Papierfabrik (privat),1090,1040,50,,,,0,, -, -,,,,Zwingen,Laufen
+86.202,Fandelbach,1020,400,620,,> 500,,5,Ausdolung gemäss Wasserbaukonzept (hohe Priorität),86.202,Plan-link,Zwingen_Eindolungen_Bericht,,,Zwingen,Laufen
+86.203,Chleebodenbächli,250,230,20,,,,0,, -,,,,,Zwingen,Laufen
+86.204,Schorenrainbächli,170,140,30,,,,0,, -,,,,,Zwingen,Laufen
+84.17,Lützel,3140,3140,0,,,,0,ganzer Abschnitt als Überflutungs-/Retentionsgebiet gemäss Wasserbaukonzept vorgesehen; zusätzlich Revitalisierung einzelner Strecken, -, -,,,,Roeschenz,Laufen
+84.177,Schlegelhollenbach,2000,1880,120,,,,0,"im Oberlauf laut GeoView alles offen geführt ?   im untersten Abschnitt besteht offene Bachführung entlang dem Waldrand, welche aber saniert (ausgetieft) werden müsste",84.177,Plan-link,Roeschenz_Eindolungen_Bericht,,,Roeschenz,Laufen
+84.178,Schachletebach,280,280,0,,,,0,, -, -,,,,Roeschenz,Laufen
+84.185,Greifelbach,100,90,10,,,,0,, -, -,,,,Roeschenz,Laufen
+84.201,Ammegerstenbach,1820,1800,20,,,,0,, -, -,,,,Roeschenz,Laufen
+84.202,Wizlestenbach,1600,1500,100,,,,0,, -, -,,,,Roeschenz,Laufen
+84.203,Unzegrabenbach,220,220,0,,,,0,, -, -,,,,Roeschenz,Laufen
+84.204,Ober-Schachletebächli,350,340,10,,,,0,, -, -,,,,Roeschenz,Laufen
+84.205,Altbrunnenbächli,160,70,90,,,,0,, -, -,,,,Roeschenz,Laufen
+84.206,Hirsaggerbach,680,680,0,,,,0,, -, -,,,,Roeschenz,Laufen
+84.207,Brunnhollenbach,350,330,20,,,,0,, -, -,,,,Roeschenz,Laufen
+84.208,Herrenholzbächli,70,70,0,,,,0,, -, -,,,,Roeschenz,Laufen
+84.209,Brunnhollenbächli,100,80,20,,,,0,, -, -,,,,Roeschenz,Laufen
+84.210,Lützeltalbächli,70,70,0,,,,0,, -,,,,,Roeschenz,Laufen
+81.02,Birs,6300,6300,0,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept, -, -,,,,Liesberg,Laufen
+81.185,Greifelbach,1040,820,220,,,,0,Eindolung im Steinbruchareal, -,,,,,Liesberg,Laufen
+81.186,Löffelbach,1400,1350,50,,,,0,, -,,,,,Liesberg,Laufen
+81.187,Rohrbergbach,3020,2900,120,,,,0,, -,,,,,Liesberg,Laufen
+81.188,Höllbergbächli,130,110,20,,,,0,, -,,,,,Liesberg,Laufen
+81.189,Riselbächli,400,380,20,,,,0,, -,,,,,Liesberg,Laufen
+81.201,Meistelbach,1860,1700,160,,,,0,Eindolung im Steinbruchbereich, -,,,,,Liesberg,Laufen
+81.202,Mülibach,1720,420,1300,,,,0,Bachlauf bis zum Weiher Mülibach offen; für den Abschnitt entlang dem Sportplatz ist eine Ausdolung gemäss Wasserbaukonzept vorgesehen, -,,,,,Liesberg,Laufen
+S 1,Drainagen/Eindolung im Oberlauf des Mülibachs,,,,,100,1797; 1796,5,vernässte Stellen auf Parz. 1797 lassen auf defekte Drainagen/Eindolung schliessen,81.202,Plan-link,Liesberg_Eindolungen_Bericht,,,Liesberg,Laufen
+,Eindolung im Unterlauf des Mülibachs,,,,,> 400,div.,3,"Ausdolung grundsätzlich machbar, aufgrund der Parzellierung aber aufwändig",81.202,Plan-link,Liesberg_Eindolungen_Bericht,,,Liesberg,Laufen
+81.203,Unkelibrunnenbach,480,460,20,,,,0,, -,,,,,Liesberg,Laufen
+81.204,Spitzenbüelbach,1430,1330,100,,,,0,, -,,,,,Liesberg,Laufen
+81.205,Banholzbach,470,240,230,,,,0,"die im Gewässerverzeichnis dargestellte Eindolung im Waldareal ist sehr unwahrscheinlich, da steiles Blockschuttgelände und keine Anzeichen einer Eindolung. Schächte nur am Weg unten (für Ableitung unter dem Bahntrassee?).",81.205,Plan-link,Liesberg_Eindolungen_Bericht,,,Liesberg,Laufen
+81.206,Müscherligbächli,300,130,170,,,,0,, -,,,,,Liesberg,Laufen
+81.207,Hellbächli,350,320,30,,,,0,, -,,,,,Liesberg,Laufen
+77.02,Birs,610,610,0,,,,0,Revitalisierung gemäss Wasserbaukonzept, -, -,,,,Dittingen,Laufen
+77.167,Chälengrabenbach,960,130,830,,150,1491,0,offene Bachführung zumindest im obersten Abschnitt der Eindolung grundsätzlich denkbar (ev. nur Teilstrom ableiten); allenfalls Einschränkungen aufgrund der Lage im Randbereich der Grundwasserschutzzone Chälen?  Baulicher Hochwasserschutz gemäss Wasserbaukonzept,77.167,Plan-link,Dittingen_Eindolungen_Bericht,,,Dittingen,Laufen
+77.177,Schlegelhollenbach,2000,1880,120,,,,0,siehe 84.177 Gemeinde Röschenz, -, -,,,,Dittingen,Laufen
+77.178,Schachletebach,1050,750,300,,,,0,, -, -,,,,Dittingen,Laufen
+77.201,Dittingerbach,1750,760,990,,,,0,Renaturierung auf der ganzen Strecke zwischen Dorfkern und Mündung gemäss Richtplan vorgesehen; Wasserbaukonzept: baulicher Hochwasserschutz im Siedlungsgebiet und Ausdolung im Unterlauf , -,Plan-link,,,,Dittingen,Laufen
+77.202,Feisternaubach,2100,2040,60,,,,0,Baulicher Hochwasserschutz gemäss Wasserbaukonzept, -, -,,,,Dittingen,Laufen
+S1,Eintrag Siegfriedkarte,,,,,300,,0,kein natürliches Gewässer (? ehemaliger Gewerbekanal entlang Westhang), -, -,,,,Dittingen,Laufen
+75.02,Birs,2480,2480,0,,,,0,, -, -,,,,Dittingen,Laufen
+75.16,Lüssel,2050,2050,0,,,,0,Renaturierung auf der ganzen Strecke gemäss Richtplan vorgesehen, -,Plan-link,,,,Brislach,Laufen
+,Drainagesystem im Gebiet Leuengrund,> 500,0,> 500,,?,,4,Drainage verläuft im Wiesland und endet in Versickerungsdoline,75.16,Plan-link,Brislach_Eindolungen_Bericht,,,Brislach,Laufen
+,Drainagesystem östlich der Lüssel,> 500,0,> 500,,?,,4,"Drainage verläuft im Wiesland, dürfte allerdings nur nach Niederschlägen Wasser führen ",75.16,Plan-link,Brislach_Eindolungen_Bericht,,,Brislach,Laufen
+75.171,Ibach,3230,3230,0,,,,0,, -, -,,,,Brislach,Laufen
+75.172,Dürrbach,980,960,20,,,,0,, -, -,,,,Brislach,Laufen
+75.173,Schällbächli,2500,2460,40,,,,0,, -, -,,,,Brislach,Laufen
+,Drainagesystem im westlich des Schällbächlis,> 500,0,> 500,,?,,3,Drainage verläuft im intensiv genutzen Ackerland und dürfte nur nach Niederschlägen Wasser führen (kein Hang- oder Quellwasserzufluss),75.173,Plan-link,Brislach_Eindolungen_Bericht,,,Brislach,Laufen
+75.174,Schällochbach,900,870,30,,,,0,, -,,,,,Brislach,Laufen
+75.175,Diebach,430,0,430,,,,0,Abschnitt entlang Gemeindegrenze zu Laufen: Ausdolung gemäss Richtplan/Wasserbaukonzept vorgesehen, -,Plan-link,,,,Brislach,Laufen
+75.201,Cholersbrunnenbächli,100,100,0,,,,0,, -,,,,,Brislach,Laufen
+75.202,Schällhüslibächli,220,100,120,,,,0,, -,,,,,Brislach,Laufen
+,Drainagesystem im Einzugs-gebiet des Schällhüslibächlis,> 500,0,> 500,,?,,3,Drainage verläuft im intensiv genutzen Ackerland und dürfte nur nach Niederschlägen Wasser führen (kein Hang- oder Quellwasserzufluss),75.202,Plan-link,Brislach_Eindolungen_Bericht,,,Brislach,Laufen
+83.17,Lützel,5000,5000,0,,,,0,ganzer Abschnitt als Überflutungs-/Retentionsgebiet gemäss Wasserbaukonzept vorgesehen, -, -,,,,Roggenburg,Laufen
+83.191,Bösenbach,1050,1050,0,,,,0,, -, -,,,,Roggenburg,Laufen
+83.192,Baumgartenbächli,250,220,30,,,,0,Im GeoView gesamthaft als Röhrenbrunnenbächli (offen) dargestellt;                                       Baubeginn 09: Ausdolung im Mündungsgebiet in Lützel durch Gemeinde , -, -,,,,Roggenburg,Laufen
+83.193,Surtelbach,250,250,0,,,,0,, -, -,,,,Roggenburg,Laufen
+83.201,Stellibach,430,430,0,,,,0,, -, -,,,,Roggenburg,Laufen
+83.202,Oberstalbach,560,560,0,,700,,0,"Frühling 2010: Ausdolung im sog. ""Chalchboden"" durch Gemeinde", -, -,,,,Roggenburg,Laufen
+83.203,Neuhusbach,720,700,20,,,,0,GeoView: Brunnmattbach???, -, -,,,,Roggenburg,Laufen
+83.204,Ritzigrundbächli,280,260,20,,,,0,"Im GeoView gesamthaft als Röhrenbrunnenbächli (offen, 83.192) dargestellt;                                       Ausdolung ab ""Röhrenbrunnen"" bis Hof ""Unterer Ritzigrund"" 2010", -,Karte,,,,Roggenburg,Laufen
+83.204,Mäligrundbächli,60,60,,,,,0,Nur im GeoView verzeichneter kurzer Bachlauf nordöstlich des Dorfes, -,,,,,Roggenburg,Laufen
+83.205,Sägemühlekanal (privat),460,370,90,,,,0,, -, -,,,,Roggenburg,Laufen
+82.02,Birs,1800,1800,0,,,,0,, -, -,,,,Nenzlingen,Laufen
+82.169,Langimattbach,830,570,260,,120,div.,4,"Ausdolung gemäss Wasserbaukonzept im oberen Abschnitt (Gemeindegebiet Nenzlingen), unterer Abschnitt der Eindolung auf Gemeindegebiet Zwingen",82.169,Plan-link,Nenzlingen_Eindolungen_Bericht,,,Nenzlingen,Laufen
+82.190,Steighollenbach,260,80,180,,?,,3,"parallel zum Langibach prüfen, Wasserführung?", -,Plan-link,,,,Nenzlingen,Laufen
+82.201,Marchelbach,200,110,90,450,> 300,div.,4,"Projekt des Ing.büros W. Götz besteht. Im unteren Abschnitt des westlichen Drainagesystems gutes Potenzial, oberer Abschnitt vermutlich nur geringe Wasserführung; östlicher Ast mit gutem Potential falls genügende Wasserführung",82.201,Plan-link,Nenzlingen_Eindolungen_Bericht,,,Nenzlingen,Laufen
+82.202,Uelimattbach,290,110,180,,> 150,268,4,"Im Weideland bis zum Weg prüfen, oberhalb des Weges bei genügender Wasserführung (?) ev. teilweise Offfenlegung entlang Flurweg denkbar",82.202,Plan-link,Nenzlingen_Eindolungen_Bericht,,,Nenzlingen,Laufen
