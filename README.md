@@ -1,9 +1,14 @@
 # KURZ
 
-Werkzeug "Show Map Tips" auswählen
-Layer "Ausdolungspotenzial" auswählen
+ - Werkzeug "Show Map Tips" auswählen
 
--> Mit dem Cursor über den gewünschten Abschnitt fahren
+ - Layer "Ausdolungspotenzial" auswählen
+
+-> Mit dem Cursor über den gewünschten Abschnitt fahren.
+
+In der Sprechblase wird ein Verweis auf allfällige Bilder in den
+entsprechenden Bereichten angezeigt.
+
 
 # Ausdolungspotenzial im Kanton Baselland
 
@@ -39,51 +44,7 @@ Datei BL_Eindolungsinventar aufgeführt.
 
 ## Data
 
-### Datenquelle: BL_Eindolungesinventar.csv
 
-Daten des Eindolungsinventar der Fliessgewässer des Kantons
-Baselland. Informationen für jede Gemeinde einzeln von Arthur Rohrbach
-zusammengetragen. Alle Gemeinden aneinandergehängt.
-
-Variable                 Legende
-Gew_Nr	                 Gewässernummer aus kantonalem Gewässeregister
-Gew_Name	             Gewässername
-l_total 	             Gesamte Länge des Gewässer auf Gemeindeboden
-l_offen	                 Länge [m] des Gewässers offen
-l_offiziell_eingedolt	 Länge [m] des Gewässers offiziell eingedolt
-l_inoff_eingedolt	     Länge [m] des Gewässers inoffiziell eingedolt
-mögliche Ausdolung	     Länge [m] des Gewässers, die ausgedolt werden
-                         könnte
-Parzellen	             Parzellen
-Ausdolungspotenzial	     Ausdolungspotenzial aus den Beobachtungen bei
-                         der Erhebung 2012 von Pro Natura Baselland.
-                         6 = extrem hoch
-                         5 = sehr hoch
-                         4 = hoch
-                         3 = genügend
-                         2 = mässig
-                         1 = gering
-                         0 = kein
-                         - = Ausdolung nicht möglich, da bereits 
-						     offene Gewässer (als offenes Gewässer 
-							 gilt: TYP_VERL alle Kategorien die nicht
-							 "eingedolt")
-                         ? = Potenzial unklar, aber im Inventar
-                         NULL = Potenzial unklar und nicht im Inventar
-Bemerkung	             Bemerkungen aus den Beobachtungen bei der 
-                         Erhebung 2012 von Pro Natura Baselland. Teils
-						 nachgeführt bei bekannten Ausdolungsprojekten.
-Foto im Bericht	         Wenn Bilder erstellt wurden, sind sie im 
-                         Dokument (Ordner Berichte) unter "Informationsblatt"
-						 zu finden. Mit Beschriftung der Gewässernummer
-						 oder der Seitenzahl
-Link zu GeoView BL
-Informationsblatt	     Dokumentname des Berichts für jede Gemeinde 
-                         separat. "Gemeinde"_Eindolungen_Bericht.doc
-Eigentümer
-Bewirtschafter
-Gemeinde
-Bezirk
 
 ## Geodata
 
@@ -106,6 +67,55 @@ zuzüglich sind die Daten des Eindolungsinventars mit dem Prefix "BL_" versehen.
 
 Weitere Erklärungen zum Gewässernetz BL sind unter https://www.geo.bl.ch/datenbeschrieb_geodatenprodukt/50_Gewaessernetz_ESRI_Shapefile.pdf
 zugänglich.
+
+## Datenquelle: BL_Eindolungesinventar.csv
+
+ACHTUNG WIRD NICHT NACHGEPFLEGT!
+Die Daten sind hier nur der Vollständigkeit zuliebe abgelegt.
+Daten des Eindolungsinventar der Fliessgewässer des Kantons
+Baselland. Informationen für jede Gemeinde einzeln von Arthur Rohrbach
+zusammengetragen. Alle Gemeinden aneinandergehängt.
+
+
+| Variable               | Legende|
+|Gew_Nr	                 | Gewässernummer aus kantonalem Gewässeregister|
+|Gew_Name	             | Gewässername|
+|l_total 	             | Gesamte Länge des Gewässer auf Gemeindeboden|
+|l_offen	                 | Länge [m] des Gewässers offen|
+|l_offiziell_eingedolt	 | Länge [m] des Gewässers offiziell eingedolt|
+|l_inoff_eingedolt	     | Länge [m] des Gewässers inoffiziell eingedolt|
+|mögliche Ausdolung	     | Länge [m] des Gewässers, die ausgedolt werden|
+|                        | könnte|
+|Parzellen	             | Parzellen|
+|Ausdolungspotenzial     | Ausdolungspotenzial aus den Beobachtungen bei|
+|                        | der Erhebung 2012 von Pro Natura Baselland.|
+|                        | 6 = extrem hoch|
+|                        | 5 = sehr hoch|
+|                        | 4 = hoch|
+|                        | 3 = genügend|
+|                        | 2 = mässig|
+|                        | 1 = gering|
+|                        | 0 = kein|
+|                        | - = Ausdolung nicht möglich, da bereits |
+|						 |     offene Gewässer (als offenes Gewässer |
+|						 |  gilt: TYP_VERL alle Kategorien die nicht|
+|						 | 	 "eingedolt")|
+|                        | ? = Potenzial unklar, aber im Inventar|
+|                        | NULL = Potenzial unklar und nicht im Inventar|
+|Bemerkung	             | Bemerkungen aus den Beobachtungen bei der |
+|                        | Erhebung 2012 von Pro Natura Baselland. Teils|
+|						 | nachgeführt bei bekannten Ausdolungsprojekten.|
+|Foto im Bericht	     | Wenn Bilder erstellt wurden, sind sie im |
+|                        | Dokument (Ordner Berichte) unter "Informationsblatt"|
+|						 | zu finden. Mit Beschriftung der Gewässernummer|
+|						 | oder der Seitenzahl|
+|Link zu GeoView BL      |
+|Informationsblatt	     | Dokumentname des Berichts für jede Gemeinde |
+|                        | separat. "Gemeinde"_Eindolungen_Bericht.doc|
+|Eigentümer              | |
+|Bewirtschafter          | |
+|Gemeinde                | |
+|Bezirk                  | |
 
 ## Varia
 
