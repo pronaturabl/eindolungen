@@ -78,15 +78,15 @@ zusammengetragen. Alle Gemeinden aneinandergehängt.
 
 
 | Variable               | Legende|
+|------------------------|--------|
 |Gew_Nr	                 | Gewässernummer aus kantonalem Gewässeregister|
-|Gew_Name	             | Gewässername|
-|l_total 	             | Gesamte Länge des Gewässer auf Gemeindeboden|
-|l_offen	                 | Länge [m] des Gewässers offen|
-|l_offiziell_eingedolt	 | Länge [m] des Gewässers offiziell eingedolt|
-|l_inoff_eingedolt	     | Länge [m] des Gewässers inoffiziell eingedolt|
-|mögliche Ausdolung	     | Länge [m] des Gewässers, die ausgedolt werden|
-|                        | könnte|
-|Parzellen	             | Parzellen|
+|Gew_Name	               | Gewässername|
+|l_total 	               | Gesamte Länge des Gewässer auf Gemeindeboden|
+|l_offen	                | Länge [m] des Gewässers offen|
+|l_offiziell_eingedolt	  | Länge [m] des Gewässers offiziell eingedolt|
+|l_inoff_eingedolt	      | Länge [m] des Gewässers inoffiziell eingedolt|
+|mögliche Ausdolung	     | Länge [m] des Gewässers, die ausgedolt werden könnte|
+|Parzellen	              | Parzellen|
 |Ausdolungspotenzial     | Ausdolungspotenzial aus den Beobachtungen bei|
 |                        | der Erhebung 2012 von Pro Natura Baselland.|
 |                        | 6 = extrem hoch|
@@ -96,22 +96,14 @@ zusammengetragen. Alle Gemeinden aneinandergehängt.
 |                        | 2 = mässig|
 |                        | 1 = gering|
 |                        | 0 = kein|
-|                        | - = Ausdolung nicht möglich, da bereits |
-|						 |     offene Gewässer (als offenes Gewässer |
-|						 |  gilt: TYP_VERL alle Kategorien die nicht|
-|						 | 	 "eingedolt")|
+|                        | - = Ausdolung nicht möglich, da bereits offene Gewässer (als offenes Gewässer gilt: TYP_VERL alle Kategorien die nicht "eingedolt")|
 |                        | ? = Potenzial unklar, aber im Inventar|
 |                        | NULL = Potenzial unklar und nicht im Inventar|
-|Bemerkung	             | Bemerkungen aus den Beobachtungen bei der |
-|                        | Erhebung 2012 von Pro Natura Baselland. Teils|
-|						 | nachgeführt bei bekannten Ausdolungsprojekten.|
-|Foto im Bericht	     | Wenn Bilder erstellt wurden, sind sie im |
-|                        | Dokument (Ordner Berichte) unter "Informationsblatt"|
-|						 | zu finden. Mit Beschriftung der Gewässernummer|
-|						 | oder der Seitenzahl|
+|Bemerkung	              | Bemerkungen aus den Beobachtungen bei der Erhebung 2012 von Pro Natura Baselland. Teils nachgeführt bei bekannten Ausdolungsprojekten.|
+|Foto im Bericht	        | Wenn Bilder erstellt wurden, sind sie im |
+|                        | Dokument (Ordner Berichte) unter "Informationsblatt" zu finden. Mit Beschriftung der Gewässernummer oder der Seitenzahl|
 |Link zu GeoView BL      |
-|Informationsblatt	     | Dokumentname des Berichts für jede Gemeinde |
-|                        | separat. "Gemeinde"_Eindolungen_Bericht.doc|
+|Informationsblatt	      | Dokumentname des Berichts für jede Gemeinde separat. <GEMEINDE>_Eindolungen_Bericht.doc|
 |Eigentümer              | |
 |Bewirtschafter          | |
 |Gemeinde                | |
